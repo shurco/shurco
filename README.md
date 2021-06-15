@@ -13,7 +13,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔭 Latest releases I've contributed to
 
-- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) ([v1.16.2](https://github.com/chatwoot/chatwoot/releases/tag/v1.16.2), 4 weeks ago) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) ([v1.17.0](https://github.com/chatwoot/chatwoot/releases/tag/v1.17.0), today) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 
 #### 🔨 My recent Pull Requests
 
