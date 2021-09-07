@@ -34,11 +34,6 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-#### ❤️ These awesome people sponsor me (thank you!)
-{{range sponsors 5}}
-- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
 #### 💬 Feedback
 
 If you use one of my projects, I'd love to hear from you! Don't be shy and let me know what you liked
