@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ![](https://github.com/shurco/shurco/raw/output/github-contribution-grid-snake.svg)
-
 I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of Werbot. 
 
 #### 👷 Check out what I'm currently working on
