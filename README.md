@@ -18,9 +18,6 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 - [shurco/factios](https://github.com/shurco/factios) - A collection of interesting and informative facts-cards.
 - [shurco/nginx-push-stream-module](https://github.com/shurco/nginx-push-stream-module) - Docker alpine Nginx with push-stream-module
 
-#### 🔭 Latest releases I've contributed to
-
-
 #### 🔨 My recent Pull Requests
 
 - [Update README.md](https://github.com/vood/gomel_head_count/pull/1) on [vood/gomel_head_count](https://github.com/vood/gomel_head_count) (1 year ago)
