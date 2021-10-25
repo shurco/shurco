@@ -6,7 +6,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (6 days ago)
+- [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (1 week ago)
 - [shurco/nginx-push-stream-module](https://github.com/shurco/nginx-push-stream-module) - Docker alpine Nginx with push-stream-module (1 month ago)
 - [shurco/factios](https://github.com/shurco/factios) - A collection of interesting and informative facts-cards. (3 months ago)
 - [shurco/factios-db](https://github.com/shurco/factios-db) - Database for site https://factios.com and repository https://github.com/shurco/factios (3 months ago)
@@ -33,7 +33,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 #### ⭐ Recent Stars
 
 - [panubo/docker-sshd](https://github.com/panubo/docker-sshd) - Minimal Alpine Linux Docker image with sshd exposed and rsync installed (6 months ago)
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. (6 months ago)
+- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. (7 months ago)
 - [shurco/nginx-push-stream-module](https://github.com/shurco/nginx-push-stream-module) - Docker alpine Nginx with push-stream-module (11 months ago)
 - [x1unix/go-playground](https://github.com/x1unix/go-playground) - Better Go Playground powered by React and Monaco editor (2 years ago)
 - [deluan/bring](https://github.com/deluan/bring) - Remote control library for the Apache Guacamole protocol (RDP/VNC) (2 years ago)
