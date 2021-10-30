@@ -28,7 +28,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 📓 Gists I wrote
 
-- [Keybase proof](https://gist.github.com/959752bb9b046d792e71ca185f48d641) (1 year ago)
+- [Keybase proof](https://gist.github.com/959752bb9b046d792e71ca185f48d641) (2 years ago)
 
 #### ⭐ Recent Stars
 
