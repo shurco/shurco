@@ -6,7 +6,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (2 weeks ago)
+- [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (3 weeks ago)
 - [shurco/nginx-push-stream-module](https://github.com/shurco/nginx-push-stream-module) - Docker alpine Nginx with push-stream-module (2 months ago)
 - [shurco/factios](https://github.com/shurco/factios) - A collection of interesting and informative facts-cards. (3 months ago)
 - [shurco/factios-db](https://github.com/shurco/factios-db) - Database for site https://factios.com and repository https://github.com/shurco/factios (3 months ago)
