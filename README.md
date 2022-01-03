@@ -21,7 +21,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 #### 🔨 My recent Pull Requests
 
 - [Update README.md](https://github.com/vood/gomel_head_count/pull/1) on [vood/gomel_head_count](https://github.com/vood/gomel_head_count) (1 year ago)
-- [Update Heroku deploy](https://github.com/chatwoot/chatwoot/pull/1030) on [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) (1 year ago)
+- [Update Heroku deploy](https://github.com/chatwoot/chatwoot/pull/1030) on [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) (2 years ago)
 - [Create LICENSE](https://github.com/werbot/lime/pull/1) on [werbot/lime](https://github.com/werbot/lime) (2 years ago)
 - [Update index.md](https://github.com/agentejo/cockpit-docs/pull/18) on [agentejo/cockpit-docs](https://github.com/agentejo/cockpit-docs) (3 years ago)
 - [small update](https://github.com/harbur/passport-digitalocean/pull/1) on [harbur/passport-digitalocean](https://github.com/harbur/passport-digitalocean) (3 years ago)
