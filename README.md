@@ -20,7 +20,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [Update README.md](https://github.com/vood/gomel_head_count/pull/1) on [vood/gomel_head_count](https://github.com/vood/gomel_head_count) (1 year ago)
+- [Update README.md](https://github.com/vood/gomel_head_count/pull/1) on [vood/gomel_head_count](https://github.com/vood/gomel_head_count) (2 years ago)
 - [Update Heroku deploy](https://github.com/chatwoot/chatwoot/pull/1030) on [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) (2 years ago)
 - [Create LICENSE](https://github.com/werbot/lime/pull/1) on [werbot/lime](https://github.com/werbot/lime) (2 years ago)
 - [Update index.md](https://github.com/agentejo/cockpit-docs/pull/18) on [agentejo/cockpit-docs](https://github.com/agentejo/cockpit-docs) (3 years ago)
@@ -32,7 +32,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [aopoltorzhicky/go_kraken](https://github.com/aopoltorzhicky/go_kraken) - Go library for Kraken Websocket and REST API (3 days ago)
+- [aopoltorzhicky/go_kraken](https://github.com/aopoltorzhicky/go_kraken) - Go library for Kraken Websocket and REST API (4 days ago)
 - [shurco/nginx-push-stream-module](https://github.com/shurco/nginx-push-stream-module) - Docker alpine Nginx with push-stream-module (1 week ago)
 - [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (1 month ago)
 - [panubo/docker-sshd](https://github.com/panubo/docker-sshd) - Minimal Alpine Linux Docker image with sshd exposed and rsync installed (8 months ago)
