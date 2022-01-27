@@ -32,7 +32,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [aopoltorzhicky/go_kraken](https://github.com/aopoltorzhicky/go_kraken) - Go library for Kraken Websocket and REST API (1 week ago)
+- [aopoltorzhicky/go_kraken](https://github.com/aopoltorzhicky/go_kraken) - Go library for Kraken Websocket and REST API (2 weeks ago)
 - [shurco/nginx-push-stream-module](https://github.com/shurco/nginx-push-stream-module) - Docker alpine Nginx with push-stream-module (2 weeks ago)
 - [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (1 month ago)
 - [panubo/docker-sshd](https://github.com/panubo/docker-sshd) - Minimal Alpine Linux Docker image with sshd exposed and rsync installed (9 months ago)
