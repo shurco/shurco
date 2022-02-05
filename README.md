@@ -32,10 +32,10 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables (2 days ago)
-- [afiskon/promtail-client](https://github.com/afiskon/promtail-client) - Promtail client library. Promtail is an agent for Loki logging system. (4 days ago)
+- [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables (3 days ago)
+- [afiskon/promtail-client](https://github.com/afiskon/promtail-client) - Promtail client library. Promtail is an agent for Loki logging system. (5 days ago)
 - [aopoltorzhicky/go_kraken](https://github.com/aopoltorzhicky/go_kraken) - Go library for Kraken Websocket and REST API (3 weeks ago)
-- [shurco/nginx-push-stream-module](https://github.com/shurco/nginx-push-stream-module) - Docker alpine Nginx with push-stream-module (3 weeks ago)
+- [shurco/nginx-push-stream-module](https://github.com/shurco/nginx-push-stream-module) - Docker alpine Nginx with push-stream-module (4 weeks ago)
 - [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (2 months ago)
 
 #### 💬 Feedback
