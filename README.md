@@ -10,7 +10,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 - [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (2 months ago)
 - [werbot/php](https://github.com/werbot/php) - Docker container with PHP (3 months ago)
 - [shurco/factios](https://github.com/shurco/factios) - A collection of interesting and informative facts-cards. (6 months ago)
-- [shurco/factios-db](https://github.com/shurco/factios-db) - Database for site https://factios.com and repository https://github.com/shurco/factios (6 months ago)
+- [shurco/factios-db](https://github.com/shurco/factios-db) - Database for site https://factios.com and repository https://github.com/shurco/factios (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -33,7 +33,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 #### ⭐ Recent Stars
 
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables (1 week ago)
-- [afiskon/promtail-client](https://github.com/afiskon/promtail-client) - Promtail client library. Promtail is an agent for Loki logging system. (1 week ago)
+- [afiskon/promtail-client](https://github.com/afiskon/promtail-client) - Promtail client library. Promtail is an agent for Loki logging system. (2 weeks ago)
 - [aopoltorzhicky/go_kraken](https://github.com/aopoltorzhicky/go_kraken) - Go library for Kraken Websocket and REST API (1 month ago)
 - [shurco/nginx-push-stream-module](https://github.com/shurco/nginx-push-stream-module) - Docker alpine Nginx with push-stream-module (1 month ago)
 - [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (2 months ago)
