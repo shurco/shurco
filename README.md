@@ -6,10 +6,10 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/factios](https://github.com/shurco/factios) - A collection of interesting and informative facts-cards. (today)
-- [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (5 days ago)
-- [shurco/nginx-push-stream-module](https://github.com/shurco/nginx-push-stream-module) - Docker alpine Nginx with push-stream-module (5 days ago)
-- [werbot/lime](https://github.com/werbot/lime) - 🍋 Very light license-key server (6 days ago)
+- [shurco/factios](https://github.com/shurco/factios) - A collection of interesting and informative facts-cards. (1 day ago)
+- [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (6 days ago)
+- [shurco/nginx-push-stream-module](https://github.com/shurco/nginx-push-stream-module) - Docker alpine Nginx with push-stream-module (6 days ago)
+- [werbot/lime](https://github.com/werbot/lime) - 🍋 Very light license-key server (1 week ago)
 - [shurco/factios-db](https://github.com/shurco/factios-db) - Database for site https://factios.com and repository https://github.com/shurco/factios (7 months ago)
 
 #### 🌱 My latest projects
@@ -32,7 +32,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables (2 weeks ago)
+- [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables (3 weeks ago)
 - [afiskon/promtail-client](https://github.com/afiskon/promtail-client) - Promtail client library. Promtail is an agent for Loki logging system. (3 weeks ago)
 - [aopoltorzhicky/go_kraken](https://github.com/aopoltorzhicky/go_kraken) - Go library for Kraken Websocket and REST API (1 month ago)
 - [shurco/nginx-push-stream-module](https://github.com/shurco/nginx-push-stream-module) - Docker alpine Nginx with push-stream-module (1 month ago)
