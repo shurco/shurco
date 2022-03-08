@@ -32,11 +32,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [werbot/installation](https://github.com/werbot/installation) - 🚀 Installing the Enterprise version on your server (today)
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables (1 month ago)
 - [afiskon/promtail-client](https://github.com/afiskon/promtail-client) - Promtail client library. Promtail is an agent for Loki logging system. (1 month ago)
 - [aopoltorzhicky/go_kraken](https://github.com/aopoltorzhicky/go_kraken) - Go library for Kraken Websocket and REST API (1 month ago)
 - [shurco/nginx-push-stream-module](https://github.com/shurco/nginx-push-stream-module) - Docker alpine Nginx with push-stream-module (1 month ago)
-- [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (3 months ago)
 
 #### 💬 Feedback
 
