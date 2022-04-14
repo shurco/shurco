@@ -32,7 +32,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.  (6 days ago)
+- [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.  (1 week ago)
 - [werbot/installation](https://github.com/werbot/installation) - 🚀 Installing the Enterprise version on your server (1 month ago)
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables (2 months ago)
 - [afiskon/promtail-client](https://github.com/afiskon/promtail-client) - Promtail client library. Promtail is an agent for Loki logging system. (2 months ago)
