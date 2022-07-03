@@ -32,7 +32,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [timostamm/protobuf-ts](https://github.com/timostamm/protobuf-ts) - Protobuf and RPC for TypeScript (1 week ago)
+- [timostamm/protobuf-ts](https://github.com/timostamm/protobuf-ts) - Protobuf and RPC for TypeScript (2 weeks ago)
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.  (2 months ago)
 - [werbot/installation](https://github.com/werbot/installation) - 🚀 Installing the Enterprise version on your server (3 months ago)
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables (5 months ago)
