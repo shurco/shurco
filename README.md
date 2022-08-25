@@ -1,14 +1,16 @@
 ### Hi there 👋
 
+![](https://github.com/shurco/shurco/raw/output/github-contribution-grid-snake.svg)
+
 I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of Werbot. 
 
 #### 👷 Check out what I'm currently working on
 
-- [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (1 week ago)
+- [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (today)
+- [shurco/nginx-push-stream-module](https://github.com/shurco/nginx-push-stream-module) - Docker alpine Nginx with push-stream-module (today)
 - [werbot/installation](https://github.com/werbot/installation) - 🚀 Installing the Enterprise version on your server (5 months ago)
 - [werbot/lime](https://github.com/werbot/lime) - 🍋 Very light license-key server (6 months ago)
 - [shurco/factios](https://github.com/shurco/factios) - A collection of interesting and informative facts-cards. (6 months ago)
-- [shurco/nginx-push-stream-module](https://github.com/shurco/nginx-push-stream-module) - Docker alpine Nginx with push-stream-module (6 months ago)
 
 #### 🌱 My latest projects
 
