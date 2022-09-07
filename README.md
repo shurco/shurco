@@ -6,8 +6,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (1 day ago)
-- [shurco/nginx-push-stream-module](https://github.com/shurco/nginx-push-stream-module) - Docker alpine Nginx with push-stream-module (6 days ago)
+- [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (2 days ago)
+- [shurco/nginx-push-stream-module](https://github.com/shurco/nginx-push-stream-module) - Docker alpine Nginx with push-stream-module (1 week ago)
 - [werbot/installation](https://github.com/werbot/installation) - 🚀 Installing the Enterprise version on your server (6 months ago)
 - [werbot/lime](https://github.com/werbot/lime) - 🍋 Very light license-key server (6 months ago)
 - [shurco/factios](https://github.com/shurco/factios) - A collection of interesting and informative facts-cards. (6 months ago)
@@ -32,7 +32,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (today)
+- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (1 day ago)
 - [storj/drpc](https://github.com/storj/drpc) - drpc is a lightweight, drop-in replacement for gRPC (1 week ago)
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, predictable shells and containers. (1 week ago)
 - [timostamm/protobuf-ts](https://github.com/timostamm/protobuf-ts) - Protobuf and RPC for TypeScript (2 months ago)
