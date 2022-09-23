@@ -7,7 +7,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 #### 👷 Check out what I'm currently working on
 
 - [werbot/install.werbot.com](https://github.com/werbot/install.werbot.com) - 🚀 The script for installing Werbot (today)
-- [werbot/werbot](https://github.com/werbot/werbot) -  (today)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔐 Easy audit, control and secure sharing of servers access (today)
 - [werbot/version.werbot.com](https://github.com/werbot/version.werbot.com) - 📡 The domain endpoint for declaring the latest published version of the Webot components. (today)
 - [werbot/.github](https://github.com/werbot/.github) -  (today)
 - [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (2 weeks ago)
