@@ -6,7 +6,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/install.werbot.com](https://github.com/werbot/install.werbot.com) - 🚀 The script for installing Werbot (1 day ago)
+- [werbot/install.werbot.com](https://github.com/werbot/install.werbot.com) - 🚀 The script for installing Werbot (today)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔐 Easy audit, control and secure sharing of servers access (3 days ago)
 - [werbot/version.werbot.com](https://github.com/werbot/version.werbot.com) - 📡 The domain endpoint for declaring the latest published version of the Webot components. (3 days ago)
 - [werbot/.github](https://github.com/werbot/.github) -  (3 days ago)
