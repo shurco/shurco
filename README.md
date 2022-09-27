@@ -6,10 +6,10 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/install.werbot.com](https://github.com/werbot/install.werbot.com) - 🚀 The script for installing Werbot (today)
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔐 Easy audit, control and secure sharing of servers access (3 days ago)
-- [werbot/version.werbot.com](https://github.com/werbot/version.werbot.com) - 📡 The domain endpoint for declaring the latest published version of the Webot components. (3 days ago)
-- [werbot/.github](https://github.com/werbot/.github) -  (3 days ago)
+- [werbot/install.werbot.com](https://github.com/werbot/install.werbot.com) - 🚀 The script for installing Werbot (1 day ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔐 Easy audit, control and secure sharing of servers access (4 days ago)
+- [werbot/version.werbot.com](https://github.com/werbot/version.werbot.com) - 📡 The domain endpoint for declaring the latest published version of the Webot components. (4 days ago)
+- [werbot/.github](https://github.com/werbot/.github) -  (4 days ago)
 - [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -32,9 +32,9 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [werbot/version.werbot.com](https://github.com/werbot/version.werbot.com) - 📡 The domain endpoint for declaring the latest published version of the Webot components. (1 day ago)
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔐 Easy audit, control and secure sharing of servers access (1 day ago)
-- [werbot/install.werbot.com](https://github.com/werbot/install.werbot.com) - 🚀 The script for installing Werbot (1 day ago)
+- [werbot/version.werbot.com](https://github.com/werbot/version.werbot.com) - 📡 The domain endpoint for declaring the latest published version of the Webot components. (2 days ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔐 Easy audit, control and secure sharing of servers access (2 days ago)
+- [werbot/install.werbot.com](https://github.com/werbot/install.werbot.com) - 🚀 The script for installing Werbot (2 days ago)
 - [gookit/goutil](https://github.com/gookit/goutil) - 💪 Helper Utils For Go: int, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的一些工具函数，数字，字符串，数组，Map，文件，错误，时间日期，特殊处理，格式化，常用信息获取等等 (1 week ago)
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (1 week ago)
 
