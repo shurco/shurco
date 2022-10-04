@@ -6,7 +6,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/install.werbot.com](https://github.com/werbot/install.werbot.com) - 🚀 The script for installing Werbot (2 days ago)
+- [werbot/install.werbot.com](https://github.com/werbot/install.werbot.com) - 🚀 The script for installing Werbot (3 days ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔐 Easy audit, control and secure sharing of servers access (1 week ago)
 - [werbot/version.werbot.com](https://github.com/werbot/version.werbot.com) - 📡 The domain endpoint for declaring the latest published version of the Webot components. (1 week ago)
 - [werbot/.github](https://github.com/werbot/.github) -  (1 week ago)
@@ -32,7 +32,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 - [werbot/version.werbot.com](https://github.com/werbot/version.werbot.com) - 📡 The domain endpoint for declaring the latest published version of the Webot components. (1 week ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔐 Easy audit, control and secure sharing of servers access (1 week ago)
 - [werbot/install.werbot.com](https://github.com/werbot/install.werbot.com) - 🚀 The script for installing Werbot (1 week ago)
