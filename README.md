@@ -6,7 +6,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/.github](https://github.com/werbot/.github) -  (5 days ago)
+- [werbot/.github](https://github.com/werbot/.github) -  (6 days ago)
 - [werbot/install.werbot.com](https://github.com/werbot/install.werbot.com) - 🚀 The script for installing Werbot (2 weeks ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🚚 Single sign-on solution for easy and secure sharing of servers, databases or app access (1 month ago)
 - [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (1 month ago)
@@ -31,7 +31,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [kubesphere/tower](https://github.com/kubesphere/tower) - Proxy for multiple Kubernetes cluster communication (5 days ago)
+- [kubesphere/tower](https://github.com/kubesphere/tower) - Proxy for multiple Kubernetes cluster communication (6 days ago)
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects (4 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🚚 Single sign-on solution for easy and secure sharing of servers, databases or app access (1 month ago)
