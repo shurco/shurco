@@ -31,11 +31,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - The community-led growth platform, built with developers in mind. (today)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔥 Single sign-on solution for easy and secure sharing of servers, databases or app access (today)
 - [kubesphere/tower](https://github.com/kubesphere/tower) - Proxy for multiple Kubernetes cluster communication (1 week ago)
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects (1 month ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔥 Single sign-on solution for easy and secure sharing of servers, databases or app access (1 month ago)
-- [werbot/install.werbot.com](https://github.com/werbot/install.werbot.com) - 🚀 The script for installing Werbot (1 month ago)
 
 #### 💬 Feedback
 
