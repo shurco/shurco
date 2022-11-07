@@ -6,7 +6,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔥 Single sign-on solution for easy and secure sharing of servers, databases or app access (1 day ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔥 Single sign-on solution for easy and secure sharing of servers, databases or app access (today)
 - [werbot/.github](https://github.com/werbot/.github) -  (1 week ago)
 - [werbot/install.werbot.com](https://github.com/werbot/install.werbot.com) - 🚀 The script for installing Werbot (3 weeks ago)
 - [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (2 months ago)
@@ -20,10 +20,10 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
+- [Apply fixes from CodeFactor](https://github.com/werbot/werbot/pull/3) on [werbot/werbot](https://github.com/werbot/werbot) (today)
 - [Update README.md](https://github.com/vood/gomel_head_count/pull/1) on [vood/gomel_head_count](https://github.com/vood/gomel_head_count) (2 years ago)
 - [Update Heroku deploy](https://github.com/chatwoot/chatwoot/pull/1030) on [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) (2 years ago)
 - [Create LICENSE](https://github.com/werbot/lime/pull/1) on [werbot/lime](https://github.com/werbot/lime) (2 years ago)
-- [Update index.md](https://github.com/agentejo/cockpit-docs/pull/18) on [agentejo/cockpit-docs](https://github.com/agentejo/cockpit-docs) (4 years ago)
 
 #### 📓 Gists I wrote
 
