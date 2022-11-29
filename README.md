@@ -6,11 +6,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔥 Single sign-on solution for easy and secure sharing of servers, databases or app access (1 day ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔥 Single sign-on solution for easy and secure sharing of servers, databases or app access (today)
 - [werbot/.github](https://github.com/werbot/.github) -  (1 month ago)
 - [werbot/install.werbot.com](https://github.com/werbot/install.werbot.com) - 🚀 The script for installing Werbot (1 month ago)
 - [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (2 months ago)
-- [shurco/nginx-push-stream-module](https://github.com/shurco/nginx-push-stream-module) - Docker alpine Nginx with push-stream-module (2 months ago)
+- [shurco/nginx-push-stream-module](https://github.com/shurco/nginx-push-stream-module) - Docker alpine Nginx with push-stream-module (3 months ago)
 
 #### 🌱 My latest projects
 
