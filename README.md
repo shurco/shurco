@@ -6,8 +6,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Single sign-on solution for easy and secure sharing of servers, databases or app access (today)
-- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot Web Applications (today)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Single sign-on solution for easy and secure sharing of servers, databases or app access (1 day ago)
+- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot Web Applications (1 day ago)
 - [werbot/.github](https://github.com/werbot/.github) -  (2 weeks ago)
 - [werbot/install.werbot.com](https://github.com/werbot/install.werbot.com) - 🚀 The script for installing Werbot (2 months ago)
 - [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (3 months ago)
@@ -31,9 +31,9 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot Web Applications (today)
+- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot Web Applications (1 day ago)
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models (2 weeks ago)
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Single sign-on solution for easy and secure sharing of servers, databases or app access (3 weeks ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Single sign-on solution for easy and secure sharing of servers, databases or app access (4 weeks ago)
 - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - The community-led growth platform, built with developers in mind. (1 month ago)
 - [kubesphere/tower](https://github.com/kubesphere/tower) - Proxy for multiple Kubernetes cluster communication (2 months ago)
 
