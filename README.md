@@ -31,7 +31,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot Web Applications (2 weeks ago)
+- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot Web Applications (3 weeks ago)
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models (1 month ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Single sign-on solution for easy and secure sharing of servers, databases or app access (1 month ago)
 - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - The community-led growth platform, built with developers in mind. (2 months ago)
