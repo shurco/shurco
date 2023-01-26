@@ -6,8 +6,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Single sign-on solution for easy and secure sharing of servers, databases or app access (1 day ago)
-- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot Web Applications (5 days ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Single sign-on solution for easy and secure sharing of servers, databases or app access (2 days ago)
+- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot Web Applications (6 days ago)
 - [werbot/werbot.ee](https://github.com/werbot/werbot.ee) - 🏭 Werbot Enterprise Edition (1 week ago)
 - [werbot/.github](https://github.com/werbot/.github) -  (1 month ago)
 - [werbot/install.werbot.com](https://github.com/werbot/install.werbot.com) - 🚀 The script for installing Werbot (3 months ago)
@@ -20,7 +20,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [✨ feat: Added server firewall](https://github.com/werbot/werbot.web/pull/3) on [werbot/werbot.web](https://github.com/werbot/werbot.web) (6 days ago)
+- [✨ feat: Added server firewall](https://github.com/werbot/werbot.web/pull/3) on [werbot/werbot.web](https://github.com/werbot/werbot.web) (1 week ago)
 - [Apply fixes from CodeFactor](https://github.com/werbot/werbot/pull/3) on [werbot/werbot](https://github.com/werbot/werbot) (2 months ago)
 - [Update README.md](https://github.com/vood/gomel_head_count/pull/1) on [vood/gomel_head_count](https://github.com/vood/gomel_head_count) (2 years ago)
 - [Update Heroku deploy](https://github.com/chatwoot/chatwoot/pull/1030) on [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) (2 years ago)
