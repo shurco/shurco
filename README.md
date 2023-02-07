@@ -6,8 +6,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Single sign-on solution for easy and secure sharing of servers, databases or app access (today)
-- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot Web Applications (3 days ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#39;1Password&#39; for servers and team - open source solution with single sign-on for easy and secure sharing of servers, databases, or app access (today)
+- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot Web Applications (today)
 - [werbot/werbot.ee](https://github.com/werbot/werbot.ee) - 🏭 Werbot Enterprise Edition (3 weeks ago)
 - [werbot/.github](https://github.com/werbot/.github) -  (1 month ago)
 - [werbot/install.werbot.com](https://github.com/werbot/install.werbot.com) - 🚀 The script for installing Werbot (3 months ago)
@@ -33,7 +33,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 - [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot Web Applications (1 month ago)
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models (1 month ago)
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Single sign-on solution for easy and secure sharing of servers, databases or app access (2 months ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#39;1Password&#39; for servers and team - open source solution with single sign-on for easy and secure sharing of servers, databases, or app access (2 months ago)
 - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - The community-led growth platform, built with developers in mind. (3 months ago)
 - [kubesphere/tower](https://github.com/kubesphere/tower) - Proxy for multiple Kubernetes cluster communication (3 months ago)
 
