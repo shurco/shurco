@@ -6,8 +6,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#39;1Password&#39; for servers and team - open source solution with single sign-on for easy and secure sharing of servers, databases, or app access (today)
-- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot Web Applications (today)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#39;1Password&#39; for servers and team - open source solution with single sign-on for easy and secure sharing of servers, databases, or app access (1 day ago)
+- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot Web Applications (1 day ago)
 - [werbot/werbot.ee](https://github.com/werbot/werbot.ee) - 🏭 Werbot Enterprise Edition (3 weeks ago)
 - [werbot/.github](https://github.com/werbot/.github) -  (1 month ago)
 - [werbot/install.werbot.com](https://github.com/werbot/install.werbot.com) - 🚀 The script for installing Werbot (3 months ago)
@@ -20,7 +20,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [✨ feat: Added server firewall](https://github.com/werbot/werbot.web/pull/3) on [werbot/werbot.web](https://github.com/werbot/werbot.web) (2 weeks ago)
+- [✨ feat: Added server firewall](https://github.com/werbot/werbot.web/pull/3) on [werbot/werbot.web](https://github.com/werbot/werbot.web) (3 weeks ago)
 - [Apply fixes from CodeFactor](https://github.com/werbot/werbot/pull/3) on [werbot/werbot](https://github.com/werbot/werbot) (3 months ago)
 - [Update README.md](https://github.com/vood/gomel_head_count/pull/1) on [vood/gomel_head_count](https://github.com/vood/gomel_head_count) (2 years ago)
 - [Update Heroku deploy](https://github.com/chatwoot/chatwoot/pull/1030) on [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) (2 years ago)
@@ -32,7 +32,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 #### ⭐ Recent Stars
 
 - [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot Web Applications (1 month ago)
-- [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models (1 month ago)
+- [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models (2 months ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#39;1Password&#39; for servers and team - open source solution with single sign-on for easy and secure sharing of servers, databases, or app access (2 months ago)
 - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - The community-led growth platform, built with developers in mind. (3 months ago)
 - [kubesphere/tower](https://github.com/kubesphere/tower) - Proxy for multiple Kubernetes cluster communication (3 months ago)
