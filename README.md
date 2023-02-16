@@ -6,7 +6,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#39;1Password&#39; for servers and teams - open source solution with single sign-on for easy and secure sharing of servers, databases, or app access (1 day ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#39;1Password&#39; for servers and teams - open source solution with single sign-on for easy and secure sharing of servers, databases, or app access (today)
 - [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot Web Applications (1 day ago)
 - [werbot/install.werbot.com](https://github.com/werbot/install.werbot.com) - 🚀 The script for installing Werbot (5 days ago)
 - [werbot/.github](https://github.com/werbot/.github) -  (5 days ago)
