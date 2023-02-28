@@ -6,8 +6,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#39;1Password&#39; for servers and teams - open source solution with single sign-on for easy and secure sharing of servers, databases, or app access (today)
-- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot Web Applications (5 days ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#39;1Password&#39; for servers and teams - open source solution with single sign-on for easy and secure sharing of servers, databases, or app access (1 day ago)
+- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot Web Applications (6 days ago)
 - [werbot/install.werbot.com](https://github.com/werbot/install.werbot.com) - 🚀 The script for installing Werbot (2 weeks ago)
 - [werbot/.github](https://github.com/werbot/.github) -  (2 weeks ago)
 - [werbot/werbot.ee](https://github.com/werbot/werbot.ee) - 🏭 Werbot Enterprise Edition (2 weeks ago)
@@ -31,7 +31,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [jech/galene](https://github.com/jech/galene) - The Galène videoconference server (1 week ago)
+- [jech/galene](https://github.com/jech/galene) - The Galène videoconference server (2 weeks ago)
 - [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot Web Applications (2 months ago)
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models (2 months ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#39;1Password&#39; for servers and teams - open source solution with single sign-on for easy and secure sharing of servers, databases, or app access (3 months ago)
