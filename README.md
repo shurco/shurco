@@ -6,10 +6,10 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (today)
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#34;1Password&#34; for servers and teams - open source solution with single sign-on for easy and secure sharing of servers, databases, or app access (1 day ago)
-- [werbot/install.werbot.com](https://github.com/werbot/install.werbot.com) - 🚀 The script for installing Werbot (2 weeks ago)
-- [werbot/.github](https://github.com/werbot/.github) -  (2 weeks ago)
+- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (1 day ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#34;1Password&#34; for servers and teams - open source solution with single sign-on for easy and secure sharing of servers, databases, or app access (2 days ago)
+- [werbot/install.werbot.com](https://github.com/werbot/install.werbot.com) - 🚀 The script for installing Werbot (3 weeks ago)
+- [werbot/.github](https://github.com/werbot/.github) -  (3 weeks ago)
 - [werbot/werbot.ee](https://github.com/werbot/werbot.ee) - 🏭 Werbot Enterprise functions (3 weeks ago)
 
 #### 🌱 My latest projects
