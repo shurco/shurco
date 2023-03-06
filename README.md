@@ -35,7 +35,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 - [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (2 months ago)
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models (2 months ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#34;1Password&#34; for servers and teams - open source solution with single sign-on for easy and secure sharing of servers, databases, or app access (3 months ago)
-- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - The community-led growth platform, built with developers in mind. (4 months ago)
+- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - An opinionated community data platform, built for developer tools. (4 months ago)
 
 #### 💬 Feedback
 
