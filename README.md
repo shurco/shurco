@@ -6,9 +6,9 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, simple and complete solution for traffic analysis and intrusion detection. (today)
-- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (1 day ago)
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#34;1Password&#34; for servers and teams - open source solution with single sign-on for easy and secure sharing of servers, databases, or app access (4 days ago)
+- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, simple and complete solution for traffic analysis and intrusion detection. (1 day ago)
+- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (2 days ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#34;1Password&#34; for servers and teams - open source solution with single sign-on for easy and secure sharing of servers, databases, or app access (5 days ago)
 - [netmoth/.github](https://github.com/netmoth/.github) -  (2 weeks ago)
 - [werbot/.github](https://github.com/werbot/.github) -  (2 months ago)
 
@@ -32,9 +32,9 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 #### ⭐ Recent Stars
 
 - [sandialabs/wiretap](https://github.com/sandialabs/wiretap) - Wiretap is a transparent, VPN-like proxy server that tunnels traffic via WireGuard and requires no special privileges to run. (2 weeks ago)
-- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, simple and complete solution for traffic analysis and intrusion detection. (3 weeks ago)
+- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, simple and complete solution for traffic analysis and intrusion detection. (4 weeks ago)
 - [jech/galene](https://github.com/jech/galene) - The Galène videoconference server (2 months ago)
-- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (3 months ago)
+- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (4 months ago)
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models (4 months ago)
 
 #### 💬 Feedback
