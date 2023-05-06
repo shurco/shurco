@@ -21,7 +21,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 #### 🔨 My recent Pull Requests
 
 - [✨ feat: Added server firewall](https://github.com/werbot/werbot.web/pull/3) on [werbot/werbot.web](https://github.com/werbot/werbot.web) (3 months ago)
-- [Apply fixes from CodeFactor](https://github.com/werbot/werbot/pull/3) on [werbot/werbot](https://github.com/werbot/werbot) (5 months ago)
+- [Apply fixes from CodeFactor](https://github.com/werbot/werbot/pull/3) on [werbot/werbot](https://github.com/werbot/werbot) (6 months ago)
 - [Update README.md](https://github.com/vood/gomel_head_count/pull/1) on [vood/gomel_head_count](https://github.com/vood/gomel_head_count) (2 years ago)
 - [Update Heroku deploy](https://github.com/chatwoot/chatwoot/pull/1030) on [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) (2 years ago)
 
