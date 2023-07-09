@@ -33,11 +33,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [shurco/goclone](https://github.com/shurco/goclone) - The Website Cloner is a powerful tool to clone websites onto your computer in a matter of seconds. (today)
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an AI application database. Download open source models from Huggingface, or train your own, to create and index LLM embeddings, generate text, or make online predictions using only SQL.  (2 days ago)
 - [bufbuild/protovalidate](https://github.com/bufbuild/protovalidate) - Protocol Buffer Validation - New Go and C&#43;&#43; Beta Release! (1 month ago)
 - [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping (1 month ago)
 - [sandialabs/wiretap](https://github.com/sandialabs/wiretap) - Wiretap is a transparent, VPN-like proxy server that tunnels traffic via WireGuard and requires no special privileges to run. (3 months ago)
-- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, simple and complete solution for traffic analysis and intrusion detection. (3 months ago)
 
 #### 💬 Feedback
 
