@@ -6,8 +6,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/goclone](https://github.com/shurco/goclone) - goclone - is a powerful tool to clone websites onto your computer in a matter of seconds (today)
-- [shurco/homebrew-tap](https://github.com/shurco/homebrew-tap) - shurco homebrew tap (1 day ago)
+- [shurco/goclone](https://github.com/shurco/goclone) - goclone - is a powerful tool to clone websites onto your computer in a matter of seconds (1 day ago)
+- [shurco/homebrew-tap](https://github.com/shurco/homebrew-tap) - shurco homebrew tap (2 days ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#34;1Password&#34; for servers - self-hosted solution for teams with single sign-on for easy, secure sharing access of servers, databases, or app (1 week ago)
 - [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, simple and complete solution for traffic analysis and intrusion detection. (2 weeks ago)
 - [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (3 weeks ago)
@@ -33,10 +33,10 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [shurco/goclone](https://github.com/shurco/goclone) - goclone - is a powerful tool to clone websites onto your computer in a matter of seconds (today)
-- [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an AI application database. Download open source models from Huggingface, or train your own, to create and index LLM embeddings, generate text, or make online predictions using only SQL.  (2 days ago)
+- [shurco/goclone](https://github.com/shurco/goclone) - goclone - is a powerful tool to clone websites onto your computer in a matter of seconds (1 day ago)
+- [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an AI application database. Download open source models from Huggingface, or train your own, to create and index LLM embeddings, generate text, or make online predictions using only SQL.  (3 days ago)
 - [bufbuild/protovalidate](https://github.com/bufbuild/protovalidate) - Protocol Buffer Validation - New Go and C&#43;&#43; Beta Release! (1 month ago)
-- [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping (1 month ago)
+- [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping (2 months ago)
 - [sandialabs/wiretap](https://github.com/sandialabs/wiretap) - Wiretap is a transparent, VPN-like proxy server that tunnels traffic via WireGuard and requires no special privileges to run. (3 months ago)
 
 #### 💬 Feedback
