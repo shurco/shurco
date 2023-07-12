@@ -6,7 +6,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/.github](https://github.com/werbot/.github) -  (today)
+- [werbot/.github](https://github.com/werbot/.github) - ⚙️ Github repos setting (today)
 - [shurco/goclone](https://github.com/shurco/goclone) - 🌱 goclone - clone websites in a matter of seconds (today)
 - [shurco/.github](https://github.com/shurco/.github) - ⚙️ Github repos setting (today)
 - [shurco/homebrew-tap](https://github.com/shurco/homebrew-tap) - 📚 shurco homebrew tap (4 days ago)
