@@ -6,10 +6,10 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/.github](https://github.com/werbot/.github) - ⚙️ Github repos setting (today)
-- [shurco/goclone](https://github.com/shurco/goclone) - 🌱 goclone - clone websites in a matter of seconds (today)
-- [shurco/.github](https://github.com/shurco/.github) - ⚙️ Github repos setting (today)
-- [shurco/homebrew-tap](https://github.com/shurco/homebrew-tap) - 📚 shurco homebrew tap (4 days ago)
+- [werbot/.github](https://github.com/werbot/.github) - ⚙️ Github repos setting (1 day ago)
+- [shurco/goclone](https://github.com/shurco/goclone) - 🌱 goclone - clone websites in a matter of seconds (1 day ago)
+- [shurco/.github](https://github.com/shurco/.github) - ⚙️ Github repos setting (1 day ago)
+- [shurco/homebrew-tap](https://github.com/shurco/homebrew-tap) - 📚 shurco homebrew tap (5 days ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#34;1Password&#34; for servers - self-hosted solution for teams with single sign-on for easy, secure sharing access of servers, databases, or app (1 week ago)
 
 #### 🌱 My latest projects
@@ -33,8 +33,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [shurco/goclone](https://github.com/shurco/goclone) - 🌱 goclone - clone websites in a matter of seconds (3 days ago)
-- [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an AI application database. Download open source models from Huggingface, or train your own, to create and index LLM embeddings, generate text, or make online predictions using only SQL.  (5 days ago)
+- [shurco/goclone](https://github.com/shurco/goclone) - 🌱 goclone - clone websites in a matter of seconds (4 days ago)
+- [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an AI application database. Download open source models from Huggingface, or train your own, to create and index LLM embeddings, generate text, or make online predictions using only SQL.  (6 days ago)
 - [bufbuild/protovalidate](https://github.com/bufbuild/protovalidate) - Protocol Buffer Validation - New Go and C&#43;&#43; Beta Release! (1 month ago)
 - [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping (2 months ago)
 - [sandialabs/wiretap](https://github.com/sandialabs/wiretap) - Wiretap is a transparent, VPN-like proxy server that tunnels traffic via WireGuard and requires no special privileges to run. (3 months ago)
