@@ -6,10 +6,10 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#34;1Password&#34; for servers - self-hosted solution for teams with single sign-on for easy, secure sharing access of servers, databases, or app (4 days ago)
-- [werbot/.github](https://github.com/werbot/.github) - ⚙️ Github repos setting (5 days ago)
-- [shurco/goclone](https://github.com/shurco/goclone) - 🌱 goclone - clone websites in a matter of seconds (5 days ago)
-- [shurco/.github](https://github.com/shurco/.github) - ⚙️ Github repos setting (5 days ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#34;1Password&#34; for servers - self-hosted solution for teams with single sign-on for easy, secure sharing access of servers, databases, or app (5 days ago)
+- [werbot/.github](https://github.com/werbot/.github) - ⚙️ Github repos setting (6 days ago)
+- [shurco/goclone](https://github.com/shurco/goclone) - 🌱 goclone - clone websites in a matter of seconds (6 days ago)
+- [shurco/.github](https://github.com/shurco/.github) - ⚙️ Github repos setting (6 days ago)
 - [shurco/homebrew-tap](https://github.com/shurco/homebrew-tap) - 📚 shurco homebrew tap (1 week ago)
 
 #### 🌱 My latest projects
@@ -22,7 +22,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [✨ feat: Added server firewall](https://github.com/werbot/werbot.web/pull/3) on [werbot/werbot.web](https://github.com/werbot/werbot.web) (5 months ago)
+- [✨ feat: Added server firewall](https://github.com/werbot/werbot.web/pull/3) on [werbot/werbot.web](https://github.com/werbot/werbot.web) (6 months ago)
 - [Apply fixes from CodeFactor](https://github.com/werbot/werbot/pull/3) on [werbot/werbot](https://github.com/werbot/werbot) (8 months ago)
 - [Update README.md](https://github.com/vood/gomel_head_count/pull/1) on [vood/gomel_head_count](https://github.com/vood/gomel_head_count) (3 years ago)
 - [Update Heroku deploy](https://github.com/chatwoot/chatwoot/pull/1030) on [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) (3 years ago)
