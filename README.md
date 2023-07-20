@@ -6,7 +6,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#34;1Password&#34; for servers - self-hosted solution for teams with single sign-on for easy, secure sharing access of servers, databases, or app (6 days ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#34;1Password&#34; for servers - self-hosted solution for teams with single sign-on for easy, secure sharing access of servers, databases, or app (1 week ago)
 - [werbot/.github](https://github.com/werbot/.github) - ⚙️ Github repos setting (1 week ago)
 - [shurco/goclone](https://github.com/shurco/goclone) - 🌱 goclone - clone websites in a matter of seconds (1 week ago)
 - [shurco/.github](https://github.com/shurco/.github) - ⚙️ Github repos setting (1 week ago)
