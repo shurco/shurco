@@ -14,11 +14,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🌱 My latest projects
 
+- [shurco/litecart](https://github.com/shurco/litecart) - 
 - [shurco/.github](https://github.com/shurco/.github) - ⚙️ Github repos setting
 - [shurco/homebrew-tap](https://github.com/shurco/homebrew-tap) - 📚 shurco homebrew tap
 - [shurco/goclone](https://github.com/shurco/goclone) - 🌱 goclone - clone websites in a matter of seconds
 - [shurco/factios-db](https://github.com/shurco/factios-db) - Database for site https://factios.com and repository https://github.com/shurco/factios
-- [shurco/factios](https://github.com/shurco/factios) - A collection of interesting and informative facts-cards.
 
 #### 🔨 My recent Pull Requests
 
