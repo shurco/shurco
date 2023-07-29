@@ -6,9 +6,9 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 Open Source realtime cart in 1 file (today)
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#34;1Password&#34; for servers - self-hosted solution for teams with single sign-on for easy, secure sharing access of servers, databases, or app (3 days ago)
-- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, simple and complete solution for traffic analysis and intrusion detection. (3 days ago)
+- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 Open Source realtime cart in 1 file (1 day ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#34;1Password&#34; for servers - self-hosted solution for teams with single sign-on for easy, secure sharing access of servers, databases, or app (4 days ago)
+- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, simple and complete solution for traffic analysis and intrusion detection. (4 days ago)
 - [werbot/.github](https://github.com/werbot/.github) - ⚙️ Github repos setting (2 weeks ago)
 - [shurco/.github](https://github.com/shurco/.github) - ⚙️ Github repos setting (2 weeks ago)
 
@@ -33,7 +33,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [liamg/magic](https://github.com/liamg/magic) - :tophat::rabbit2: Toolkit for detecting and verifying file type using magic bytes in pure Golang (today)
+- [liamg/magic](https://github.com/liamg/magic) - :tophat::rabbit2: Toolkit for detecting and verifying file type using magic bytes in pure Golang (1 day ago)
 - [shurco/goclone](https://github.com/shurco/goclone) - 🌱 goclone - clone websites in a matter of seconds (2 weeks ago)
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an AI application database. Download open source models from Huggingface, or train your own, to create and index LLM embeddings, generate text, or make online predictions using only SQL.  (3 weeks ago)
 - [bufbuild/protovalidate](https://github.com/bufbuild/protovalidate) - Protocol Buffer Validation - Go, Python, and C&#43;&#43; Beta Releases! (1 month ago)
