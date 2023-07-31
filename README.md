@@ -7,14 +7,14 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 #### 👷 Check out what I'm currently working on
 
 - [shurco/goclone](https://github.com/shurco/goclone) - 🌱 goclone - clone websites in a matter of seconds (today)
-- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 Open Source realtime cart in 1 file (today)
+- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 Open Source shopping-cart in 1 file (today)
 - [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, simple and complete solution for traffic analysis and intrusion detection. (6 days ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#34;1Password&#34; for servers - self-hosted solution for teams with single sign-on for easy, secure sharing access of servers, databases, or app (6 days ago)
 - [werbot/.github](https://github.com/werbot/.github) - ⚙️ Github repos setting (2 weeks ago)
 
 #### 🌱 My latest projects
 
-- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 Open Source realtime cart in 1 file
+- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 Open Source shopping-cart in 1 file
 - [shurco/.github](https://github.com/shurco/.github) - ⚙️ Github repos setting
 - [shurco/homebrew-tap](https://github.com/shurco/homebrew-tap) - 📚 shurco homebrew tap
 - [shurco/goclone](https://github.com/shurco/goclone) - 🌱 goclone - clone websites in a matter of seconds
