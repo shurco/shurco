@@ -33,11 +33,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [ghostsecurity/reaper](https://github.com/ghostsecurity/reaper) - Don&#39;t fear the Reaper. (today)
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file. (2 weeks ago)
 - [liamg/magic](https://github.com/liamg/magic) - :tophat::rabbit2: Toolkit for detecting and verifying file type using magic bytes in pure Golang (3 weeks ago)
 - [shurco/goclone](https://github.com/shurco/goclone) - 🌱 goclone - clone websites in a matter of seconds (1 month ago)
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an AI application database. Download open source models from Huggingface, or train your own, to create and index LLM embeddings, generate text, or make online predictions using only SQL.  (1 month ago)
-- [bufbuild/protovalidate](https://github.com/bufbuild/protovalidate) - Protocol Buffer Validation - Go, Java, Python, and C&#43;&#43; Beta Releases! (2 months ago)
 
 #### 💬 Feedback
 
