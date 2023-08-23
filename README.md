@@ -6,8 +6,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (today)
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#34;1Password&#34; for servers - self-hosted solution for teams with single sign-on for easy, secure sharing access of servers, databases, or app (today)
+- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (1 day ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#34;1Password&#34; for servers - self-hosted solution for teams with single sign-on for easy, secure sharing access of servers, databases, or app (1 day ago)
 - [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping-cart in 1 file (1 week ago)
 - [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (1 week ago)
 - [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, simple and complete solution for traffic analysis and intrusion detection. (1 week ago)
@@ -33,7 +33,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [ghostsecurity/reaper](https://github.com/ghostsecurity/reaper) - 💀 Don&#39;t fear the Reaper 👻 (4 days ago)
+- [ghostsecurity/reaper](https://github.com/ghostsecurity/reaper) - 💀 Don&#39;t fear the Reaper 👻 (5 days ago)
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file. (3 weeks ago)
 - [liamg/magic](https://github.com/liamg/magic) - :tophat::rabbit2: Toolkit for detecting and verifying file type using magic bytes in pure Golang (3 weeks ago)
 - [shurco/goclone](https://github.com/shurco/goclone) - 🌱 goclone - clone websites in a matter of seconds (1 month ago)
