@@ -6,8 +6,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
+- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping-cart in 1 file (today)
 - [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (1 day ago)
-- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping-cart in 1 file (1 day ago)
 - [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, simple and complete solution for traffic analysis and intrusion detection. (1 day ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#34;1Password&#34; for Servers - self-hosted solution for teams with single sign-on for easy, secure shared access to servers, databases or applications. (2 days ago)
 - [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (1 month ago)
@@ -22,10 +22,10 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
+- [🐞 fix: First step after install](https://github.com/shurco/litecart/pull/23) on [shurco/litecart](https://github.com/shurco/litecart) (today)
 - [✨ feat: Added server firewall](https://github.com/werbot/werbot.web/pull/3) on [werbot/werbot.web](https://github.com/werbot/werbot.web) (7 months ago)
 - [Apply fixes from CodeFactor](https://github.com/werbot/werbot/pull/3) on [werbot/werbot](https://github.com/werbot/werbot) (10 months ago)
 - [Update README.md](https://github.com/vood/gomel_head_count/pull/1) on [vood/gomel_head_count](https://github.com/vood/gomel_head_count) (3 years ago)
-- [Update Heroku deploy](https://github.com/chatwoot/chatwoot/pull/1030) on [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) (3 years ago)
 
 #### 📓 Gists I wrote
 
