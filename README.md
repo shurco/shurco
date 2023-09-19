@@ -10,7 +10,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 - [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (today)
 - [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping-cart in 1 file (today)
 - [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, simple and complete solution for traffic analysis and intrusion detection. (today)
-- [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (1 month ago)
+- [shurco/homebrew-tap](https://github.com/shurco/homebrew-tap) - 📚 shurco homebrew tap (today)
 
 #### 🌱 My latest projects
 
