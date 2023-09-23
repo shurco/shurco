@@ -6,11 +6,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping-cart in 1 file (today)
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#34;1Password&#34; for Servers - self-hosted solution for teams with single sign-on for easy, secure shared access to servers, databases or applications. (1 day ago)
-- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (3 days ago)
-- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, simple and complete solution for traffic analysis and intrusion detection. (3 days ago)
-- [shurco/homebrew-tap](https://github.com/shurco/homebrew-tap) - 📚 shurco homebrew tap (3 days ago)
+- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping-cart in 1 file (1 day ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#34;1Password&#34; for Servers - self-hosted solution for teams with single sign-on for easy, secure shared access to servers, databases or applications. (2 days ago)
+- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (4 days ago)
+- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, simple and complete solution for traffic analysis and intrusion detection. (4 days ago)
+- [shurco/homebrew-tap](https://github.com/shurco/homebrew-tap) - 📚 shurco homebrew tap (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -33,8 +33,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [matoous/go-nanoid](https://github.com/matoous/go-nanoid) - Golang random IDs generator. (today)
-- [s0rg/phpunisher](https://github.com/s0rg/phpunisher) - Finds smelly php code pieces (5 days ago)
+- [matoous/go-nanoid](https://github.com/matoous/go-nanoid) - Golang random IDs generator. (1 day ago)
+- [s0rg/phpunisher](https://github.com/s0rg/phpunisher) - Finds smelly php code pieces (6 days ago)
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go (1 week ago)
 - [ghostsecurity/reaper](https://github.com/ghostsecurity/reaper) - 💀 Don&#39;t fear the Reaper 👻 (1 month ago)
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file. (1 month ago)
