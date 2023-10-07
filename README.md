@@ -33,11 +33,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections. (today)
 - [golang/go](https://github.com/golang/go) - The Go programming language (4 days ago)
 - [matoous/go-nanoid](https://github.com/matoous/go-nanoid) - Golang random IDs generator. (2 weeks ago)
 - [s0rg/phpunisher](https://github.com/s0rg/phpunisher) - Finds smelly php code pieces (2 weeks ago)
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go (3 weeks ago)
-- [ghostsecurity/reaper](https://github.com/ghostsecurity/reaper) - 💀 Don&#39;t fear the Reaper 👻 (1 month ago)
 
 #### 💬 Feedback
 
