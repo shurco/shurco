@@ -33,11 +33,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display (today)
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections. (2 days ago)
 - [golang/go](https://github.com/golang/go) - The Go programming language (6 days ago)
 - [matoous/go-nanoid](https://github.com/matoous/go-nanoid) - Golang random IDs generator. (2 weeks ago)
 - [s0rg/phpunisher](https://github.com/s0rg/phpunisher) - Finds smelly php code pieces (3 weeks ago)
-- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go (4 weeks ago)
 
 #### 💬 Feedback
 
