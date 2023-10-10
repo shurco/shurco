@@ -22,10 +22,10 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
+- [🐳 chore: Issues templates](https://github.com/werbot/werbot/pull/159) on [werbot/werbot](https://github.com/werbot/werbot) (today)
 - [🐞 fix: First step after install](https://github.com/shurco/litecart/pull/23) on [shurco/litecart](https://github.com/shurco/litecart) (3 weeks ago)
 - [✨ feat: Added server firewall](https://github.com/werbot/werbot.web/pull/3) on [werbot/werbot.web](https://github.com/werbot/werbot.web) (8 months ago)
 - [Apply fixes from CodeFactor](https://github.com/werbot/werbot/pull/3) on [werbot/werbot](https://github.com/werbot/werbot) (11 months ago)
-- [Update README.md](https://github.com/vood/gomel_head_count/pull/1) on [vood/gomel_head_count](https://github.com/vood/gomel_head_count) (3 years ago)
 
 #### 📓 Gists I wrote
 
