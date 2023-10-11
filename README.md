@@ -6,9 +6,9 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#34;1Password&#34; for Servers - self-hosted solution for teams with single sign-on for easy, secure shared access to servers, databases or applications. (today)
-- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (today)
-- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, simple and complete solution for traffic analysis and intrusion detection. (6 days ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#34;1Password&#34; for Servers - self-hosted solution for teams with single sign-on for easy, secure shared access to servers, databases or applications. (1 day ago)
+- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (1 day ago)
+- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, simple and complete solution for traffic analysis and intrusion detection. (1 week ago)
 - [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file (1 week ago)
 - [shurco/homebrew-tap](https://github.com/shurco/homebrew-tap) - 📚 shurco homebrew tap (3 weeks ago)
 
@@ -22,8 +22,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [🐳 chore: Issues templates](https://github.com/werbot/werbot/pull/159) on [werbot/werbot](https://github.com/werbot/werbot) (today)
-- [🐞 fix: First step after install](https://github.com/shurco/litecart/pull/23) on [shurco/litecart](https://github.com/shurco/litecart) (3 weeks ago)
+- [🐳 chore: Issues templates](https://github.com/werbot/werbot/pull/159) on [werbot/werbot](https://github.com/werbot/werbot) (1 day ago)
+- [🐞 fix: First step after install](https://github.com/shurco/litecart/pull/23) on [shurco/litecart](https://github.com/shurco/litecart) (4 weeks ago)
 - [✨ feat: Added server firewall](https://github.com/werbot/werbot.web/pull/3) on [werbot/werbot.web](https://github.com/werbot/werbot.web) (8 months ago)
 - [Apply fixes from CodeFactor](https://github.com/werbot/werbot/pull/3) on [werbot/werbot](https://github.com/werbot/werbot) (11 months ago)
 
@@ -33,8 +33,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display (1 day ago)
-- [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections. (3 days ago)
+- [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display (2 days ago)
+- [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections. (4 days ago)
 - [golang/go](https://github.com/golang/go) - The Go programming language (1 week ago)
 - [matoous/go-nanoid](https://github.com/matoous/go-nanoid) - Golang random IDs generator. (2 weeks ago)
 - [s0rg/phpunisher](https://github.com/s0rg/phpunisher) - Finds smelly php code pieces (3 weeks ago)
