@@ -7,7 +7,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 #### 👷 Check out what I'm currently working on
 
 - [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file (today)
-- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, simple and complete solution for traffic analysis and intrusion detection. (1 day ago)
+- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, simple and complete solution for traffic analysis and intrusion detection. (today)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 &#34;1Password&#34; for Servers - self-hosted solution for teams with single sign-on for easy, secure shared access to servers, databases or applications. (3 days ago)
 - [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (3 days ago)
 - [shurco/homebrew-tap](https://github.com/shurco/homebrew-tap) - 📚 shurco homebrew tap (3 weeks ago)
@@ -22,11 +22,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
+- [🐳 chore: Issues templates](https://github.com/netmoth/netmoth/pull/33) on [netmoth/netmoth](https://github.com/netmoth/netmoth) (today)
 - [📃 docs: Updating Instructions](https://github.com/shurco/litecart/pull/43) on [shurco/litecart](https://github.com/shurco/litecart) (today)
 - [🐳 chore: Issues templates](https://github.com/werbot/werbot/pull/159) on [werbot/werbot](https://github.com/werbot/werbot) (3 days ago)
 - [🐞 fix: First step after install](https://github.com/shurco/litecart/pull/23) on [shurco/litecart](https://github.com/shurco/litecart) (1 month ago)
 - [✨ feat: Added server firewall](https://github.com/werbot/werbot.web/pull/3) on [werbot/werbot.web](https://github.com/werbot/werbot.web) (8 months ago)
-- [Apply fixes from CodeFactor](https://github.com/werbot/werbot/pull/3) on [werbot/werbot](https://github.com/werbot/werbot) (11 months ago)
 
 #### 📓 Gists I wrote
 
