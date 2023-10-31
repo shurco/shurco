@@ -26,7 +26,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 - [🦄 refactor: folder with scripts](https://github.com/werbot/werbot/pull/168) on [werbot/werbot](https://github.com/werbot/werbot) (1 week ago)
 - [🐳 chore: Issues templates](https://github.com/netmoth/netmoth/pull/33) on [netmoth/netmoth](https://github.com/netmoth/netmoth) (2 weeks ago)
 - [📃 docs: Updating Instructions](https://github.com/shurco/litecart/pull/43) on [shurco/litecart](https://github.com/shurco/litecart) (2 weeks ago)
-- [🐳 chore: Issues templates](https://github.com/werbot/werbot/pull/159) on [werbot/werbot](https://github.com/werbot/werbot) (2 weeks ago)
+- [🐳 chore: Issues templates](https://github.com/werbot/werbot/pull/159) on [werbot/werbot](https://github.com/werbot/werbot) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -36,7 +36,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display (3 weeks ago)
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections. (3 weeks ago)
-- [golang/go](https://github.com/golang/go) - The Go programming language (3 weeks ago)
+- [golang/go](https://github.com/golang/go) - The Go programming language (4 weeks ago)
 - [matoous/go-nanoid](https://github.com/matoous/go-nanoid) - Golang random IDs generator. (1 month ago)
 - [s0rg/phpunisher](https://github.com/s0rg/phpunisher) - Finds smelly php code pieces (1 month ago)
 
