@@ -6,8 +6,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Share access for teams - self-hosted solution for teams with single sign-on for easy, secure shared access to servers, databases or applications. (1 week ago)
-- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (1 week ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Share access for teams - self-hosted solution for teams with single sign-on for easy, secure shared access to servers, databases or applications. (2 weeks ago)
+- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (2 weeks ago)
 - [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file (2 weeks ago)
 - [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, simple and complete solution for traffic analysis and intrusion detection. (2 weeks ago)
 - [shurco/homebrew-tap](https://github.com/shurco/homebrew-tap) - 📚 shurco homebrew tap (1 month ago)
@@ -22,7 +22,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [🦄 refactor: docker tools](https://github.com/werbot/werbot/pull/169) on [werbot/werbot](https://github.com/werbot/werbot) (1 week ago)
+- [🦄 refactor: docker tools](https://github.com/werbot/werbot/pull/169) on [werbot/werbot](https://github.com/werbot/werbot) (2 weeks ago)
 - [🦄 refactor: folder with scripts](https://github.com/werbot/werbot/pull/168) on [werbot/werbot](https://github.com/werbot/werbot) (2 weeks ago)
 - [🐳 chore: Issues templates](https://github.com/netmoth/netmoth/pull/33) on [netmoth/netmoth](https://github.com/netmoth/netmoth) (2 weeks ago)
 - [📃 docs: Updating Instructions](https://github.com/shurco/litecart/pull/43) on [shurco/litecart](https://github.com/shurco/litecart) (2 weeks ago)
@@ -36,7 +36,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display (3 weeks ago)
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections. (3 weeks ago)
-- [golang/go](https://github.com/golang/go) - The Go programming language (4 weeks ago)
+- [golang/go](https://github.com/golang/go) - The Go programming language (1 month ago)
 - [matoous/go-nanoid](https://github.com/matoous/go-nanoid) - Golang random IDs generator. (1 month ago)
 - [s0rg/phpunisher](https://github.com/s0rg/phpunisher) - Finds smelly php code pieces (1 month ago)
 
