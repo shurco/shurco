@@ -34,8 +34,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display (3 weeks ago)
-- [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections. (4 weeks ago)
+- [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display (4 weeks ago)
+- [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections. (1 month ago)
 - [golang/go](https://github.com/golang/go) - The Go programming language (1 month ago)
 - [matoous/go-nanoid](https://github.com/matoous/go-nanoid) - Golang random IDs generator. (1 month ago)
 - [s0rg/phpunisher](https://github.com/s0rg/phpunisher) - Finds smelly php code pieces (1 month ago)
