@@ -26,7 +26,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 - [🦄 refactor: folder with scripts](https://github.com/werbot/werbot/pull/168) on [werbot/werbot](https://github.com/werbot/werbot) (2 weeks ago)
 - [🐳 chore: Issues templates](https://github.com/netmoth/netmoth/pull/33) on [netmoth/netmoth](https://github.com/netmoth/netmoth) (3 weeks ago)
 - [📃 docs: Updating Instructions](https://github.com/shurco/litecart/pull/43) on [shurco/litecart](https://github.com/shurco/litecart) (3 weeks ago)
-- [🐳 chore: Issues templates](https://github.com/werbot/werbot/pull/159) on [werbot/werbot](https://github.com/werbot/werbot) (3 weeks ago)
+- [🐳 chore: Issues templates](https://github.com/werbot/werbot/pull/159) on [werbot/werbot](https://github.com/werbot/werbot) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
