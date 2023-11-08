@@ -23,7 +23,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 #### 🔨 My recent Pull Requests
 
 - [🦄 refactor: docker tools](https://github.com/werbot/werbot/pull/169) on [werbot/werbot](https://github.com/werbot/werbot) (2 weeks ago)
-- [🦄 refactor: folder with scripts](https://github.com/werbot/werbot/pull/168) on [werbot/werbot](https://github.com/werbot/werbot) (2 weeks ago)
+- [🦄 refactor: folder with scripts](https://github.com/werbot/werbot/pull/168) on [werbot/werbot](https://github.com/werbot/werbot) (3 weeks ago)
 - [🐳 chore: Issues templates](https://github.com/netmoth/netmoth/pull/33) on [netmoth/netmoth](https://github.com/netmoth/netmoth) (3 weeks ago)
 - [📃 docs: Updating Instructions](https://github.com/shurco/litecart/pull/43) on [shurco/litecart](https://github.com/shurco/litecart) (3 weeks ago)
 - [🐳 chore: Issues templates](https://github.com/werbot/werbot/pull/159) on [werbot/werbot](https://github.com/werbot/werbot) (4 weeks ago)
@@ -34,7 +34,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display (4 weeks ago)
+- [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display (1 month ago)
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections. (1 month ago)
 - [golang/go](https://github.com/golang/go) - The Go programming language (1 month ago)
 - [matoous/go-nanoid](https://github.com/matoous/go-nanoid) - Golang random IDs generator. (1 month ago)
