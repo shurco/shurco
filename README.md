@@ -6,10 +6,10 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/litepay](https://github.com/shurco/litepay) - 💸 Light and fast library for quick payments (2 days ago)
+- [shurco/litepay](https://github.com/shurco/litepay) - 💸 Light and fast library for quick payments (3 days ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Share access for teams - self-hosted solution for teams with single sign-on for easy, secure shared access to servers, databases or applications. (3 weeks ago)
 - [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (3 weeks ago)
-- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file (3 weeks ago)
+- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file (4 weeks ago)
 - [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, simple and complete solution for traffic analysis and intrusion detection. (4 weeks ago)
 
 #### 🌱 My latest projects
@@ -34,7 +34,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [shurco/litepay](https://github.com/shurco/litepay) - 💸 Light and fast library for quick payments (2 days ago)
+- [shurco/litepay](https://github.com/shurco/litepay) - 💸 Light and fast library for quick payments (3 days ago)
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display (1 month ago)
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections. (1 month ago)
 - [golang/go](https://github.com/golang/go) - The Go programming language (1 month ago)
