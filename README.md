@@ -22,11 +22,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
+- [✨ feat: added photo slider to site](https://github.com/shurco/litecart/pull/71) on [shurco/litecart](https://github.com/shurco/litecart) (today)
 - [✨ feat: short product description](https://github.com/shurco/litecart/pull/70) on [shurco/litecart](https://github.com/shurco/litecart) (1 day ago)
 - [✨ feat: support paypal payments](https://github.com/shurco/litecart/pull/69) on [shurco/litecart](https://github.com/shurco/litecart) (1 day ago)
 - [✨ feat: support for cryptocurrency payments](https://github.com/shurco/litecart/pull/65) on [shurco/litecart](https://github.com/shurco/litecart) (1 week ago)
 - [🦄 refactor: docker tools](https://github.com/werbot/werbot/pull/169) on [werbot/werbot](https://github.com/werbot/werbot) (1 month ago)
-- [🦄 refactor: folder with scripts](https://github.com/werbot/werbot/pull/168) on [werbot/werbot](https://github.com/werbot/werbot) (1 month ago)
 
 #### 📓 Gists I wrote
 
