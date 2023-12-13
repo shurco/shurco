@@ -34,11 +34,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [Jeffail/gabs](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go (today)
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go (1 day ago)
 - [kkyr/fig](https://github.com/kkyr/fig) - A minimalist Go configuration library (2 days ago)
 - [jinzhu/copier](https://github.com/jinzhu/copier) - Copier for golang, copy value from struct to struct and more (2 days ago)
 - [piplos/stream-tools](https://github.com/piplos/stream-tools) -  (2 weeks ago)
-- [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display (2 months ago)
 
 #### 💬 Feedback
 
