@@ -6,8 +6,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
+- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, simple and complete solution for traffic analysis and intrusion detection. (today)
 - [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file (with support for payment by card or cryptocurrency) (4 days ago)
-- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, simple and complete solution for traffic analysis and intrusion detection. (1 week ago)
 - [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (2 weeks ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Share access for teams - self-hosted solution for teams with single sign-on for easy, secure shared access to servers, databases or applications. (2 weeks ago)
 - [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (1 month ago)
@@ -34,11 +34,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [qor/auth](https://github.com/qor/auth) - Golang Authentication solution (today)
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go (1 week ago)
 - [alexflint/go-arg](https://github.com/alexflint/go-arg) - Struct-based argument parsing in Go (4 weeks ago)
 - [go-acme/lego](https://github.com/go-acme/lego) - Let&#39;s Encrypt/ACME client and library written in Go (1 month ago)
 - [Jeffail/gabs](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go (1 month ago)
-- [kkyr/fig](https://github.com/kkyr/fig) - A minimalist Go configuration library (1 month ago)
 
 #### 💬 Feedback
 
