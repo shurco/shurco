@@ -34,11 +34,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [peterbourgon/ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration (today)
 - [emiago/sipgo](https://github.com/emiago/sipgo) - SIP library for writing fast SIP services in GO (3 days ago)
 - [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (6 days ago)
 - [qor/auth](https://github.com/qor/auth) - Golang Authentication solution (1 week ago)
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go (3 weeks ago)
-- [alexflint/go-arg](https://github.com/alexflint/go-arg) - Struct-based argument parsing in Go (1 month ago)
 
 #### 💬 Feedback
 
