@@ -6,9 +6,9 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Share access for teams - self-hosted solution for teams with single sign-on for easy, secure shared access to servers, databases or applications. (5 days ago)
-- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (5 days ago)
-- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (6 days ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Share access for teams - self-hosted solution for teams with single sign-on for easy, secure shared access to servers, databases or applications. (6 days ago)
+- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (6 days ago)
+- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (1 week ago)
 - [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, simple and complete solution for traffic analysis and intrusion detection. (1 week ago)
 - [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file (with support for payment by card or cryptocurrency) (2 weeks ago)
 
@@ -24,7 +24,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 - [🐞 fix: settings for payment and letters](https://github.com/shurco/litecart/pull/89) on [shurco/litecart](https://github.com/shurco/litecart) (2 weeks ago)
 - [🐞 fix: upload file up to 50mb](https://github.com/shurco/litecart/pull/82) on [shurco/litecart](https://github.com/shurco/litecart) (3 weeks ago)
-- [✨ feat: added photo slider to site](https://github.com/shurco/litecart/pull/71) on [shurco/litecart](https://github.com/shurco/litecart) (1 month ago)
+- [✨ feat: added photo slider to site](https://github.com/shurco/litecart/pull/71) on [shurco/litecart](https://github.com/shurco/litecart) (2 months ago)
 - [✨ feat: short product description](https://github.com/shurco/litecart/pull/70) on [shurco/litecart](https://github.com/shurco/litecart) (2 months ago)
 - [✨ feat: support paypal payments](https://github.com/shurco/litecart/pull/69) on [shurco/litecart](https://github.com/shurco/litecart) (2 months ago)
 
@@ -34,8 +34,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [emiago/sipgo](https://github.com/emiago/sipgo) - SIP library for writing fast SIP services in GO (2 days ago)
-- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (5 days ago)
+- [emiago/sipgo](https://github.com/emiago/sipgo) - SIP library for writing fast SIP services in GO (3 days ago)
+- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (6 days ago)
 - [qor/auth](https://github.com/qor/auth) - Golang Authentication solution (1 week ago)
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go (3 weeks ago)
 - [alexflint/go-arg](https://github.com/alexflint/go-arg) - Struct-based argument parsing in Go (1 month ago)
