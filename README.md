@@ -34,11 +34,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [goccy/go-json](https://github.com/goccy/go-json) - Fast JSON encoder/decoder compatible with encoding/json for Go (today)
 - [deatil/go-cryptobin](https://github.com/deatil/go-cryptobin) - go 常用加密解密库/go encrypt or decrypt pkg（RSA/SM2/EIGamal/AES/DES/TripleDes/SM4/Tea/Twofish） (today)
 - [peterbourgon/ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration (1 week ago)
 - [emiago/sipgo](https://github.com/emiago/sipgo) - SIP library for writing fast SIP services in GO (1 week ago)
 - [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (1 week ago)
-- [qor/auth](https://github.com/qor/auth) - Golang Authentication solution (2 weeks ago)
 
 #### 💬 Feedback
 
