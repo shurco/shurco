@@ -6,9 +6,9 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, simple and complete solution for traffic analysis and intrusion detection. (2 days ago)
-- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file (with support for payment by card or cryptocurrency) (1 week ago)
-- [shurco/goclone](https://github.com/shurco/goclone) - 🌱 goclone - clone websites in a matter of seconds (1 week ago)
+- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, simple and complete solution for traffic analysis and intrusion detection. (3 days ago)
+- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file (with support for payment by card or cryptocurrency) (2 weeks ago)
+- [shurco/goclone](https://github.com/shurco/goclone) - 🌱 goclone - clone websites in a matter of seconds (2 weeks ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Share access for teams - self-hosted solution for teams with single sign-on for easy, secure shared access to servers, databases or applications. (3 weeks ago)
 - [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (3 weeks ago)
 
@@ -22,8 +22,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [Merge pull request #4 from shurco/main](https://github.com/shurco/goclone/pull/5) on [shurco/goclone](https://github.com/shurco/goclone) (1 week ago)
-- [First Path Segment in URL cannot contain a colon Bug](https://github.com/shurco/goclone/pull/4) on [shurco/goclone](https://github.com/shurco/goclone) (1 week ago)
+- [Merge pull request #4 from shurco/main](https://github.com/shurco/goclone/pull/5) on [shurco/goclone](https://github.com/shurco/goclone) (2 weeks ago)
+- [First Path Segment in URL cannot contain a colon Bug](https://github.com/shurco/goclone/pull/4) on [shurco/goclone](https://github.com/shurco/goclone) (2 weeks ago)
 - [🐞 fix: settings for payment and letters](https://github.com/shurco/litecart/pull/89) on [shurco/litecart](https://github.com/shurco/litecart) (1 month ago)
 - [🐞 fix: upload file up to 50mb](https://github.com/shurco/litecart/pull/82) on [shurco/litecart](https://github.com/shurco/litecart) (1 month ago)
 - [✨ feat: added photo slider to site](https://github.com/shurco/litecart/pull/71) on [shurco/litecart](https://github.com/shurco/litecart) (3 months ago)
