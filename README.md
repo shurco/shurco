@@ -6,11 +6,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/lime](https://github.com/werbot/lime) - 🍋 light license-key server in 1 file (today)
+- [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in a matter of seconds (today)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Share access for teams - self-hosted solution for teams with single sign-on for easy, secure shared access to servers, databases or applications. (today)
+- [werbot/lime](https://github.com/werbot/lime) - 🍋 light license-key server in 1 file (today)
 - [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (2 days ago)
 - [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file (with support for payment by card or cryptocurrency) (2 days ago)
-- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, simple and complete solution for traffic analysis and intrusion detection. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,15 +18,15 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 - [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file (with support for payment by card or cryptocurrency)
 - [shurco/.github](https://github.com/shurco/.github) - ⚙️ Github repos setting
 - [shurco/homebrew-tap](https://github.com/shurco/homebrew-tap) - 📚 shurco homebrew tap
-- [shurco/goclone](https://github.com/shurco/goclone) - 🌱 goclone - clone websites in a matter of seconds
+- [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in a matter of seconds
 
 #### 🔨 My recent Pull Requests
 
-- [Merge pull request #4 from shurco/main](https://github.com/shurco/goclone/pull/5) on [shurco/goclone](https://github.com/shurco/goclone) (2 weeks ago)
-- [First Path Segment in URL cannot contain a colon Bug](https://github.com/shurco/goclone/pull/4) on [shurco/goclone](https://github.com/shurco/goclone) (2 weeks ago)
+- [Add goClone](https://github.com/alebcay/awesome-shell/pull/513) on [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) (today)
+- [Merge pull request #4 from shurco/main](https://github.com/shurco/goClone/pull/5) on [shurco/goClone](https://github.com/shurco/goClone) (2 weeks ago)
+- [First Path Segment in URL cannot contain a colon Bug](https://github.com/shurco/goClone/pull/4) on [shurco/goClone](https://github.com/shurco/goClone) (2 weeks ago)
 - [🐞 fix: settings for payment and letters](https://github.com/shurco/litecart/pull/89) on [shurco/litecart](https://github.com/shurco/litecart) (1 month ago)
 - [🐞 fix: upload file up to 50mb](https://github.com/shurco/litecart/pull/82) on [shurco/litecart](https://github.com/shurco/litecart) (2 months ago)
-- [✨ feat: added photo slider to site](https://github.com/shurco/litecart/pull/71) on [shurco/litecart](https://github.com/shurco/litecart) (3 months ago)
 
 #### 📓 Gists I wrote
 
