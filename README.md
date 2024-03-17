@@ -34,11 +34,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [akrylysov/pogreb](https://github.com/akrylysov/pogreb) - Embedded key-value store for read-heavy workloads written in Go (today)
 - [proullon/ramsql](https://github.com/proullon/ramsql) - In-memory SQL engine in Go sql/driver for testing purpose (1 week ago)
 - [plutov/paypal](https://github.com/plutov/paypal) - Golang client for PayPal REST API (2 weeks ago)
 - [goccy/go-json](https://github.com/goccy/go-json) - Fast JSON encoder/decoder compatible with encoding/json for Go (1 month ago)
 - [deatil/go-cryptobin](https://github.com/deatil/go-cryptobin) - go 常用加密解密库/go encrypt or decrypt pkg（RSA/SM2/EIGamal/Gost/AES/DES/TripleDes/SM4/Tea/Twofish） (1 month ago)
-- [peterbourgon/ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration (1 month ago)
 
 #### 💬 Feedback
 
