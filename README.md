@@ -34,11 +34,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (today)
 - [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (5 days ago)
 - [akrylysov/pogreb](https://github.com/akrylysov/pogreb) - Embedded key-value store for read-heavy workloads written in Go (1 week ago)
 - [proullon/ramsql](https://github.com/proullon/ramsql) - In-memory SQL engine in Go sql/driver for testing purpose (2 weeks ago)
 - [plutov/paypal](https://github.com/plutov/paypal) - Golang client for PayPal REST API (3 weeks ago)
-- [goccy/go-json](https://github.com/goccy/go-json) - Fast JSON encoder/decoder compatible with encoding/json for Go (1 month ago)
 
 #### 💬 Feedback
 
