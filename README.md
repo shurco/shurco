@@ -26,7 +26,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 - [Merge pull request #4 from shurco/main](https://github.com/shurco/goClone/pull/5) on [shurco/goClone](https://github.com/shurco/goClone) (1 month ago)
 - [First Path Segment in URL cannot contain a colon Bug](https://github.com/shurco/goClone/pull/4) on [shurco/goClone](https://github.com/shurco/goClone) (1 month ago)
 - [🐞 fix: settings for payment and letters](https://github.com/shurco/litecart/pull/89) on [shurco/litecart](https://github.com/shurco/litecart) (2 months ago)
-- [🐞 fix: upload file up to 50mb](https://github.com/shurco/litecart/pull/82) on [shurco/litecart](https://github.com/shurco/litecart) (2 months ago)
+- [🐞 fix: upload file up to 50mb](https://github.com/shurco/litecart/pull/82) on [shurco/litecart](https://github.com/shurco/litecart) (3 months ago)
 
 #### 📓 Gists I wrote
 
@@ -34,7 +34,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (6 days ago)
+- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (1 week ago)
 - [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (1 week ago)
 - [akrylysov/pogreb](https://github.com/akrylysov/pogreb) - Embedded key-value store for read-heavy workloads written in Go (2 weeks ago)
 - [proullon/ramsql](https://github.com/proullon/ramsql) - In-memory SQL engine in Go sql/driver for testing purpose (3 weeks ago)
