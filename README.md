@@ -34,11 +34,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models. (today)
 - [jaevor/go-nanoid](https://github.com/jaevor/go-nanoid) - Nano ID for Go (today)
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (today)
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (2 weeks ago)
 - [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (2 weeks ago)
-- [akrylysov/pogreb](https://github.com/akrylysov/pogreb) - Embedded key-value store for read-heavy workloads written in Go (3 weeks ago)
 
 #### 💬 Feedback
 
