@@ -6,8 +6,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, simple and complete solution for traffic analysis and intrusion detection. (1 day ago)
-- [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (1 day ago)
+- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, simple and complete solution for traffic analysis and intrusion detection. (2 days ago)
+- [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (2 days ago)
 - [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file (with support for payment by card or cryptocurrency) (2 weeks ago)
 - [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (2 weeks ago)
 - [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (2 weeks ago)
@@ -34,7 +34,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (1 week ago)
+- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (2 weeks ago)
 - [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (2 weeks ago)
 - [akrylysov/pogreb](https://github.com/akrylysov/pogreb) - Embedded key-value store for read-heavy workloads written in Go (3 weeks ago)
 - [proullon/ramsql](https://github.com/proullon/ramsql) - In-memory SQL engine in Go sql/driver for testing purpose (1 month ago)
