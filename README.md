@@ -34,11 +34,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host. (today)
 - [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥An artistic &#34;twitter like&#34; community built on gin&#43;zinc&#43;vue&#43;ts 清新文艺微社区 (4 days ago)
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). (4 days ago)
 - [nuxt/ui](https://github.com/nuxt/ui) - A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS. (4 days ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models. (5 days ago)
-- [jaevor/go-nanoid](https://github.com/jaevor/go-nanoid) - Nano ID for Go (5 days ago)
 
 #### 💬 Feedback
 
