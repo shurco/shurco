@@ -6,11 +6,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (today)
-- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (today)
-- [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in a matter of seconds (today)
-- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file (with support for payment by card or cryptocurrency) (today)
-- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (1 day ago)
+- [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (1 day ago)
+- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (1 day ago)
+- [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in a matter of seconds (1 day ago)
+- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file (with support for payment by card or cryptocurrency) (1 day ago)
+- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -34,10 +34,10 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/ (today)
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure Go (today)
-- [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes) (3 days ago)
-- [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems (5 days ago)
+- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/ (1 day ago)
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure Go (1 day ago)
+- [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes) (4 days ago)
+- [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems (6 days ago)
 - [radix-vue/shadcn-vue](https://github.com/radix-vue/shadcn-vue) - Vue port of shadcn-ui (1 week ago)
 
 #### 💬 Feedback
