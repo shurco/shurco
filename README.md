@@ -10,7 +10,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 - [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (3 days ago)
 - [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in a matter of seconds (3 days ago)
 - [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (3 days ago)
-- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (4 days ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Share access for teams - self-hosted solution for teams with single sign-on for easy, secure shared access to servers, databases or applications. (4 days ago)
 
 #### 🌱 My latest projects
 
