@@ -34,11 +34,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go. (6 days ago)
+- [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go. (1 week ago)
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go. (1 week ago)
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/ (1 week ago)
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure Go (1 week ago)
-- [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes) (1 week ago)
+- [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes) (2 weeks ago)
 
 #### 💬 Feedback
 
