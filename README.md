@@ -8,14 +8,14 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 - [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (6 days ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (1 week ago)
-- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - a single-file shopping cart with card and cryptocurrency payment support (2 weeks ago)
+- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - 1 file shopping cart with card and cryptocurrency payment support (2 weeks ago)
 - [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in seconds (2 weeks ago)
 - [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (2 weeks ago)
 
 #### 🌱 My latest projects
 
 - [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress
-- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - a single-file shopping cart with card and cryptocurrency payment support
+- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - 1 file shopping cart with card and cryptocurrency payment support
 - [shurco/.github](https://github.com/shurco/.github) - ⚙️ Github repos setting
 - [shurco/homebrew-tap](https://github.com/shurco/homebrew-tap) - 📚 shurco homebrew tap
 - [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in seconds
