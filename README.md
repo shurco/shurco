@@ -6,7 +6,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (6 days ago)
+- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (1 week ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (1 week ago)
 - [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - 1 file shopping cart with card and cryptocurrency payment support (2 weeks ago)
 - [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in seconds (2 weeks ago)
@@ -22,7 +22,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [Add goClone](https://github.com/alebcay/awesome-shell/pull/513) on [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) (2 months ago)
+- [Add goClone](https://github.com/alebcay/awesome-shell/pull/513) on [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) (3 months ago)
 - [Merge pull request #4 from shurco/main](https://github.com/shurco/goClone/pull/5) on [shurco/goClone](https://github.com/shurco/goClone) (3 months ago)
 - [First Path Segment in URL cannot contain a colon Bug](https://github.com/shurco/goClone/pull/4) on [shurco/goClone](https://github.com/shurco/goClone) (3 months ago)
 - [🐞 fix: settings for payment and letters](https://github.com/shurco/litecart/pull/89) on [shurco/litecart](https://github.com/shurco/litecart) (4 months ago)
