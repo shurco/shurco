@@ -9,8 +9,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 - [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (1 week ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (1 week ago)
 - [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - 1 file shopping cart with card and cryptocurrency payment support (2 weeks ago)
-- [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in seconds (2 weeks ago)
-- [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (2 weeks ago)
+- [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in seconds (3 weeks ago)
+- [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -36,8 +36,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 - [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go. (2 weeks ago)
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go. (2 weeks ago)
-- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/ (2 weeks ago)
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure Go (2 weeks ago)
+- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/ (3 weeks ago)
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure Go (3 weeks ago)
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes) (3 weeks ago)
 
 #### 💬 Feedback
