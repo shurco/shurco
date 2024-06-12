@@ -6,9 +6,9 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (3 days ago)
-- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (3 days ago)
-- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (1 week ago)
+- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (4 days ago)
+- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (4 days ago)
+- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (2 weeks ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (2 weeks ago)
 - [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (3 weeks ago)
 
@@ -34,7 +34,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [webp-sh/webp_server_go](https://github.com/webp-sh/webp_server_go) - Go version of WebP Server. A tool that will serve your JPG/PNG/BMP/SVGs as WebP/AVIF format with compression, on-the-fly. (today)
+- [webp-sh/webp_server_go](https://github.com/webp-sh/webp_server_go) - Go version of WebP Server. A tool that will serve your JPG/PNG/BMP/SVGs as WebP/AVIF format with compression, on-the-fly. (1 day ago)
 - [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go. (3 weeks ago)
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go. (3 weeks ago)
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/ (3 weeks ago)
