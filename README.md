@@ -34,11 +34,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages (today)
 - [go-pkgz/auth](https://github.com/go-pkgz/auth) - Authenticator via oauth2, direct, email and telegram  (1 week ago)
 - [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go (2 weeks ago)
 - [chaisql/chai](https://github.com/chaisql/chai) - Modern embedded SQL database (2 weeks ago)
 - [webp-sh/webp_server_go](https://github.com/webp-sh/webp_server_go) - Go version of WebP Server. A tool that will serve your JPG/PNG/BMP/SVGs as WebP/AVIF format with compression, on-the-fly. (3 weeks ago)
-- [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go. (1 month ago)
 
 #### 💬 Feedback
 
