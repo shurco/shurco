@@ -6,11 +6,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (today)
-- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (today)
-- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (today)
-- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (1 day ago)
-- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, and comprehensive solution for traffic analysis and intrusion detection. (3 days ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (1 day ago)
+- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (1 day ago)
+- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (1 day ago)
+- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (2 days ago)
+- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, and comprehensive solution for traffic analysis and intrusion detection. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -34,11 +34,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages (6 days ago)
+- [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages (1 week ago)
 - [go-pkgz/auth](https://github.com/go-pkgz/auth) - Authenticator via oauth2, direct, email and telegram  (2 weeks ago)
 - [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go (3 weeks ago)
 - [chaisql/chai](https://github.com/chaisql/chai) - Modern embedded SQL database (3 weeks ago)
-- [webp-sh/webp_server_go](https://github.com/webp-sh/webp_server_go) - Go version of WebP Server. A tool that will serve your JPG/PNG/BMP/SVGs as WebP/AVIF format with compression, on-the-fly. (3 weeks ago)
+- [webp-sh/webp_server_go](https://github.com/webp-sh/webp_server_go) - Go version of WebP Server. A tool that will serve your JPG/PNG/BMP/SVGs as WebP/AVIF format with compression, on-the-fly. (4 weeks ago)
 
 #### 💬 Feedback
 
