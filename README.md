@@ -34,11 +34,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (today)
 - [roboflow/sports](https://github.com/roboflow/sports) - computer vision and sports (1 day ago)
 - [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages (1 week ago)
 - [go-pkgz/auth](https://github.com/go-pkgz/auth) - Authenticator via oauth2, direct, email and telegram  (2 weeks ago)
 - [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go (3 weeks ago)
-- [chaisql/chai](https://github.com/chaisql/chai) - Modern embedded SQL database (3 weeks ago)
 
 #### 💬 Feedback
 
