@@ -34,11 +34,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [acln0/zerocopy](https://github.com/acln0/zerocopy) - Zero-copy I/O primitives and pipelines for Go. Linux-specific. (today)
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres (today)
 - [oklog/run](https://github.com/oklog/run) - A universal mechanism to manage goroutine lifecycles (3 days ago)
 - [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - JAILBREAK PROMPTS FOR ALL MAJOR AI MODELS (5 days ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (5 days ago)
-- [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.  (5 days ago)
 
 #### 💬 Feedback
 
