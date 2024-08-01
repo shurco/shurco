@@ -6,7 +6,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (today)
+- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (1 day ago)
 - [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, and comprehensive solution for traffic analysis and intrusion detection. (1 week ago)
 - [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (1 week ago)
 - [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (3 weeks ago)
@@ -22,7 +22,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [🐞 fix: null check for added product and page](https://github.com/shurco/litecart/pull/151) on [shurco/litecart](https://github.com/shurco/litecart) (today)
+- [🐞 fix: null check for added product and page](https://github.com/shurco/litecart/pull/151) on [shurco/litecart](https://github.com/shurco/litecart) (1 day ago)
 - [Add goClone](https://github.com/alebcay/awesome-shell/pull/513) on [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) (4 months ago)
 - [Merge pull request #4 from shurco/main](https://github.com/shurco/goClone/pull/5) on [shurco/goClone](https://github.com/shurco/goClone) (5 months ago)
 - [First Path Segment in URL cannot contain a colon Bug](https://github.com/shurco/goClone/pull/4) on [shurco/goClone](https://github.com/shurco/goClone) (5 months ago)
@@ -34,11 +34,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [nixys/nxs-backup](https://github.com/nixys/nxs-backup) - The tool for creating, delivering and rotating backups for GNU/Linux distributions. (today)
-- [jonhadfield/ip-fetcher](https://github.com/jonhadfield/ip-fetcher) - A library and CLI to fetch IP ranges from popular online sources (3 days ago)
-- [ntop/nDPI](https://github.com/ntop/nDPI) - Open Source Deep Packet Inspection Software Toolkit (3 days ago)
-- [acln0/zerocopy](https://github.com/acln0/zerocopy) - Zero-copy I/O primitives and pipelines for Go. Linux-specific. (3 days ago)
-- [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres (3 days ago)
+- [nixys/nxs-backup](https://github.com/nixys/nxs-backup) - The tool for creating, delivering and rotating backups for GNU/Linux distributions. (1 day ago)
+- [jonhadfield/ip-fetcher](https://github.com/jonhadfield/ip-fetcher) - A library and CLI to fetch IP ranges from popular online sources (4 days ago)
+- [ntop/nDPI](https://github.com/ntop/nDPI) - Open Source Deep Packet Inspection Software Toolkit (4 days ago)
+- [acln0/zerocopy](https://github.com/acln0/zerocopy) - Zero-copy I/O primitives and pipelines for Go. Linux-specific. (4 days ago)
+- [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres (4 days ago)
 
 #### 💬 Feedback
 
