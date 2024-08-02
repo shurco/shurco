@@ -34,11 +34,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux (today)
 - [nixys/nxs-backup](https://github.com/nixys/nxs-backup) - The tool for creating, delivering and rotating backups for GNU/Linux distributions. (2 days ago)
 - [jonhadfield/ip-fetcher](https://github.com/jonhadfield/ip-fetcher) - A library and CLI to fetch IP ranges from popular online sources (5 days ago)
 - [ntop/nDPI](https://github.com/ntop/nDPI) - Open Source Deep Packet Inspection Software Toolkit (5 days ago)
 - [acln0/zerocopy](https://github.com/acln0/zerocopy) - Zero-copy I/O primitives and pipelines for Go. Linux-specific. (5 days ago)
-- [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres (5 days ago)
 
 #### 💬 Feedback
 
