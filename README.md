@@ -6,7 +6,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (2 days ago)
+- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (3 days ago)
 - [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, and comprehensive solution for traffic analysis and intrusion detection. (1 week ago)
 - [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (2 weeks ago)
 - [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (3 weeks ago)
@@ -22,7 +22,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [🐞 fix: null check for added product and page](https://github.com/shurco/litecart/pull/151) on [shurco/litecart](https://github.com/shurco/litecart) (2 days ago)
+- [🐞 fix: null check for added product and page](https://github.com/shurco/litecart/pull/151) on [shurco/litecart](https://github.com/shurco/litecart) (3 days ago)
 - [Add goClone](https://github.com/alebcay/awesome-shell/pull/513) on [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) (4 months ago)
 - [Merge pull request #4 from shurco/main](https://github.com/shurco/goClone/pull/5) on [shurco/goClone](https://github.com/shurco/goClone) (5 months ago)
 - [First Path Segment in URL cannot contain a colon Bug](https://github.com/shurco/goClone/pull/4) on [shurco/goClone](https://github.com/shurco/goClone) (5 months ago)
@@ -34,11 +34,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux (today)
-- [nixys/nxs-backup](https://github.com/nixys/nxs-backup) - The tool for creating, delivering and rotating backups for GNU/Linux distributions. (2 days ago)
-- [jonhadfield/ip-fetcher](https://github.com/jonhadfield/ip-fetcher) - A library and CLI to fetch IP ranges from popular online sources (5 days ago)
-- [ntop/nDPI](https://github.com/ntop/nDPI) - Open Source Deep Packet Inspection Software Toolkit (5 days ago)
-- [acln0/zerocopy](https://github.com/acln0/zerocopy) - Zero-copy I/O primitives and pipelines for Go. Linux-specific. (5 days ago)
+- [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux (1 day ago)
+- [nixys/nxs-backup](https://github.com/nixys/nxs-backup) - The tool for creating, delivering and rotating backups for GNU/Linux distributions. (3 days ago)
+- [jonhadfield/ip-fetcher](https://github.com/jonhadfield/ip-fetcher) - A library and CLI to fetch IP ranges from popular online sources (6 days ago)
+- [ntop/nDPI](https://github.com/ntop/nDPI) - Open Source Deep Packet Inspection Software Toolkit (6 days ago)
+- [acln0/zerocopy](https://github.com/acln0/zerocopy) - Zero-copy I/O primitives and pipelines for Go. Linux-specific. (6 days ago)
 
 #### 💬 Feedback
 
