@@ -34,8 +34,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [moov-io/iso8583](https://github.com/moov-io/iso8583) - A golang implementation to marshal and unmarshal iso8583 message. (1 day ago)
-- [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go (6 days ago)
+- [moov-io/iso8583](https://github.com/moov-io/iso8583) - A golang implementation to marshal and unmarshal iso8583 message. (2 days ago)
+- [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go (1 week ago)
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux (3 weeks ago)
 - [nixys/nxs-backup](https://github.com/nixys/nxs-backup) - The tool for creating, delivering and rotating backups for GNU/Linux distributions. (4 weeks ago)
 - [jonhadfield/ip-fetcher](https://github.com/jonhadfield/ip-fetcher) - A library and CLI to fetch IP ranges from popular online sources (1 month ago)
