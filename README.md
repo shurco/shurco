@@ -22,7 +22,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [🐞 fix: null check for added product and page](https://github.com/shurco/litecart/pull/151) on [shurco/litecart](https://github.com/shurco/litecart) (4 weeks ago)
+- [🐞 fix: null check for added product and page](https://github.com/shurco/litecart/pull/151) on [shurco/litecart](https://github.com/shurco/litecart) (1 month ago)
 - [Add goClone](https://github.com/alebcay/awesome-shell/pull/513) on [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) (5 months ago)
 - [Merge pull request #4 from shurco/main](https://github.com/shurco/goClone/pull/5) on [shurco/goClone](https://github.com/shurco/goClone) (6 months ago)
 - [First Path Segment in URL cannot contain a colon Bug](https://github.com/shurco/goClone/pull/4) on [shurco/goClone](https://github.com/shurco/goClone) (6 months ago)
@@ -34,10 +34,10 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [moov-io/iso8583](https://github.com/moov-io/iso8583) - A golang implementation to marshal and unmarshal iso8583 message. (2 days ago)
+- [moov-io/iso8583](https://github.com/moov-io/iso8583) - A golang implementation to marshal and unmarshal iso8583 message. (3 days ago)
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go (1 week ago)
-- [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux (3 weeks ago)
-- [nixys/nxs-backup](https://github.com/nixys/nxs-backup) - The tool for creating, delivering and rotating backups for GNU/Linux distributions. (4 weeks ago)
+- [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux (4 weeks ago)
+- [nixys/nxs-backup](https://github.com/nixys/nxs-backup) - The tool for creating, delivering and rotating backups for GNU/Linux distributions. (1 month ago)
 - [jonhadfield/ip-fetcher](https://github.com/jonhadfield/ip-fetcher) - A library and CLI to fetch IP ranges from popular online sources (1 month ago)
 
 #### 💬 Feedback
