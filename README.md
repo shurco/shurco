@@ -6,11 +6,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (today)
-- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (1 day ago)
-- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (1 day ago)
+- [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (1 day ago)
+- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (2 days ago)
+- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (2 days ago)
 - [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, and comprehensive solution for traffic analysis and intrusion detection. (2 weeks ago)
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (1 month ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -26,7 +26,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 - [Add goClone](https://github.com/alebcay/awesome-shell/pull/513) on [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) (6 months ago)
 - [Merge pull request #4 from shurco/main](https://github.com/shurco/goClone/pull/5) on [shurco/goClone](https://github.com/shurco/goClone) (6 months ago)
 - [First Path Segment in URL cannot contain a colon Bug](https://github.com/shurco/goClone/pull/4) on [shurco/goClone](https://github.com/shurco/goClone) (6 months ago)
-- [🐞 fix: settings for payment and letters](https://github.com/shurco/litecart/pull/89) on [shurco/litecart](https://github.com/shurco/litecart) (7 months ago)
+- [🐞 fix: settings for payment and letters](https://github.com/shurco/litecart/pull/89) on [shurco/litecart](https://github.com/shurco/litecart) (8 months ago)
 
 #### 📓 Gists I wrote
 
