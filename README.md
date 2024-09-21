@@ -34,11 +34,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom &amp; pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph. (today)
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang (1 day ago)
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. (1 week ago)
 - [elastic/go-sysinfo](https://github.com/elastic/go-sysinfo) - go-sysinfo is a library for collecting system information. (3 weeks ago)
 - [moov-io/iso8583](https://github.com/moov-io/iso8583) - A golang implementation to marshal and unmarshal iso8583 message. (3 weeks ago)
-- [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go (1 month ago)
 
 #### 💬 Feedback
 
