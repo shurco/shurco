@@ -34,11 +34,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [cschroeter/park-ui](https://github.com/cschroeter/park-ui) - Beautifully designed components built with Ark UI and Panda CSS that work with a variety of JS frameworks. (today)
 - [antvis/X6](https://github.com/antvis/X6) - 🚀 JavaScript diagramming library that uses SVG and HTML for rendering. (2 days ago)
 - [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom &amp; pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph. (1 week ago)
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang (1 week ago)
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. (2 weeks ago)
-- [elastic/go-sysinfo](https://github.com/elastic/go-sysinfo) - go-sysinfo is a library for collecting system information. (4 weeks ago)
 
 #### 💬 Feedback
 
