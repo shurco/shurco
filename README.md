@@ -35,7 +35,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 #### ⭐ Recent Stars
 
 - [z0ffy/vite-plugin-bundle-obfuscator](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) - JavaScript obfuscator plugin for Vite environments (today)
-- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal (2 days ago)
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal (2 days ago)
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an in-memory, real-time, and reactive database with Redis and SQL support optimized for modern hardware and building real-time applications. (4 days ago)
 - [uber-go/multierr](https://github.com/uber-go/multierr) - Combine one or more Go errors together (4 days ago)
 - [cschroeter/park-ui](https://github.com/cschroeter/park-ui) - Beautifully designed components built with Ark UI and Panda CSS that work with a variety of JS frameworks. (6 days ago)
