@@ -6,9 +6,9 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (today)
 - [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (today)
 - [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (today)
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (4 days ago)
 - [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, and comprehensive solution for traffic analysis and intrusion detection. (2 weeks ago)
 - [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (2 weeks ago)
 
@@ -22,11 +22,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
+- [🧪 test: tests for the REST API](https://github.com/werbot/werbot/pull/294) on [werbot/werbot](https://github.com/werbot/werbot) (today)
+- [🦄 refactor: reviewed the code.](https://github.com/werbot/werbot/pull/293) on [werbot/werbot](https://github.com/werbot/werbot) (today)
 - [✨ feat: proto ghoster](https://github.com/werbot/werbot/pull/287) on [werbot/werbot](https://github.com/werbot/werbot) (4 days ago)
 - [🧪 test: enhance testing utilities and update dependencies](https://github.com/werbot/werbot/pull/284) on [werbot/werbot](https://github.com/werbot/werbot) (5 days ago)
 - [🐞 fix: null check for added product and page](https://github.com/shurco/litecart/pull/151) on [shurco/litecart](https://github.com/shurco/litecart) (2 months ago)
-- [Add goClone](https://github.com/alebcay/awesome-shell/pull/513) on [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) (7 months ago)
-- [Merge pull request #4 from shurco/main](https://github.com/shurco/goClone/pull/5) on [shurco/goClone](https://github.com/shurco/goClone) (7 months ago)
 
 #### 📓 Gists I wrote
 
