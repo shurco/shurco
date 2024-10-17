@@ -22,11 +22,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
+- [Belarusian translation](https://github.com/golang-standards/project-layout/pull/261) on [golang-standards/project-layout](https://github.com/golang-standards/project-layout) (today)
 - [🐎 ci: kubernetes manifest example](https://github.com/shurco/litecart/pull/164) on [shurco/litecart](https://github.com/shurco/litecart) (5 days ago)
 - [🧪 test: tests for the REST API](https://github.com/werbot/werbot/pull/294) on [werbot/werbot](https://github.com/werbot/werbot) (1 week ago)
 - [🦄 refactor: reviewed the code.](https://github.com/werbot/werbot/pull/293) on [werbot/werbot](https://github.com/werbot/werbot) (1 week ago)
 - [✨ feat: proto ghoster](https://github.com/werbot/werbot/pull/287) on [werbot/werbot](https://github.com/werbot/werbot) (1 week ago)
-- [🧪 test: enhance testing utilities and update dependencies](https://github.com/werbot/werbot/pull/284) on [werbot/werbot](https://github.com/werbot/werbot) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
