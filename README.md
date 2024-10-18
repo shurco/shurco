@@ -34,11 +34,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don&#39;t change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (today)
 - [ohler55/ojg](https://github.com/ohler55/ojg) - Optimized JSON for Go (4 days ago)
 - [z0ffy/vite-plugin-bundle-obfuscator](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) - JavaScript obfuscator plugin for Vite, offering customizable options and multi-threading support to strengthen code security. (2 weeks ago)
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal (2 weeks ago)
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications. (2 weeks ago)
-- [uber-go/multierr](https://github.com/uber-go/multierr) - Combine one or more Go errors together (2 weeks ago)
 
 #### 💬 Feedback
 
