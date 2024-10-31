@@ -34,11 +34,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform (today)
 - [SenseUnit/dumbproxy](https://github.com/SenseUnit/dumbproxy) - Dumbest HTTP proxy ever (1 week ago)
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don&#39;t change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (1 week ago)
 - [ohler55/ojg](https://github.com/ohler55/ojg) - Optimized JSON for Go (2 weeks ago)
 - [z0ffy/vite-plugin-bundle-obfuscator](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) - JavaScript obfuscator plugin for Vite provides customizable options and multi-threaded support to quickly obfusify and enhance code security. (3 weeks ago)
-- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal (4 weeks ago)
 
 #### 💬 Feedback
 
