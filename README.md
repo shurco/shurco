@@ -24,8 +24,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 - [Belarusian translation](https://github.com/golang-standards/project-layout/pull/261) on [golang-standards/project-layout](https://github.com/golang-standards/project-layout) (2 weeks ago)
 - [🐎 ci: kubernetes manifest example](https://github.com/shurco/litecart/pull/164) on [shurco/litecart](https://github.com/shurco/litecart) (3 weeks ago)
-- [🧪 test: tests for the REST API](https://github.com/werbot/werbot/pull/294) on [werbot/werbot](https://github.com/werbot/werbot) (3 weeks ago)
-- [🦄 refactor: reviewed the code.](https://github.com/werbot/werbot/pull/293) on [werbot/werbot](https://github.com/werbot/werbot) (3 weeks ago)
+- [🧪 test: tests for the REST API](https://github.com/werbot/werbot/pull/294) on [werbot/werbot](https://github.com/werbot/werbot) (4 weeks ago)
+- [🦄 refactor: reviewed the code.](https://github.com/werbot/werbot/pull/293) on [werbot/werbot](https://github.com/werbot/werbot) (4 weeks ago)
 - [✨ feat: proto ghoster](https://github.com/werbot/werbot/pull/287) on [werbot/werbot](https://github.com/werbot/werbot) (1 month ago)
 
 #### 📓 Gists I wrote
@@ -34,7 +34,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform (4 days ago)
+- [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform (5 days ago)
 - [SenseUnit/dumbproxy](https://github.com/SenseUnit/dumbproxy) - Dumbest HTTP proxy ever (1 week ago)
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don&#39;t change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (2 weeks ago)
 - [ohler55/ojg](https://github.com/ohler55/ojg) - Optimized JSON for Go (3 weeks ago)
