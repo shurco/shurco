@@ -34,11 +34,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [PickleBoxer/dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts) - 📚 Personal collection of ChatGPT prompts for developers! (today)
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform (1 week ago)
 - [SenseUnit/dumbproxy](https://github.com/SenseUnit/dumbproxy) - Dumbest HTTP proxy ever (2 weeks ago)
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don&#39;t change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (3 weeks ago)
 - [ohler55/ojg](https://github.com/ohler55/ojg) - Optimized JSON for Go (3 weeks ago)
-- [z0ffy/vite-plugin-bundle-obfuscator](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) - JavaScript obfuscator plugin for Vite provides customizable options and multi-threaded support to quickly obfusify and enhance code security. (1 month ago)
 
 #### 💬 Feedback
 
