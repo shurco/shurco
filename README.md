@@ -34,11 +34,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (today)
 - [pagpeter/TrackMe](https://github.com/pagpeter/TrackMe) -  (today)
 - [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers  (4 days ago)
 - [PickleBoxer/dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts) - 📚 Personal collection of ChatGPT prompts for developers! (5 days ago)
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform (1 week ago)
-- [SenseUnit/dumbproxy](https://github.com/SenseUnit/dumbproxy) - Dumbest HTTP proxy ever (3 weeks ago)
 
 #### 💬 Feedback
 
