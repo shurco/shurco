@@ -34,11 +34,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (1 day ago)
-- [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (2 days ago)
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (today)
 - [pagpeter/TrackMe](https://github.com/pagpeter/TrackMe) -  (2 days ago)
 - [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers  (6 days ago)
 - [PickleBoxer/dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts) - 📚 Personal collection of ChatGPT prompts for developers! (1 week ago)
+- [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform (2 weeks ago)
 
 #### 💬 Feedback
 
