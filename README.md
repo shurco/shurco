@@ -9,7 +9,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 - [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (1 week ago)
 - [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress [experiment] (1 week ago)
 - [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (1 week ago)
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (1 week ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (2 weeks ago)
 - [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, and comprehensive solution for traffic analysis and intrusion detection. (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -34,8 +34,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (4 days ago)
-- [pagpeter/TrackMe](https://github.com/pagpeter/TrackMe) -  (6 days ago)
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (5 days ago)
+- [pagpeter/TrackMe](https://github.com/pagpeter/TrackMe) -  (1 week ago)
 - [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers  (1 week ago)
 - [PickleBoxer/dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts) - 📚 Personal collection of ChatGPT prompts for developers! (1 week ago)
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform (2 weeks ago)
