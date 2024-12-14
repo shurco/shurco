@@ -34,11 +34,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [phuslu/log](https://github.com/phuslu/log) - Fastest structured logging (today)
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (4 weeks ago)
 - [pagpeter/TrackMe](https://github.com/pagpeter/TrackMe) -  (1 month ago)
 - [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers  (1 month ago)
 - [PickleBoxer/dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts) - 📚 Personal collection of ChatGPT prompts for developers! (1 month ago)
-- [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform (1 month ago)
 
 #### 💬 Feedback
 
