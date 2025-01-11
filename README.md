@@ -6,10 +6,10 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (today)
-- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress [experiment] (2 days ago)
-- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (2 days ago)
-- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, and comprehensive solution for traffic analysis and intrusion detection. (3 days ago)
+- [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (1 day ago)
+- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress [experiment] (3 days ago)
+- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (3 days ago)
+- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, and comprehensive solution for traffic analysis and intrusion detection. (4 days ago)
 - [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -35,7 +35,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 #### ⭐ Recent Stars
 
 - [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client) - net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.  (2 weeks ago)
-- [phuslu/log](https://github.com/phuslu/log) - Fastest structured logging (3 weeks ago)
+- [phuslu/log](https://github.com/phuslu/log) - Fastest structured logging (4 weeks ago)
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (1 month ago)
 - [pagpeter/TrackMe](https://github.com/pagpeter/TrackMe) -  (1 month ago)
 - [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers  (2 months ago)
