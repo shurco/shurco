@@ -6,11 +6,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (today)
-- [piplos/caretaker](https://github.com/piplos/caretaker) -  (today)
-- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress [experiment] (1 day ago)
-- [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (2 days ago)
-- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (2 days ago)
+- [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (1 day ago)
+- [piplos/caretaker](https://github.com/piplos/caretaker) -  (1 day ago)
+- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress [experiment] (2 days ago)
+- [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (3 days ago)
+- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -34,7 +34,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. (3 days ago)
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. (4 days ago)
 - [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client) - net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.  (3 weeks ago)
 - [phuslu/log](https://github.com/phuslu/log) - Fastest structured logging (1 month ago)
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (2 months ago)
