@@ -34,11 +34,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -  (today)
 - [EvilBytecode/GoDefender](https://github.com/EvilBytecode/GoDefender) - Anti Virtulization, Anti Debugging, AntiVM, Anti Virtual Machine, Anti Debug, Anti Sandboxie, Anti Sandbox, VM Detect package. Windows ONLY. (4 days ago)
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. (1 week ago)
 - [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client) - net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.  (1 month ago)
 - [phuslu/log](https://github.com/phuslu/log) - Fastest structured logging (1 month ago)
-- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (2 months ago)
 
 #### 💬 Feedback
 
