@@ -7,18 +7,18 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 #### 👷 Check out what I'm currently working on
 
 - [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress [experiment] (today)
+- [shurco/wp-sqlite](https://github.com/shurco/wp-sqlite) -  (today)
 - [piplos/caretaker](https://github.com/piplos/caretaker) -  (1 week ago)
 - [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (1 week ago)
 - [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (1 week ago)
-- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (1 week ago)
 
 #### 🌱 My latest projects
 
+- [shurco/wp-sqlite](https://github.com/shurco/wp-sqlite) - 
 - [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress [experiment]
 - [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support
 - [shurco/.github](https://github.com/shurco/.github) - ⚙️ Github repos setting
 - [shurco/homebrew-tap](https://github.com/shurco/homebrew-tap) - 📚 shurco homebrew tap
-- [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in seconds
 
 #### 🔨 My recent Pull Requests
 
