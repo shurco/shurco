@@ -6,7 +6,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress [experiment] (1 day ago)
+- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress [experiment] (2 days ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (1 week ago)
 - [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (1 week ago)
 - [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (2 weeks ago)
@@ -23,7 +23,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 #### 🔨 My recent Pull Requests
 
 - [Belarusian translation](https://github.com/golang-standards/project-layout/pull/261) on [golang-standards/project-layout](https://github.com/golang-standards/project-layout) (6 months ago)
-- [🐎 ci: kubernetes manifest example](https://github.com/shurco/litecart/pull/164) on [shurco/litecart](https://github.com/shurco/litecart) (6 months ago)
+- [🐎 ci: kubernetes manifest example](https://github.com/shurco/litecart/pull/164) on [shurco/litecart](https://github.com/shurco/litecart) (7 months ago)
 - [🧪 test: tests for the REST API](https://github.com/werbot/werbot/pull/294) on [werbot/werbot](https://github.com/werbot/werbot) (7 months ago)
 - [🦄 refactor: reviewed the code.](https://github.com/werbot/werbot/pull/293) on [werbot/werbot](https://github.com/werbot/werbot) (7 months ago)
 - [✨ feat: proto ghoster](https://github.com/werbot/werbot/pull/287) on [werbot/werbot](https://github.com/werbot/werbot) (7 months ago)
@@ -34,8 +34,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [invopop/gobl](https://github.com/invopop/gobl) - Go Business Language (1 day ago)
-- [google/certificate-transparency-go](https://github.com/google/certificate-transparency-go) - Auditing for TLS certificates (Go code) (3 days ago)
+- [invopop/gobl](https://github.com/invopop/gobl) - Go Business Language (2 days ago)
+- [google/certificate-transparency-go](https://github.com/google/certificate-transparency-go) - Auditing for TLS certificates (Go code) (4 days ago)
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (1 week ago)
 - [blockworks-foundation/lite-rpc](https://github.com/blockworks-foundation/lite-rpc) - This is a solana lite rpc which optimizes sending transactions and confirming transactions strategies. (1 month ago)
 - [siglens/siglens](https://github.com/siglens/siglens) - 100x Efficient Log Management than Splunk :rocket: Reduce your observability cost by 90% (2 months ago)
