@@ -34,11 +34,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [doganarif/GoVisual](https://github.com/doganarif/GoVisual) - Zero-config, pure-Go HTTP request visualizer &amp; debugger for local Go web development. (today)
 - [invopop/gobl](https://github.com/invopop/gobl) - Go Business Language (4 days ago)
 - [google/certificate-transparency-go](https://github.com/google/certificate-transparency-go) - Auditing for TLS certificates (Go code) (6 days ago)
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (1 week ago)
 - [blockworks-foundation/lite-rpc](https://github.com/blockworks-foundation/lite-rpc) - This is a solana lite rpc which optimizes sending transactions and confirming transactions strategies. (1 month ago)
-- [siglens/siglens](https://github.com/siglens/siglens) - 100x Efficient Log Management than Splunk :rocket: Reduce your observability cost by 90% (2 months ago)
 
 #### 💬 Feedback
 
