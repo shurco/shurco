@@ -34,11 +34,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [sec3-service/IDLGuesser](https://github.com/sec3-service/IDLGuesser) - IDL Guesser is an open-source tool that automatically recovers the IDL information from closed-source Anchor-based Solana programs. (today)
 - [sonicfromnewyoke/solana-rpc](https://github.com/sonicfromnewyoke/solana-rpc) - Configure a slightly more performant Solana RPC than a regular one (5 days ago)
 - [doganarif/GoVisual](https://github.com/doganarif/GoVisual) - Zero-config, pure-Go HTTP request visualizer &amp; debugger for local Go web development. (1 week ago)
 - [invopop/gobl](https://github.com/invopop/gobl) - Go Business Language (1 week ago)
 - [google/certificate-transparency-go](https://github.com/google/certificate-transparency-go) - Auditing for TLS certificates (Go code) (1 week ago)
-- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (2 weeks ago)
 
 #### 💬 Feedback
 
