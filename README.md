@@ -34,11 +34,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework (today)
 - [bernaferrari/FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI. (3 days ago)
 - [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (1 week ago)
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460. Any other account is fake. (2 weeks ago)
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀 (2 weeks ago)
-- [sec3-service/IDLGuesser](https://github.com/sec3-service/IDLGuesser) - IDL Guesser is an open-source tool that automatically recovers the IDL information from closed-source Anchor-based Solana programs. (3 weeks ago)
 
 #### 💬 Feedback
 
