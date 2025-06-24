@@ -22,11 +22,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
+- [🔧 feat: Add eBPF support and update dependencies](https://github.com/netmoth/netmoth/pull/105) on [netmoth/netmoth](https://github.com/netmoth/netmoth) (today)
 - [🔧 fix: Enhance SMTP settings validation and error handling](https://github.com/shurco/litecart/pull/221) on [shurco/litecart](https://github.com/shurco/litecart) (today)
 - [🔧 fix: Update password validation length across models](https://github.com/shurco/litecart/pull/220) on [shurco/litecart](https://github.com/shurco/litecart) (today)
 - [🔧 fix: Update file path handling in crawler and asset loading](https://github.com/shurco/goClone/pull/33) on [shurco/goClone](https://github.com/shurco/goClone) (today)
 - [Belarusian translation](https://github.com/golang-standards/project-layout/pull/261) on [golang-standards/project-layout](https://github.com/golang-standards/project-layout) (8 months ago)
-- [🐎 ci: kubernetes manifest example](https://github.com/shurco/litecart/pull/164) on [shurco/litecart](https://github.com/shurco/litecart) (8 months ago)
 
 #### 📓 Gists I wrote
 
