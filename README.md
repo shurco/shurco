@@ -6,9 +6,9 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress [experiment] (4 days ago)
-- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, and comprehensive solution for traffic analysis and intrusion detection. (5 days ago)
-- [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in seconds (6 days ago)
+- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress [experiment] (5 days ago)
+- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, and comprehensive solution for traffic analysis and intrusion detection. (6 days ago)
+- [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in seconds (1 week ago)
 - [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (1 week ago)
 - [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (1 week ago)
 
@@ -35,10 +35,10 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [vanzan01/cursor-memory-bank](https://github.com/vanzan01/cursor-memory-bank) - A modular, documentation-driven framework using Cursor custom modes (VAN, PLAN, CREATIVE, IMPLEMENT) to provide persistent memory and guide AI through a structured development workflow with visual process maps. (5 days ago)
-- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative (6 days ago)
+- [vanzan01/cursor-memory-bank](https://github.com/vanzan01/cursor-memory-bank) - A modular, documentation-driven framework using Cursor custom modes (VAN, PLAN, CREATIVE, IMPLEMENT) to provide persistent memory and guide AI through a structured development workflow with visual process maps. (6 days ago)
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative (1 week ago)
 - [stefanmaric/g](https://github.com/stefanmaric/g) - Simple go version manager, gluten-free (1 week ago)
-- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework (2 weeks ago)
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework (3 weeks ago)
 - [bernaferrari/FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI. (3 weeks ago)
 
 #### 💬 Feedback
