@@ -6,7 +6,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress [experiment] (6 days ago)
+- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress [experiment] (1 week ago)
 - [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, and comprehensive solution for traffic analysis and intrusion detection. (1 week ago)
 - [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in seconds (1 week ago)
 - [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (1 week ago)
@@ -30,7 +30,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 📓 Gists I wrote
 
-- [Bash script for optimizing web images (JPEG/PNG/GIF) with smart threading, date filtering, and automatic dependency checking. Features SSD/HDD detection for optimal performance and detailed size reporting.](https://gist.github.com/84bb2012c2d4b0feddea089ba03efebd) (1 week ago)
+- [Bash script for optimizing web images (JPEG/PNG/GIF) with smart threading, date filtering, and automatic dependency checking. Features SSD/HDD detection for optimal performance and detailed size reporting.](https://gist.github.com/84bb2012c2d4b0feddea089ba03efebd) (2 weeks ago)
 - [Keybase proof](https://gist.github.com/959752bb9b046d792e71ca185f48d641) (5 years ago)
 
 #### ⭐ Recent Stars
