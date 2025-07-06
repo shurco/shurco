@@ -39,7 +39,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative (1 week ago)
 - [stefanmaric/g](https://github.com/stefanmaric/g) - Simple go version manager, gluten-free (1 week ago)
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework (3 weeks ago)
-- [bernaferrari/FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI. (3 weeks ago)
+- [bernaferrari/FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI. (4 weeks ago)
 
 #### 💬 Feedback
 
