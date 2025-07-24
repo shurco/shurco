@@ -6,11 +6,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, and comprehensive solution for traffic analysis and intrusion detection. (today)
+- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, and comprehensive solution for traffic analysis and intrusion detection. (1 day ago)
 - [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress [experiment] (3 weeks ago)
 - [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in seconds (4 weeks ago)
-- [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (4 weeks ago)
-- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (4 weeks ago)
+- [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (1 month ago)
+- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -22,11 +22,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [Produce full code documentation](https://github.com/netmoth/netmoth/pull/108) on [netmoth/netmoth](https://github.com/netmoth/netmoth) (today)
-- [🔧 feat: Add eBPF support and update dependencies](https://github.com/netmoth/netmoth/pull/105) on [netmoth/netmoth](https://github.com/netmoth/netmoth) (4 weeks ago)
-- [🔧 fix: Enhance SMTP settings validation and error handling](https://github.com/shurco/litecart/pull/221) on [shurco/litecart](https://github.com/shurco/litecart) (4 weeks ago)
-- [🔧 fix: Update password validation length across models](https://github.com/shurco/litecart/pull/220) on [shurco/litecart](https://github.com/shurco/litecart) (4 weeks ago)
-- [🔧 fix: Update file path handling in crawler and asset loading](https://github.com/shurco/goClone/pull/33) on [shurco/goClone](https://github.com/shurco/goClone) (4 weeks ago)
+- [Produce full code documentation](https://github.com/netmoth/netmoth/pull/108) on [netmoth/netmoth](https://github.com/netmoth/netmoth) (1 day ago)
+- [🔧 feat: Add eBPF support and update dependencies](https://github.com/netmoth/netmoth/pull/105) on [netmoth/netmoth](https://github.com/netmoth/netmoth) (1 month ago)
+- [🔧 fix: Enhance SMTP settings validation and error handling](https://github.com/shurco/litecart/pull/221) on [shurco/litecart](https://github.com/shurco/litecart) (1 month ago)
+- [🔧 fix: Update password validation length across models](https://github.com/shurco/litecart/pull/220) on [shurco/litecart](https://github.com/shurco/litecart) (1 month ago)
+- [🔧 fix: Update file path handling in crawler and asset loading](https://github.com/shurco/goClone/pull/33) on [shurco/goClone](https://github.com/shurco/goClone) (1 month ago)
 
 #### 📓 Gists I wrote
 
@@ -37,9 +37,9 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. (1 week ago)
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal. (1 week ago)
-- [vanzan01/cursor-memory-bank](https://github.com/vanzan01/cursor-memory-bank) - A modular, documentation-driven framework using Cursor custom modes (VAN, PLAN, CREATIVE, IMPLEMENT) to provide persistent memory and guide AI through a structured development workflow with visual process maps. (3 weeks ago)
+- [vanzan01/cursor-memory-bank](https://github.com/vanzan01/cursor-memory-bank) - A modular, documentation-driven framework using Cursor custom modes (VAN, PLAN, CREATIVE, IMPLEMENT) to provide persistent memory and guide AI through a structured development workflow with visual process maps. (4 weeks ago)
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative (4 weeks ago)
-- [stefanmaric/g](https://github.com/stefanmaric/g) - Simple go version manager, gluten-free (4 weeks ago)
+- [stefanmaric/g](https://github.com/stefanmaric/g) - Simple go version manager, gluten-free (1 month ago)
 
 #### 💬 Feedback
 
