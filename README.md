@@ -6,7 +6,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (today)
+- [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (1 day ago)
 - [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (1 week ago)
 - [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, and comprehensive solution for traffic analysis and intrusion detection. (1 week ago)
 - [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in seconds (1 week ago)
@@ -22,7 +22,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [Produce full code documentation](https://github.com/netmoth/netmoth/pull/108) on [netmoth/netmoth](https://github.com/netmoth/netmoth) (4 weeks ago)
+- [Produce full code documentation](https://github.com/netmoth/netmoth/pull/108) on [netmoth/netmoth](https://github.com/netmoth/netmoth) (1 month ago)
 - [🔧 feat: Add eBPF support and update dependencies](https://github.com/netmoth/netmoth/pull/105) on [netmoth/netmoth](https://github.com/netmoth/netmoth) (1 month ago)
 - [🔧 fix: Enhance SMTP settings validation and error handling](https://github.com/shurco/litecart/pull/221) on [shurco/litecart](https://github.com/shurco/litecart) (1 month ago)
 - [🔧 fix: Update password validation length across models](https://github.com/shurco/litecart/pull/220) on [shurco/litecart](https://github.com/shurco/litecart) (1 month ago)
