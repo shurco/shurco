@@ -8,7 +8,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 - [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (3 weeks ago)
 - [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (3 weeks ago)
-- [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (3 weeks ago)
+- [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (4 weeks ago)
 - [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, and comprehensive solution for traffic analysis and intrusion detection. (1 month ago)
 - [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in seconds (1 month ago)
 
@@ -30,12 +30,12 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 📓 Gists I wrote
 
-- [Bash script for optimizing web images (JPEG/PNG/GIF) with smart threading, date filtering, and automatic dependency checking. Features SSD/HDD detection for optimal performance and detailed size reporting.](https://gist.github.com/84bb2012c2d4b0feddea089ba03efebd) (2 months ago)
+- [Bash script for optimizing web images (JPEG/PNG/GIF) with smart threading, date filtering, and automatic dependency checking. Features SSD/HDD detection for optimal performance and detailed size reporting.](https://gist.github.com/84bb2012c2d4b0feddea089ba03efebd) (3 months ago)
 - [Keybase proof](https://gist.github.com/959752bb9b046d792e71ca185f48d641) (5 years ago)
 
 #### ⭐ Recent Stars
 
-- [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news. (3 days ago)
+- [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news. (4 days ago)
 - [enetx/surf](https://github.com/enetx/surf) - SURF - Advanced Go HTTP client with Chrome/Firefox browser impersonation, HTTP/3 with QUIC fingerprinting, JA3/JA4 TLS emulation, and anti-bot bypass for web automation and scraping. (1 week ago)
 - [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode. (3 weeks ago)
 - [bytedance/Dolphin](https://github.com/bytedance/Dolphin) - The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025. (1 month ago)
