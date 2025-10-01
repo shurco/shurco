@@ -22,11 +22,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
+- [fix(docs): update healthcheck command in Docker configurations to use…](https://github.com/0xfurai/peekaping/pull/200) on [0xfurai/peekaping](https://github.com/0xfurai/peekaping) (today)
 - [Produce full code documentation](https://github.com/netmoth/netmoth/pull/108) on [netmoth/netmoth](https://github.com/netmoth/netmoth) (2 months ago)
 - [🔧 feat: Add eBPF support and update dependencies](https://github.com/netmoth/netmoth/pull/105) on [netmoth/netmoth](https://github.com/netmoth/netmoth) (3 months ago)
 - [🔧 fix: Enhance SMTP settings validation and error handling](https://github.com/shurco/litecart/pull/221) on [shurco/litecart](https://github.com/shurco/litecart) (3 months ago)
 - [🔧 fix: Update password validation length across models](https://github.com/shurco/litecart/pull/220) on [shurco/litecart](https://github.com/shurco/litecart) (3 months ago)
-- [🔧 fix: Update file path handling in crawler and asset loading](https://github.com/shurco/goClone/pull/33) on [shurco/goClone](https://github.com/shurco/goClone) (3 months ago)
 
 #### 📓 Gists I wrote
 
