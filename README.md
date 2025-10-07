@@ -6,7 +6,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [0xfurai/peekaping](https://github.com/0xfurai/peekaping) - 🚀 Modern self-hosted uptime monitoring solution - Monitor websites, APIs, and services with real-time notifications, beautiful status pages, and comprehensive analytics. Built with Go, React.  (2 days ago)
+- [0xfurai/peekaping](https://github.com/0xfurai/peekaping) - 🚀 Modern self-hosted uptime monitoring solution - Monitor websites, APIs, and services with real-time notifications, beautiful status pages, and comprehensive analytics. Built with Go, React.  (3 days ago)
 - [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (1 week ago)
 - [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (1 month ago)
 - [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (1 month ago)
@@ -22,7 +22,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [fix(docs): update healthcheck command in Docker configurations to use…](https://github.com/0xfurai/peekaping/pull/200) on [0xfurai/peekaping](https://github.com/0xfurai/peekaping) (5 days ago)
+- [fix(docs): update healthcheck command in Docker configurations to use…](https://github.com/0xfurai/peekaping/pull/200) on [0xfurai/peekaping](https://github.com/0xfurai/peekaping) (6 days ago)
 - [Produce full code documentation](https://github.com/netmoth/netmoth/pull/108) on [netmoth/netmoth](https://github.com/netmoth/netmoth) (2 months ago)
 - [🔧 feat: Add eBPF support and update dependencies](https://github.com/netmoth/netmoth/pull/105) on [netmoth/netmoth](https://github.com/netmoth/netmoth) (3 months ago)
 - [🔧 fix: Enhance SMTP settings validation and error handling](https://github.com/shurco/litecart/pull/221) on [shurco/litecart](https://github.com/shurco/litecart) (3 months ago)
