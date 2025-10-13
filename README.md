@@ -35,9 +35,9 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (today)
-- [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI &#43; [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one. (5 days ago)
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning &amp; Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM. (5 days ago)
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (1 day ago)
+- [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI &#43; [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one. (6 days ago)
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning &amp; Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM. (6 days ago)
 - [0xfurai/peekaping](https://github.com/0xfurai/peekaping) - 🚀 Modern self-hosted uptime monitoring solution - Monitor websites, APIs, and services with real-time notifications, beautiful status pages, and comprehensive analytics. Built with Go, React.  (2 weeks ago)
 - [maniartech/signals](https://github.com/maniartech/signals) - A robust, dependency-free go library that provides simple, thin, and user-friendly pub-sub kind of in-process event system for your Go applications. (2 weeks ago)
 
