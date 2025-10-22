@@ -6,9 +6,9 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (today)
-- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (today)
-- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, and comprehensive solution for traffic analysis and intrusion detection. (today)
+- [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (1 day ago)
+- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (1 day ago)
+- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, and comprehensive solution for traffic analysis and intrusion detection. (1 day ago)
 - [0xfurai/peekaping](https://github.com/0xfurai/peekaping) - 🚀 Modern self-hosted uptime monitoring solution - Monitor websites, APIs, and services with real-time notifications, beautiful status pages, and comprehensive analytics. Built with Go, React.  (2 weeks ago)
 - [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (2 months ago)
 
@@ -22,10 +22,10 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [🔧 build: updated packages](https://github.com/werbot/lime/pull/247) on [werbot/lime](https://github.com/werbot/lime) (today)
-- [Dependabot/npm and yarn/web/types/node 20.14.5](https://github.com/werbot/lime/pull/246) on [werbot/lime](https://github.com/werbot/lime) (today)
-- [🔧 build(deps): Update Go dependencies and toolchain](https://github.com/netmoth/netmoth/pull/123) on [netmoth/netmoth](https://github.com/netmoth/netmoth) (today)
-- [fix(docs): update healthcheck command in Docker configurations to use…](https://github.com/0xfurai/peekaping/pull/200) on [0xfurai/peekaping](https://github.com/0xfurai/peekaping) (2 weeks ago)
+- [🔧 build: updated packages](https://github.com/werbot/lime/pull/247) on [werbot/lime](https://github.com/werbot/lime) (1 day ago)
+- [Dependabot/npm and yarn/web/types/node 20.14.5](https://github.com/werbot/lime/pull/246) on [werbot/lime](https://github.com/werbot/lime) (1 day ago)
+- [🔧 build(deps): Update Go dependencies and toolchain](https://github.com/netmoth/netmoth/pull/123) on [netmoth/netmoth](https://github.com/netmoth/netmoth) (1 day ago)
+- [fix(docs): update healthcheck command in Docker configurations to use…](https://github.com/0xfurai/peekaping/pull/200) on [0xfurai/peekaping](https://github.com/0xfurai/peekaping) (3 weeks ago)
 - [Produce full code documentation](https://github.com/netmoth/netmoth/pull/108) on [netmoth/netmoth](https://github.com/netmoth/netmoth) (3 months ago)
 
 #### 📓 Gists I wrote
@@ -35,7 +35,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (6 days ago)
+- [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (1 week ago)
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (1 week ago)
 - [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI &#43; [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one. (2 weeks ago)
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning &amp; Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM. (2 weeks ago)
