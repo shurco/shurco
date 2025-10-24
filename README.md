@@ -6,10 +6,10 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress [experiment] (today)
-- [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (today)
-- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, and comprehensive solution for traffic analysis and intrusion detection. (today)
-- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (2 days ago)
+- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress [experiment] (1 day ago)
+- [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (1 day ago)
+- [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, and comprehensive solution for traffic analysis and intrusion detection. (1 day ago)
+- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (3 days ago)
 - [0xfurai/peekaping](https://github.com/0xfurai/peekaping) - Open Source Uptime Kuma Alternative (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -22,9 +22,9 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [🔧 build: updated packages](https://github.com/werbot/lime/pull/247) on [werbot/lime](https://github.com/werbot/lime) (2 days ago)
-- [Dependabot/npm and yarn/web/types/node 20.14.5](https://github.com/werbot/lime/pull/246) on [werbot/lime](https://github.com/werbot/lime) (2 days ago)
-- [🔧 build(deps): Update Go dependencies and toolchain](https://github.com/netmoth/netmoth/pull/123) on [netmoth/netmoth](https://github.com/netmoth/netmoth) (2 days ago)
+- [🔧 build: updated packages](https://github.com/werbot/lime/pull/247) on [werbot/lime](https://github.com/werbot/lime) (3 days ago)
+- [Dependabot/npm and yarn/web/types/node 20.14.5](https://github.com/werbot/lime/pull/246) on [werbot/lime](https://github.com/werbot/lime) (3 days ago)
+- [🔧 build(deps): Update Go dependencies and toolchain](https://github.com/netmoth/netmoth/pull/123) on [netmoth/netmoth](https://github.com/netmoth/netmoth) (3 days ago)
 - [fix(docs): update healthcheck command in Docker configurations to use…](https://github.com/0xfurai/peekaping/pull/200) on [0xfurai/peekaping](https://github.com/0xfurai/peekaping) (3 weeks ago)
 - [Produce full code documentation](https://github.com/netmoth/netmoth/pull/108) on [netmoth/netmoth](https://github.com/netmoth/netmoth) (3 months ago)
 
