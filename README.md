@@ -6,11 +6,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (1 day ago)
-- [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (4 days ago)
+- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (2 days ago)
+- [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (5 days ago)
 - [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (1 week ago)
 - [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, and comprehensive solution for traffic analysis and intrusion detection. (1 week ago)
-- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (1 week ago)
+- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -25,8 +25,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 - [docs: complete README with features, installation, commands and payme…](https://github.com/werbot/lime/pull/250) on [werbot/lime](https://github.com/werbot/lime) (1 week ago)
 - [docs: README update with a full description of the project](https://github.com/shurco/goSign/pull/242) on [shurco/goSign](https://github.com/shurco/goSign) (1 week ago)
 - [🔧 build(deps): Update Go and JavaScript dependencies](https://github.com/shurco/goSign/pull/241) on [shurco/goSign](https://github.com/shurco/goSign) (1 week ago)
-- [🔧 build: updated packages](https://github.com/werbot/lime/pull/247) on [werbot/lime](https://github.com/werbot/lime) (1 week ago)
-- [Dependabot/npm and yarn/web/types/node 20.14.5](https://github.com/werbot/lime/pull/246) on [werbot/lime](https://github.com/werbot/lime) (1 week ago)
+- [🔧 build: updated packages](https://github.com/werbot/lime/pull/247) on [werbot/lime](https://github.com/werbot/lime) (2 weeks ago)
+- [Dependabot/npm and yarn/web/types/node 20.14.5](https://github.com/werbot/lime/pull/246) on [werbot/lime](https://github.com/werbot/lime) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -35,9 +35,9 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of  120&#43; LLM libraries category wise.  (2 days ago)
-- [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients. (4 days ago)
-- [vas3k/vas3k.club](https://github.com/vas3k/vas3k.club) - No bullshit IT community with private membership (5 days ago)
+- [KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of  120&#43; LLM libraries category wise.  (3 days ago)
+- [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients. (5 days ago)
+- [vas3k/vas3k.club](https://github.com/vas3k/vas3k.club) - No bullshit IT community with private membership (6 days ago)
 - [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (2 weeks ago)
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (3 weeks ago)
 
