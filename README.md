@@ -6,7 +6,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (6 days ago)
+- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (1 week ago)
 - [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (3 weeks ago)
 - [piplos/php-alpine](https://github.com/piplos/php-alpine) - Docker image for php-fpm based on alpine linux for Piplos.Media team. (4 weeks ago)
 - [werbot/lime](https://github.com/werbot/lime) - 🍋‍🟩 light license-key server in 1 file (1 month ago)
@@ -35,8 +35,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨ (today)
-- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks. (6 days ago)
+- [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨ (1 day ago)
+- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks. (1 week ago)
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  (1 week ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (2 weeks ago)
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合&#43;基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选&#43;自动推送&#43;AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点 (2 weeks ago)
