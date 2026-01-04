@@ -6,9 +6,9 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (today)
-- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (6 days ago)
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (6 days ago)
+- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (1 day ago)
+- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (1 week ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (1 week ago)
 - [werbot/pam-nix](https://github.com/werbot/pam-nix) - 🔐 Pluggable Authentication Module for native two factor authentication agents for *nix platforms. (1 week ago)
 - [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, and comprehensive solution for traffic analysis and intrusion detection. (2 weeks ago)
 
@@ -22,7 +22,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [✨ feat(pagination): add pagination support for products, pages, and c…](https://github.com/shurco/litecart/pull/262) on [shurco/litecart](https://github.com/shurco/litecart) (today)
+- [✨ feat(pagination): add pagination support for products, pages, and c…](https://github.com/shurco/litecart/pull/262) on [shurco/litecart](https://github.com/shurco/litecart) (1 day ago)
 - [docs: complete README with features, installation, commands and payme…](https://github.com/werbot/lime/pull/250) on [werbot/lime](https://github.com/werbot/lime) (2 months ago)
 - [docs: README update with a full description of the project](https://github.com/shurco/goSign/pull/242) on [shurco/goSign](https://github.com/shurco/goSign) (2 months ago)
 - [🔧 build(deps): Update Go and JavaScript dependencies](https://github.com/shurco/goSign/pull/241) on [shurco/goSign](https://github.com/shurco/goSign) (2 months ago)
