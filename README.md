@@ -9,7 +9,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 - [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (1 week ago)
 - [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (2 weeks ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (2 weeks ago)
-- [werbot/pam-nix](https://github.com/werbot/pam-nix) - 🔐 Pluggable Authentication Module for native two factor authentication agents for *nix platforms. (2 weeks ago)
+- [werbot/pam-nix](https://github.com/werbot/pam-nix) - 🔐 Pluggable Authentication Module for native two factor authentication agents for *nix platforms. (3 weeks ago)
 - [netmoth/netmoth](https://github.com/netmoth/netmoth) - 🚀 A lightweight, fast, and comprehensive solution for traffic analysis and intrusion detection. (4 weeks ago)
 
 #### 🌱 My latest projects
@@ -30,12 +30,12 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 📓 Gists I wrote
 
-- [Bash script for optimizing web images (JPEG/PNG/GIF) with smart threading, date filtering, and automatic dependency checking. Features SSD/HDD detection for optimal performance and detailed size reporting.](https://gist.github.com/84bb2012c2d4b0feddea089ba03efebd) (6 months ago)
+- [Bash script for optimizing web images (JPEG/PNG/GIF) with smart threading, date filtering, and automatic dependency checking. Features SSD/HDD detection for optimal performance and detailed size reporting.](https://gist.github.com/84bb2012c2d4b0feddea089ba03efebd) (7 months ago)
 - [Keybase proof](https://gist.github.com/959752bb9b046d792e71ca185f48d641) (5 years ago)
 
 #### ⭐ Recent Stars
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (2 weeks ago)
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (3 weeks ago)
 - [nao1215/filesql](https://github.com/nao1215/filesql) - sql driver for CSV, TSV, LTSV, Parquet, Excel with gzip, bzip2, xz, zstd support. (1 month ago)
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. (1 month ago)
 - [esimov/pigo](https://github.com/esimov/pigo) - Fast face detection, pupil/eyes localization and facial landmark points detection library in pure Go. (1 month ago)
