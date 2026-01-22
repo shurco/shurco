@@ -6,8 +6,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (today)
-- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (2 days ago)
+- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (1 day ago)
+- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (3 days ago)
 - [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (3 weeks ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (3 weeks ago)
 - [werbot/pam-nix](https://github.com/werbot/pam-nix) - 🔐 Pluggable Authentication Module for native two factor authentication agents for *nix platforms. (3 weeks ago)
@@ -24,9 +24,9 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 - [🐛 fix(i18n): fix untranslated texts and remove unused translation keys](https://github.com/shurco/litecart/pull/263) on [shurco/litecart](https://github.com/shurco/litecart) (2 weeks ago)
 - [✨ feat(pagination): add pagination support for products, pages, and c…](https://github.com/shurco/litecart/pull/262) on [shurco/litecart](https://github.com/shurco/litecart) (2 weeks ago)
-- [docs: complete README with features, installation, commands and payme…](https://github.com/werbot/lime/pull/250) on [werbot/lime](https://github.com/werbot/lime) (2 months ago)
-- [docs: README update with a full description of the project](https://github.com/shurco/goSign/pull/242) on [shurco/goSign](https://github.com/shurco/goSign) (2 months ago)
-- [🔧 build(deps): Update Go and JavaScript dependencies](https://github.com/shurco/goSign/pull/241) on [shurco/goSign](https://github.com/shurco/goSign) (2 months ago)
+- [docs: complete README with features, installation, commands and payme…](https://github.com/werbot/lime/pull/250) on [werbot/lime](https://github.com/werbot/lime) (3 months ago)
+- [docs: README update with a full description of the project](https://github.com/shurco/goSign/pull/242) on [shurco/goSign](https://github.com/shurco/goSign) (3 months ago)
+- [🔧 build(deps): Update Go and JavaScript dependencies](https://github.com/shurco/goSign/pull/241) on [shurco/goSign](https://github.com/shurco/goSign) (3 months ago)
 
 #### 📓 Gists I wrote
 
@@ -35,8 +35,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads (today)
-- [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) -  (4 days ago)
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads (1 day ago)
+- [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) -  (5 days ago)
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (3 weeks ago)
 - [nao1215/filesql](https://github.com/nao1215/filesql) - sql driver for CSV, TSV, LTSV, Parquet, Excel with gzip, bzip2, xz, zstd support. (1 month ago)
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. (1 month ago)
