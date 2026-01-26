@@ -35,11 +35,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text (today)
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads (5 days ago)
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) -  (1 week ago)
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (1 month ago)
 - [nao1215/filesql](https://github.com/nao1215/filesql) - sql driver for CSV, TSV, LTSV, Parquet, Excel with gzip, bzip2, xz, zstd support. (1 month ago)
-- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. (1 month ago)
 
 #### 💬 Feedback
 
