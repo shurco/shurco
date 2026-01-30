@@ -6,8 +6,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (2 days ago)
-- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (3 days ago)
+- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (3 days ago)
+- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (4 days ago)
 - [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (1 month ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (1 month ago)
 - [werbot/pam-nix](https://github.com/werbot/pam-nix) - 🔐 Pluggable Authentication Module for native two factor authentication agents for *nix platforms. (1 month ago)
@@ -22,7 +22,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [🐛 fix(api): prevent incorrect redirect to install page on GitHub API …](https://github.com/shurco/litecart/pull/272) on [shurco/litecart](https://github.com/shurco/litecart) (2 days ago)
+- [🐛 fix(api): prevent incorrect redirect to install page on GitHub API …](https://github.com/shurco/litecart/pull/272) on [shurco/litecart](https://github.com/shurco/litecart) (3 days ago)
 - [🐛 fix(i18n): fix untranslated texts and remove unused translation keys](https://github.com/shurco/litecart/pull/263) on [shurco/litecart](https://github.com/shurco/litecart) (3 weeks ago)
 - [✨ feat(pagination): add pagination support for products, pages, and c…](https://github.com/shurco/litecart/pull/262) on [shurco/litecart](https://github.com/shurco/litecart) (3 weeks ago)
 - [docs: complete README with features, installation, commands and payme…](https://github.com/werbot/lime/pull/250) on [werbot/lime](https://github.com/werbot/lime) (3 months ago)
@@ -35,8 +35,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [trasta298/keifu](https://github.com/trasta298/keifu) - Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity. (2 days ago)
-- [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text (3 days ago)
+- [trasta298/keifu](https://github.com/trasta298/keifu) - Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity. (3 days ago)
+- [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text (4 days ago)
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads (1 week ago)
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel&#39;s official collection of agent skills (1 week ago)
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (1 month ago)
