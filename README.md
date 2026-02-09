@@ -7,7 +7,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 #### 👷 Check out what I'm currently working on
 
 - [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (1 week ago)
-- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (1 week ago)
+- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (2 weeks ago)
 - [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (1 month ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (1 month ago)
 - [werbot/pam-nix](https://github.com/werbot/pam-nix) - 🔐 Pluggable Authentication Module for native two factor authentication agents for *nix platforms. (1 month ago)
@@ -35,9 +35,9 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork (4 days ago)
+- [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork (5 days ago)
 - [trasta298/keifu](https://github.com/trasta298/keifu) - Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity. (1 week ago)
-- [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text (1 week ago)
+- [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text (2 weeks ago)
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads (2 weeks ago)
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel&#39;s official collection of agent skills (3 weeks ago)
 
