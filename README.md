@@ -39,7 +39,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 - [trasta298/keifu](https://github.com/trasta298/keifu) - Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity. (2 weeks ago)
 - [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text (2 weeks ago)
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads (3 weeks ago)
-- [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel&#39;s official collection of agent skills (3 weeks ago)
+- [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel&#39;s official collection of agent skills (4 weeks ago)
 
 #### 💬 Feedback
 
