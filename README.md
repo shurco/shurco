@@ -25,8 +25,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 - [🐛 fix(api): prevent incorrect redirect to install page on GitHub API …](https://github.com/shurco/litecart/pull/272) on [shurco/litecart](https://github.com/shurco/litecart) (3 weeks ago)
 - [🐛 fix(i18n): fix untranslated texts and remove unused translation keys](https://github.com/shurco/litecart/pull/263) on [shurco/litecart](https://github.com/shurco/litecart) (1 month ago)
 - [✨ feat(pagination): add pagination support for products, pages, and c…](https://github.com/shurco/litecart/pull/262) on [shurco/litecart](https://github.com/shurco/litecart) (1 month ago)
-- [docs: complete README with features, installation, commands and payme…](https://github.com/werbot/lime/pull/250) on [werbot/lime](https://github.com/werbot/lime) (3 months ago)
-- [docs: README update with a full description of the project](https://github.com/shurco/goSign/pull/242) on [shurco/goSign](https://github.com/shurco/goSign) (3 months ago)
+- [docs: complete README with features, installation, commands and payme…](https://github.com/werbot/lime/pull/250) on [werbot/lime](https://github.com/werbot/lime) (4 months ago)
+- [docs: README update with a full description of the project](https://github.com/shurco/goSign/pull/242) on [shurco/goSign](https://github.com/shurco/goSign) (4 months ago)
 
 #### 📓 Gists I wrote
 
@@ -35,7 +35,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 (3 days ago)
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 (4 days ago)
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork (2 weeks ago)
 - [trasta298/keifu](https://github.com/trasta298/keifu) - Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity. (3 weeks ago)
 - [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text (3 weeks ago)
