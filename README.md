@@ -6,7 +6,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (4 days ago)
+- [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (5 days ago)
 - [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (1 month ago)
 - [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (2 months ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (2 months ago)
@@ -24,7 +24,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 - [🐛 fix(api): prevent incorrect redirect to install page on GitHub API …](https://github.com/shurco/litecart/pull/272) on [shurco/litecart](https://github.com/shurco/litecart) (1 month ago)
 - [🐛 fix(i18n): fix untranslated texts and remove unused translation keys](https://github.com/shurco/litecart/pull/263) on [shurco/litecart](https://github.com/shurco/litecart) (1 month ago)
-- [✨ feat(pagination): add pagination support for products, pages, and c…](https://github.com/shurco/litecart/pull/262) on [shurco/litecart](https://github.com/shurco/litecart) (1 month ago)
+- [✨ feat(pagination): add pagination support for products, pages, and c…](https://github.com/shurco/litecart/pull/262) on [shurco/litecart](https://github.com/shurco/litecart) (2 months ago)
 - [docs: complete README with features, installation, commands and payme…](https://github.com/werbot/lime/pull/250) on [werbot/lime](https://github.com/werbot/lime) (4 months ago)
 - [docs: README update with a full description of the project](https://github.com/shurco/goSign/pull/242) on [shurco/goSign](https://github.com/shurco/goSign) (4 months ago)
 
@@ -35,10 +35,10 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond. (today)
-- [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins) -  (4 days ago)
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond. (1 day ago)
+- [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins) -  (5 days ago)
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 (2 weeks ago)
-- [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork (3 weeks ago)
+- [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork (4 weeks ago)
 - [trasta298/keifu](https://github.com/trasta298/keifu) - Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity. (1 month ago)
 
 #### 💬 Feedback
