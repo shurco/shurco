@@ -35,9 +35,9 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [southleft/figma-console-mcp](https://github.com/southleft/figma-console-mcp) - Your design system as an API. Connect AI to Figma for extraction, creation, and debugging. (1 day ago)
-- [apify/agent-skills](https://github.com/apify/agent-skills) - Collection of Apify Agent Skills (4 days ago)
-- [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) -  (6 days ago)
+- [southleft/figma-console-mcp](https://github.com/southleft/figma-console-mcp) - Your design system as an API. Connect AI to Figma for extraction, creation, and debugging. (2 days ago)
+- [apify/agent-skills](https://github.com/apify/agent-skills) - Collection of Apify Agent Skills (5 days ago)
+- [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) -  (1 week ago)
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (1 week ago)
 - [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins) -  (2 weeks ago)
 
