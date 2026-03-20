@@ -35,11 +35,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [openai/parameter-golf](https://github.com/openai/parameter-golf) - Train the smallest LM you can that fits in 16MB. Best model wins! (today)
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers (today)
 - [mattpocock/skills](https://github.com/mattpocock/skills) - My personal directory of skills, straight from my .claude directory. (1 day ago)
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (3 days ago)
 - [southleft/figma-console-mcp](https://github.com/southleft/figma-console-mcp) - Your design system as an API. Connect AI to Figma for extraction, creation, and debugging. (1 week ago)
-- [apify/agent-skills](https://github.com/apify/agent-skills) - Collection of Apify Agent Skills (1 week ago)
 
 #### 💬 Feedback
 
