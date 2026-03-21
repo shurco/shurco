@@ -35,11 +35,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000&#43; models support &amp; &lt;100 µs overhead at 5k RPS. (today)
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers (1 day ago)
 - [mattpocock/skills](https://github.com/mattpocock/skills) - My personal directory of skills, straight from my .claude directory. (2 days ago)
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (4 days ago)
 - [southleft/figma-console-mcp](https://github.com/southleft/figma-console-mcp) - Your design system as an API. Connect AI to Figma for extraction, creation, and debugging. (1 week ago)
-- [apify/agent-skills](https://github.com/apify/agent-skills) - Collection of Apify Agent Skills (1 week ago)
 
 #### 💬 Feedback
 
