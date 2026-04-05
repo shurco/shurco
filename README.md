@@ -6,7 +6,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in seconds (1 week ago)
+- [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in seconds (2 weeks ago)
 - [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (2 weeks ago)
 - [shurco/litecart](https://github.com/shurco/litecart) - 🛒 litecart - shopping cart in 1 file with card and cryptocurrency payment support (2 weeks ago)
 - [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (3 months ago)
@@ -35,8 +35,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) - CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100&#43; security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities. (1 week ago)
-- [ubcent/velar](https://github.com/ubcent/velar) - Local Privacy Firewall for AI (1 week ago)
+- [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) - CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100&#43; security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities. (2 weeks ago)
+- [ubcent/velar](https://github.com/ubcent/velar) - Local Privacy Firewall for AI (2 weeks ago)
 - [MorseWayne/opencode-cursor-proxy](https://github.com/MorseWayne/opencode-cursor-proxy) - using cursor model in opencode (2 weeks ago)
 - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000&#43; models support &amp; &lt;100 µs overhead at 5k RPS. (2 weeks ago)
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers (2 weeks ago)
