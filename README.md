@@ -6,7 +6,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/mycart](https://github.com/shurco/mycart) - 🛒 myCart - shopping cart in 1 file with card and cryptocurrency payment support (2 days ago)
+- [shurco/mycart](https://github.com/shurco/mycart) - 🛒 myCart - shopping cart in 1 file with card and cryptocurrency payment support (3 days ago)
 - [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in seconds (2 weeks ago)
 - [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (2 weeks ago)
 - [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (3 months ago)
@@ -39,7 +39,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 - [ubcent/velar](https://github.com/ubcent/velar) - Local Privacy Firewall for AI (2 weeks ago)
 - [MorseWayne/opencode-cursor-proxy](https://github.com/MorseWayne/opencode-cursor-proxy) - using cursor model in opencode (2 weeks ago)
 - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000&#43; models support &amp; &lt;100 µs overhead at 5k RPS. (2 weeks ago)
-- [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers (2 weeks ago)
+- [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers (3 weeks ago)
 
 #### 💬 Feedback
 
