@@ -6,7 +6,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (5 days ago)
+- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (6 days ago)
 - [shurco/mycart](https://github.com/shurco/mycart) - 🛒 myCart - shopping cart in 1 file with card and cryptocurrency payment support (1 week ago)
 - [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in seconds (3 weeks ago)
 - [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (3 months ago)
@@ -30,13 +30,13 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 📓 Gists I wrote
 
-- [Bash script for optimizing web images (JPEG/PNG/GIF) with smart threading, date filtering, and automatic dependency checking. Features SSD/HDD detection for optimal performance and detailed size reporting.](https://gist.github.com/84bb2012c2d4b0feddea089ba03efebd) (9 months ago)
+- [Bash script for optimizing web images (JPEG/PNG/GIF) with smart threading, date filtering, and automatic dependency checking. Features SSD/HDD detection for optimal performance and detailed size reporting.](https://gist.github.com/84bb2012c2d4b0feddea089ba03efebd) (10 months ago)
 - [Keybase proof](https://gist.github.com/959752bb9b046d792e71ca185f48d641) (6 years ago)
 
 #### ⭐ Recent Stars
 
-- [groundwater/GhostVM](https://github.com/groundwater/GhostVM) -  (1 day ago)
-- [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds (3 days ago)
+- [groundwater/GhostVM](https://github.com/groundwater/GhostVM) -  (2 days ago)
+- [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds (4 days ago)
 - [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) - CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100&#43; security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities. (3 weeks ago)
 - [ubcent/velar](https://github.com/ubcent/velar) - Local Privacy Firewall for AI (3 weeks ago)
 - [MorseWayne/opencode-cursor-proxy](https://github.com/MorseWayne/opencode-cursor-proxy) - using cursor model in opencode (3 weeks ago)
