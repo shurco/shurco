@@ -35,11 +35,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [shurco/goXero](https://github.com/shurco/goXero) - 🏦 Open-source accounting you can self-host as a personal alternative to Xero—your books, your rules. Not affiliated with Xero. (today)
 - [groundwater/GhostVM](https://github.com/groundwater/GhostVM) -  (4 days ago)
 - [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds (6 days ago)
 - [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) - CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100&#43; security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities. (3 weeks ago)
 - [ubcent/velar](https://github.com/ubcent/velar) - Local Privacy Firewall for AI (3 weeks ago)
-- [MorseWayne/opencode-cursor-proxy](https://github.com/MorseWayne/opencode-cursor-proxy) - using cursor model in opencode (4 weeks ago)
 
 #### 💬 Feedback
 
