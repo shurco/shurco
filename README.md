@@ -8,13 +8,13 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 - [shurco/mycart](https://github.com/shurco/mycart) - 🛒 myCart - shopping cart in 1 file with card and cryptocurrency payment support (today)
 - [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (today)
+- [shurco/goXero](https://github.com/shurco/goXero) - 🏦 Open-source accounting you can self-host as a personal alternative to Xero—your books, your rules. Not affiliated with Xero. (today)
 - [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in seconds (3 weeks ago)
 - [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (3 months ago)
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (3 months ago)
 
 #### 🌱 My latest projects
 
-- [shurco/goXero](https://github.com/shurco/goXero) - 
+- [shurco/goXero](https://github.com/shurco/goXero) - 🏦 Open-source accounting you can self-host as a personal alternative to Xero—your books, your rules. Not affiliated with Xero.
 - [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress
 - [shurco/mycart](https://github.com/shurco/mycart) - 🛒 myCart - shopping cart in 1 file with card and cryptocurrency payment support
 - [shurco/.github](https://github.com/shurco/.github) - ⚙️ Github repos setting
