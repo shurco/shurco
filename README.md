@@ -14,11 +14,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🌱 My latest projects
 
+- [shurco/goXero](https://github.com/shurco/goXero) - 
 - [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress
 - [shurco/mycart](https://github.com/shurco/mycart) - 🛒 myCart - shopping cart in 1 file with card and cryptocurrency payment support
 - [shurco/.github](https://github.com/shurco/.github) - ⚙️ Github repos setting
 - [shurco/homebrew-tap](https://github.com/shurco/homebrew-tap) - 📚 shurco homebrew tap
-- [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in seconds
 
 #### 🔨 My recent Pull Requests
 
