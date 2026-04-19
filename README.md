@@ -6,9 +6,9 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
+- [shurco/goXero](https://github.com/shurco/goXero) - 🏦 goXero is an open accounting backend inspired by Xero and designed for developers who need control over their accounting workflows instead of depending on a hosted SaaS product. (today)
 - [shurco/mycart](https://github.com/shurco/mycart) - 🛒 myCart - shopping cart in 1 file with card and cryptocurrency payment support (1 day ago)
 - [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (1 day ago)
-- [shurco/goXero](https://github.com/shurco/goXero) - 🏦 goXero is an open accounting backend inspired by Xero and designed for developers who need control over their accounting workflows instead of depending on a hosted SaaS product. (1 day ago)
 - [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in seconds (4 weeks ago)
 - [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (3 months ago)
 
