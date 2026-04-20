@@ -35,11 +35,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100&#43; gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more. (today)
 - [shurco/goXero](https://github.com/shurco/goXero) - 🏦 goXero is an open accounting backend inspired by Xero and designed for developers who need control over their accounting workflows instead of depending on a hosted SaaS product. (2 days ago)
 - [groundwater/GhostVM](https://github.com/groundwater/GhostVM) -  (6 days ago)
 - [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds (1 week ago)
 - [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) - CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100&#43; security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities. (4 weeks ago)
-- [ubcent/velar](https://github.com/ubcent/velar) - Local Privacy Firewall for AI (4 weeks ago)
 
 #### 💬 Feedback
 
