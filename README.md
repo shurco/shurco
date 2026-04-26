@@ -6,7 +6,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/goXero](https://github.com/shurco/goXero) - 🏦 goXero is an open accounting backend inspired by Xero and designed for developers who need control over their accounting workflows instead of depending on a hosted SaaS product. (6 days ago)
+- [shurco/goXero](https://github.com/shurco/goXero) - 🏦 goXero is an open accounting backend inspired by Xero and designed for developers who need control over their accounting workflows instead of depending on a hosted SaaS product. (1 week ago)
 - [shurco/mycart](https://github.com/shurco/mycart) - 🛒 myCart - shopping cart in 1 file with card and cryptocurrency payment support (1 week ago)
 - [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (1 week ago)
 - [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in seconds (1 month ago)
@@ -35,10 +35,10 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100&#43; gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more. (5 days ago)
+- [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100&#43; gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more. (6 days ago)
 - [shurco/goXero](https://github.com/shurco/goXero) - 🏦 goXero is an open accounting backend inspired by Xero and designed for developers who need control over their accounting workflows instead of depending on a hosted SaaS product. (1 week ago)
 - [groundwater/GhostVM](https://github.com/groundwater/GhostVM) -  (1 week ago)
-- [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds (1 week ago)
+- [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds (2 weeks ago)
 - [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) - CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100&#43; security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities. (1 month ago)
 
 #### 💬 Feedback
