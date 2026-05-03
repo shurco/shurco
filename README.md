@@ -6,7 +6,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/goXero](https://github.com/shurco/goXero) - 🏦 goXero is an open accounting backend inspired by Xero and designed for developers who need control over their accounting workflows instead of depending on a hosted SaaS product. (1 week ago)
+- [shurco/goXero](https://github.com/shurco/goXero) - 🏦 goXero is an open accounting backend inspired by Xero and designed for developers who need control over their accounting workflows instead of depending on a hosted SaaS product. (2 weeks ago)
 - [shurco/mycart](https://github.com/shurco/mycart) - 🛒 myCart - shopping cart in 1 file with card and cryptocurrency payment support (2 weeks ago)
 - [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (2 weeks ago)
 - [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in seconds (1 month ago)
@@ -24,7 +24,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 - [🐛 fix(api): prevent incorrect redirect to install page on GitHub API …](https://github.com/shurco/mycart/pull/272) on [shurco/mycart](https://github.com/shurco/mycart) (3 months ago)
 - [🐛 fix(i18n): fix untranslated texts and remove unused translation keys](https://github.com/shurco/mycart/pull/263) on [shurco/mycart](https://github.com/shurco/mycart) (3 months ago)
-- [✨ feat(pagination): add pagination support for products, pages, and c…](https://github.com/shurco/mycart/pull/262) on [shurco/mycart](https://github.com/shurco/mycart) (3 months ago)
+- [✨ feat(pagination): add pagination support for products, pages, and c…](https://github.com/shurco/mycart/pull/262) on [shurco/mycart](https://github.com/shurco/mycart) (4 months ago)
 - [docs: complete README with features, installation, commands and payme…](https://github.com/werbot/lime/pull/250) on [werbot/lime](https://github.com/werbot/lime) (6 months ago)
 - [docs: README update with a full description of the project](https://github.com/shurco/goSign/pull/242) on [shurco/goSign](https://github.com/shurco/goSign) (6 months ago)
 
@@ -35,11 +35,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [subhashchy/The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) - How I Scaled from Zero to a Million Store on Dukaan,  Without a CS Degree.  .. A System Design Handbook by  Subhash Choudhary  (4 days ago)
+- [subhashchy/The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) - How I Scaled from Zero to a Million Store on Dukaan,  Without a CS Degree.  .. A System Design Handbook by  Subhash Choudhary  (5 days ago)
 - [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100&#43; gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more. (1 week ago)
 - [shurco/goXero](https://github.com/shurco/goXero) - 🏦 goXero is an open accounting backend inspired by Xero and designed for developers who need control over their accounting workflows instead of depending on a hosted SaaS product. (2 weeks ago)
 - [groundwater/GhostVM](https://github.com/groundwater/GhostVM) -  (2 weeks ago)
-- [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds (2 weeks ago)
+- [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds (3 weeks ago)
 
 #### 💬 Feedback
 
