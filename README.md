@@ -6,8 +6,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (5 days ago)
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (5 days ago)
+- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (6 days ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (6 days ago)
 - [shurco/goXero](https://github.com/shurco/goXero) - 🏦 goXero is an open accounting backend inspired by Xero and designed for developers who need control over their accounting workflows instead of depending on a hosted SaaS product. (1 month ago)
 - [shurco/mycart](https://github.com/shurco/mycart) - 🛒 myCart - shopping cart in 1 file with card and cryptocurrency payment support (1 month ago)
 - [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in seconds (2 months ago)
@@ -35,10 +35,10 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. (4 days ago)
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. (5 days ago)
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks (1 week ago)
 - [max-got/originui-svelte](https://github.com/max-got/originui-svelte) -  (3 weeks ago)
-- [subhashchy/The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) - How I Scaled from Zero to a Million Store on Dukaan,  Without a CS Degree.  .. A System Design Handbook by  Subhash Choudhary  (3 weeks ago)
+- [subhashchy/The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) - How I Scaled from Zero to a Million Store on Dukaan,  Without a CS Degree.  .. A System Design Handbook by  Subhash Choudhary  (4 weeks ago)
 - [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100&#43; gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more. (1 month ago)
 
 #### 💬 Feedback
