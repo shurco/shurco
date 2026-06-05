@@ -35,8 +35,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [zhengchenliang/cursor-clean](https://github.com/zhengchenliang/cursor-clean) - Maintenance toolkit for Cursor IDE — diagnose, configure, clean, and repair state.vscdb bloat (1 day ago)
-- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. (2 days ago)
+- [zhengchenliang/cursor-clean](https://github.com/zhengchenliang/cursor-clean) - Maintenance toolkit for Cursor IDE — diagnose, configure, clean, and repair state.vscdb bloat (2 days ago)
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. (3 days ago)
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models (1 week ago)
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. (2 weeks ago)
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks (3 weeks ago)
