@@ -24,8 +24,6 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 - [🐛 fix(api): prevent incorrect redirect to install page on GitHub API …](https://github.com/shurco/mycart/pull/272) on [shurco/mycart](https://github.com/shurco/mycart) (4 months ago)
 - [🐛 fix(i18n): fix untranslated texts and remove unused translation keys](https://github.com/shurco/mycart/pull/263) on [shurco/mycart](https://github.com/shurco/mycart) (5 months ago)
-- [✨ feat(pagination): add pagination support for products, pages, and c…](https://github.com/shurco/mycart/pull/262) on [shurco/mycart](https://github.com/shurco/mycart) (5 months ago)
-- [docs: complete README with features, installation, commands and payme…](https://github.com/werbot/lime/pull/250) on [werbot/lime](https://github.com/werbot/lime) (7 months ago)
 
 #### 📓 Gists I wrote
 
