@@ -23,7 +23,6 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 #### 🔨 My recent Pull Requests
 
 - [🐛 fix(api): prevent incorrect redirect to install page on GitHub API …](https://github.com/shurco/mycart/pull/272) on [shurco/mycart](https://github.com/shurco/mycart) (4 months ago)
-- [🐛 fix(i18n): fix untranslated texts and remove unused translation keys](https://github.com/shurco/mycart/pull/263) on [shurco/mycart](https://github.com/shurco/mycart) (5 months ago)
 
 #### 📓 Gists I wrote
 
