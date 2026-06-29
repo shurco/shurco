@@ -31,7 +31,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World&#39;s first open-source, agentic video production system. 12 pipelines, 52 tools, 500&#43; agent skills. Turn your AI coding assistant into a full video production studio. (3 days ago)
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World&#39;s first open-source, agentic video production system. 12 pipelines, 52 tools, 500&#43; agent skills. Turn your AI coding assistant into a full video production studio. (4 days ago)
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code &#43; database schema &#43; infrastructure in one graph. (2 weeks ago)
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte. (2 weeks ago)
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world (2 weeks ago)
