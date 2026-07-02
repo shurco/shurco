@@ -22,6 +22,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
+- [🐛 fix(products): show active products on public storefront](https://github.com/shurco/mycart/pull/331) on [shurco/mycart](https://github.com/shurco/mycart) (today)
 - [🐛 fix(products): allow free products with zero amount](https://github.com/shurco/mycart/pull/330) on [shurco/mycart](https://github.com/shurco/mycart) (today)
 - [✨ feat(install): add CLI install command and install status API](https://github.com/shurco/mycart/pull/329) on [shurco/mycart](https://github.com/shurco/mycart) (today)
 
