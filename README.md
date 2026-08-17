@@ -6,8 +6,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/mycart](https://github.com/shurco/mycart) - 🛒 myCart - shopping cart in 1 file with card and cryptocurrency payment support (1 day ago)
-- [piplos/piplos.media](https://github.com/piplos/piplos.media) -  (4 days ago)
+- [shurco/mycart](https://github.com/shurco/mycart) - 🛒 myCart - shopping cart in 1 file with card and cryptocurrency payment support (2 days ago)
+- [piplos/piplos.media](https://github.com/piplos/piplos.media) -  (5 days ago)
 - [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (2 weeks ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (1 month ago)
 - [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in seconds (1 month ago)
@@ -34,8 +34,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD (3 days ago)
-- [msitarzewski/agency-agents-app](https://github.com/msitarzewski/agency-agents-app) - Agency Agents is a small, native app for browsing, installing, and tracking the agent personas from msitarzewski/agency-agents across the AI coding tools you actually use. (5 days ago)
+- [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD (4 days ago)
+- [msitarzewski/agency-agents-app](https://github.com/msitarzewski/agency-agents-app) - Agency Agents is a small, native app for browsing, installing, and tracking the agent personas from msitarzewski/agency-agents across the AI coding tools you actually use. (6 days ago)
 - [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings. (1 week ago)
 - [RafaelBarbosatec/bonfire](https://github.com/RafaelBarbosatec/bonfire) - (RPG maker) Create RPG-style or similar games more simply with Flame. (1 week ago)
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. (1 week ago)
