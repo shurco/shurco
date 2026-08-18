@@ -6,8 +6,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
+- [piplos/piplos.media](https://github.com/piplos/piplos.media) -  (today)
 - [shurco/mycart](https://github.com/shurco/mycart) - 🛒 myCart - shopping cart in 1 file with card and cryptocurrency payment support (3 days ago)
-- [piplos/piplos.media](https://github.com/piplos/piplos.media) -  (6 days ago)
 - [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (2 weeks ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (1 month ago)
 - [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in seconds (1 month ago)
@@ -22,6 +22,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor auth phased](https://github.com/piplos/piplos.media/pull/1) on [piplos/piplos.media](https://github.com/piplos/piplos.media) (today)
 - [🐛 fix(ci): publish mycart Docker image to Docker Hub](https://github.com/shurco/mycart/pull/336) on [shurco/mycart](https://github.com/shurco/mycart) (1 month ago)
 - [🐛 fix(products): show active products on public storefront](https://github.com/shurco/mycart/pull/331) on [shurco/mycart](https://github.com/shurco/mycart) (1 month ago)
 - [🐛 fix(products): allow free products with zero amount](https://github.com/shurco/mycart/pull/330) on [shurco/mycart](https://github.com/shurco/mycart) (1 month ago)
