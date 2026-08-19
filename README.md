@@ -26,7 +26,6 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 - [🐛 fix(ci): publish mycart Docker image to Docker Hub](https://github.com/shurco/mycart/pull/336) on [shurco/mycart](https://github.com/shurco/mycart) (1 month ago)
 - [🐛 fix(products): show active products on public storefront](https://github.com/shurco/mycart/pull/331) on [shurco/mycart](https://github.com/shurco/mycart) (1 month ago)
 - [🐛 fix(products): allow free products with zero amount](https://github.com/shurco/mycart/pull/330) on [shurco/mycart](https://github.com/shurco/mycart) (1 month ago)
-- [✨ feat(install): add CLI install command and install status API](https://github.com/shurco/mycart/pull/329) on [shurco/mycart](https://github.com/shurco/mycart) (1 month ago)
 
 #### 📓 Gists I wrote
 
