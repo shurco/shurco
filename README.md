@@ -22,8 +22,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
+- [Update all deps](https://github.com/shurco/mycart/pull/375) on [shurco/mycart](https://github.com/shurco/mycart) (today)
 - [Deep research improvements](https://github.com/shurco/mycart/pull/370) on [shurco/mycart](https://github.com/shurco/mycart) (today)
-- [Refactor auth phased](https://github.com/piplos/piplos.media/pull/1) on [piplos/piplos.media](https://github.com/piplos/piplos.media) (3 days ago)
 
 #### 📓 Gists I wrote
 
