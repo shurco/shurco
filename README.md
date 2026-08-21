@@ -6,7 +6,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/mycart](https://github.com/shurco/mycart) - 🛒 myCart - shopping cart in 1 file with card and cryptocurrency payment support (2 days ago)
+- [shurco/mycart](https://github.com/shurco/mycart) - 🛒 myCart - shopping cart in 1 file with card and cryptocurrency payment support (today)
 - [piplos/piplos.media](https://github.com/piplos/piplos.media) -  (3 days ago)
 - [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (3 weeks ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (1 month ago)
@@ -22,8 +22,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
+- [Deep research improvements](https://github.com/shurco/mycart/pull/370) on [shurco/mycart](https://github.com/shurco/mycart) (today)
 - [Refactor auth phased](https://github.com/piplos/piplos.media/pull/1) on [piplos/piplos.media](https://github.com/piplos/piplos.media) (3 days ago)
-- [🐛 fix(ci): publish mycart Docker image to Docker Hub](https://github.com/shurco/mycart/pull/336) on [shurco/mycart](https://github.com/shurco/mycart) (1 month ago)
 
 #### 📓 Gists I wrote
 
