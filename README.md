@@ -6,8 +6,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/mycart](https://github.com/shurco/mycart) - 🛒 myCart - shopping cart in 1 file with card and cryptocurrency payment support (today)
-- [piplos/piplos.media](https://github.com/piplos/piplos.media) -  (3 days ago)
+- [shurco/mycart](https://github.com/shurco/mycart) - 🛒 myCart - shopping cart in 1 file with card and cryptocurrency payment support (1 day ago)
+- [piplos/piplos.media](https://github.com/piplos/piplos.media) -  (4 days ago)
 - [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (3 weeks ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (1 month ago)
 - [shurco/goClone](https://github.com/shurco/goClone) - 🌱 goClone - clone websites in seconds (2 months ago)
@@ -22,8 +22,8 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [Update all deps](https://github.com/shurco/mycart/pull/375) on [shurco/mycart](https://github.com/shurco/mycart) (today)
-- [Deep research improvements](https://github.com/shurco/mycart/pull/370) on [shurco/mycart](https://github.com/shurco/mycart) (today)
+- [Update all deps](https://github.com/shurco/mycart/pull/375) on [shurco/mycart](https://github.com/shurco/mycart) (1 day ago)
+- [Deep research improvements](https://github.com/shurco/mycart/pull/370) on [shurco/mycart](https://github.com/shurco/mycart) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -32,10 +32,10 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. (today)
-- [ln-dev7/circle](https://github.com/ln-dev7/circle) - UI - Project management interface inspired by Linear. Built with Next.js and shadcn/ui, this application allows tracking of issues, projects and teams. (1 day ago)
-- [mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter) - An AI copywriter that uses real copywriting skills &#43; real marketing knowledge with human tone. (1 day ago)
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. (3 days ago)
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. (1 day ago)
+- [ln-dev7/circle](https://github.com/ln-dev7/circle) - UI - Project management interface inspired by Linear. Built with Next.js and shadcn/ui, this application allows tracking of issues, projects and teams. (2 days ago)
+- [mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter) - An AI copywriter that uses real copywriting skills &#43; real marketing knowledge with human tone. (2 days ago)
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. (4 days ago)
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD (1 week ago)
 
 #### 💬 Feedback
