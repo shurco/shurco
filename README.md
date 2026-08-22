@@ -22,9 +22,9 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
+- [Fix articles page bottom](https://github.com/piplos/piplos.media/pull/4) on [piplos/piplos.media](https://github.com/piplos/piplos.media) (today)
 - [Admin editor nofollow new](https://github.com/piplos/piplos.media/pull/3) on [piplos/piplos.media](https://github.com/piplos/piplos.media) (today)
 - [Refactor find and fix](https://github.com/piplos/piplos.media/pull/2) on [piplos/piplos.media](https://github.com/piplos/piplos.media) (today)
-- [Update all deps](https://github.com/shurco/mycart/pull/375) on [shurco/mycart](https://github.com/shurco/mycart) (1 day ago)
 
 #### 📓 Gists I wrote
 
