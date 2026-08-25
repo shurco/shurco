@@ -25,7 +25,6 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 - [Settings media sidebar png](https://github.com/piplos/piplos.media/pull/5) on [piplos/piplos.media](https://github.com/piplos/piplos.media) (3 days ago)
 - [Fix articles page bottom](https://github.com/piplos/piplos.media/pull/4) on [piplos/piplos.media](https://github.com/piplos/piplos.media) (3 days ago)
 - [Admin editor nofollow new](https://github.com/piplos/piplos.media/pull/3) on [piplos/piplos.media](https://github.com/piplos/piplos.media) (3 days ago)
-- [Refactor find and fix](https://github.com/piplos/piplos.media/pull/2) on [piplos/piplos.media](https://github.com/piplos/piplos.media) (3 days ago)
 
 #### 📓 Gists I wrote
 
