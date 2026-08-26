@@ -23,7 +23,6 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 #### 🔨 My recent Pull Requests
 
 - [Settings media sidebar png](https://github.com/piplos/piplos.media/pull/5) on [piplos/piplos.media](https://github.com/piplos/piplos.media) (4 days ago)
-- [Fix articles page bottom](https://github.com/piplos/piplos.media/pull/4) on [piplos/piplos.media](https://github.com/piplos/piplos.media) (4 days ago)
 
 #### 📓 Gists I wrote
 
