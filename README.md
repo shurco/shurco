@@ -22,6 +22,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
+- [Admin pages sidebar](https://github.com/piplos/piplos.media/pull/9) on [piplos/piplos.media](https://github.com/piplos/piplos.media) (today)
 - [Agent articles stacks](https://github.com/piplos/piplos.media/pull/8) on [piplos/piplos.media](https://github.com/piplos/piplos.media) (today)
 - [Fix article image width](https://github.com/piplos/piplos.media/pull/7) on [piplos/piplos.media](https://github.com/piplos/piplos.media) (5 days ago)
 - [Agent articles api](https://github.com/piplos/piplos.media/pull/6) on [piplos/piplos.media](https://github.com/piplos/piplos.media) (5 days ago)
