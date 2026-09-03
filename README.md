@@ -22,8 +22,6 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [Admin articles pagination](https://github.com/piplos/piplos.media/pull/10) on [piplos/piplos.media](https://github.com/piplos/piplos.media) (1 day ago)
-- [Admin pages sidebar](https://github.com/piplos/piplos.media/pull/9) on [piplos/piplos.media](https://github.com/piplos/piplos.media) (1 day ago)
 
 #### 📓 Gists I wrote
 
