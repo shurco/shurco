@@ -25,8 +25,6 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 - [feat(admin): rebuild the rich text editor toolbar](https://github.com/shurco/mycart/pull/399) on [shurco/mycart](https://github.com/shurco/mycart) (today)
 - [Feat add more locales](https://github.com/shurco/mycart/pull/398) on [shurco/mycart](https://github.com/shurco/mycart) (today)
 - [Refactor admin pages unified](https://github.com/shurco/mycart/pull/397) on [shurco/mycart](https://github.com/shurco/mycart) (today)
-- [Feat postgresql support](https://github.com/shurco/mycart/pull/395) on [shurco/mycart](https://github.com/shurco/mycart) (1 day ago)
-- [Feat us bank api](https://github.com/shurco/goXero/pull/7) on [shurco/goXero](https://github.com/shurco/goXero) (1 day ago)
 
 #### 📓 Gists I wrote
 
