@@ -22,9 +22,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [feat(admin): rebuild the rich text editor toolbar](https://github.com/shurco/mycart/pull/399) on [shurco/mycart](https://github.com/shurco/mycart) (1 day ago)
-- [Feat add more locales](https://github.com/shurco/mycart/pull/398) on [shurco/mycart](https://github.com/shurco/mycart) (1 day ago)
-- [Refactor admin pages unified](https://github.com/shurco/mycart/pull/397) on [shurco/mycart](https://github.com/shurco/mycart) (1 day ago)
+- [Add the customer cabinet, shop branding and web hardening](https://github.com/shurco/mycart/pull/401) on [shurco/mycart](https://github.com/shurco/mycart) (today)
 
 #### 📓 Gists I wrote
 
