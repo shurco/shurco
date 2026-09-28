@@ -34,7 +34,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 - [benjitaylor/liveline](https://github.com/benjitaylor/liveline) - Real-time animated line chart for React. (2 weeks ago)
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100&#43; languages. (2 weeks ago)
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML &#43; SVG. No shadows. No Mermaid slop. (2 weeks ago)
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. (3 weeks ago)
+- [MobAI-App/simslim](https://github.com/MobAI-App/simslim) - Run more iOS simulators on one Mac by disabling background daemons a simulator doesn&#39;t need (3 weeks ago)
 
 #### 💬 Feedback
 
