@@ -22,11 +22,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
+- [✨ feat(proxy): the http proxy, streaming, and the Claude Code wrap](https://github.com/werbot/shade/pull/6) on [werbot/shade](https://github.com/werbot/shade) (today)
 - [✨ feat: phase 3 — MCP server and skills](https://github.com/werbot/shade/pull/5) on [werbot/shade](https://github.com/werbot/shade) (1 day ago)
 - [✨ feat: phase 2 — Claude Code hooks](https://github.com/werbot/shade/pull/4) on [werbot/shade](https://github.com/werbot/shade) (1 day ago)
 - [Docs readme banner](https://github.com/werbot/shade/pull/3) on [werbot/shade](https://github.com/werbot/shade) (1 day ago)
 - [docs: add project README and MIT license](https://github.com/werbot/shade/pull/2) on [werbot/shade](https://github.com/werbot/shade) (1 day ago)
-- [✨ feat: phase 1 — anonymization core and CLI](https://github.com/werbot/shade/pull/1) on [werbot/shade](https://github.com/werbot/shade) (2 days ago)
 
 #### 📓 Gists I wrote
 
