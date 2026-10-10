@@ -8,7 +8,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 - [werbot/shade](https://github.com/werbot/shade) - Reversible secret redaction for LLM prompts: replace sensitive data with stable placeholders before it leaves your machine, then restore it locally in responses. AES-256-GCM encrypted SQLite, 46 built-in rules, per-project scope, and fail-closed recovery. (today)
 - [shurco/mycart](https://github.com/shurco/mycart) - 🛒 myCart - shopping cart in 1 file with card and cryptocurrency payment support (1 week ago)
-- [shurco/goXero](https://github.com/shurco/goXero) - 🏦 goXero is an open accounting backend inspired by Xero and designed for developers who need control over their accounting workflows instead of depending on a hosted SaaS product. (3 weeks ago)
+- [shurco/goXero](https://github.com/shurco/goXero) - 🏦 goXero is an open accounting backend inspired by Xero and designed for developers who need control over their accounting workflows instead of depending on a hosted SaaS product. (4 weeks ago)
 - [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (1 month ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (2 months ago)
 
@@ -22,11 +22,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [✨ feat: phase 3 — MCP server and skills](https://github.com/werbot/shade/pull/5) on [werbot/shade](https://github.com/werbot/shade) (today)
-- [✨ feat: phase 2 — Claude Code hooks](https://github.com/werbot/shade/pull/4) on [werbot/shade](https://github.com/werbot/shade) (today)
-- [Docs readme banner](https://github.com/werbot/shade/pull/3) on [werbot/shade](https://github.com/werbot/shade) (today)
-- [docs: add project README and MIT license](https://github.com/werbot/shade/pull/2) on [werbot/shade](https://github.com/werbot/shade) (today)
-- [✨ feat: phase 1 — anonymization core and CLI](https://github.com/werbot/shade/pull/1) on [werbot/shade](https://github.com/werbot/shade) (1 day ago)
+- [✨ feat: phase 3 — MCP server and skills](https://github.com/werbot/shade/pull/5) on [werbot/shade](https://github.com/werbot/shade) (1 day ago)
+- [✨ feat: phase 2 — Claude Code hooks](https://github.com/werbot/shade/pull/4) on [werbot/shade](https://github.com/werbot/shade) (1 day ago)
+- [Docs readme banner](https://github.com/werbot/shade/pull/3) on [werbot/shade](https://github.com/werbot/shade) (1 day ago)
+- [docs: add project README and MIT license](https://github.com/werbot/shade/pull/2) on [werbot/shade](https://github.com/werbot/shade) (1 day ago)
+- [✨ feat: phase 1 — anonymization core and CLI](https://github.com/werbot/shade/pull/1) on [werbot/shade](https://github.com/werbot/shade) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -35,9 +35,9 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [werbot/shade](https://github.com/werbot/shade) - Reversible secret redaction for LLM prompts: replace sensitive data with stable placeholders before it leaves your machine, then restore it locally in responses. AES-256-GCM encrypted SQLite, 46 built-in rules, per-project scope, and fail-closed recovery. (1 day ago)
-- [storytold/photocraft](https://github.com/storytold/photocraft) - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust (2 days ago)
-- [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 (3 days ago)
+- [werbot/shade](https://github.com/werbot/shade) - Reversible secret redaction for LLM prompts: replace sensitive data with stable placeholders before it leaves your machine, then restore it locally in responses. AES-256-GCM encrypted SQLite, 46 built-in rules, per-project scope, and fail-closed recovery. (2 days ago)
+- [storytold/photocraft](https://github.com/storytold/photocraft) - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust (3 days ago)
+- [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 (4 days ago)
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. (1 week ago)
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 week ago)
 
