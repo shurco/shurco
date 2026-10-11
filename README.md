@@ -25,8 +25,6 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 - [✨ feat(proxy): the http proxy, streaming, and the Claude Code wrap](https://github.com/werbot/shade/pull/6) on [werbot/shade](https://github.com/werbot/shade) (1 day ago)
 - [✨ feat: phase 3 — MCP server and skills](https://github.com/werbot/shade/pull/5) on [werbot/shade](https://github.com/werbot/shade) (2 days ago)
 - [✨ feat: phase 2 — Claude Code hooks](https://github.com/werbot/shade/pull/4) on [werbot/shade](https://github.com/werbot/shade) (2 days ago)
-- [Docs readme banner](https://github.com/werbot/shade/pull/3) on [werbot/shade](https://github.com/werbot/shade) (2 days ago)
-- [docs: add project README and MIT license](https://github.com/werbot/shade/pull/2) on [werbot/shade](https://github.com/werbot/shade) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -35,11 +33,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) - 🧑‍🎨 A collection of Golang agentic skills that works (today)
 - [werbot/shade](https://github.com/werbot/shade) - Reversible secret redaction for LLM prompts: replace sensitive data with stable placeholders before it leaves your machine, then restore it locally in responses. AES-256-GCM encrypted SQLite, 46 built-in rules, per-project scope, and fail-closed recovery. (3 days ago)
-- [storytold/photocraft](https://github.com/storytold/photocraft) - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust (4 days ago)
+- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust (4 days ago)
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 (5 days ago)
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. (1 week ago)
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 week ago)
 
 #### 💬 Feedback
 
