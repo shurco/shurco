@@ -6,7 +6,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/shade](https://github.com/werbot/shade) - Reversible secret redaction for LLM prompts: replace sensitive data with stable placeholders before it leaves your machine, then restore it locally in responses. AES-256-GCM encrypted SQLite, 46 built-in rules, per-project scope, and fail-closed recovery. (3 days ago)
+- [werbot/shade](https://github.com/werbot/shade) - Reversible secret redaction for LLM prompts: replace sensitive data with stable placeholders before it leaves your machine, then restore it locally in responses. AES-256-GCM encrypted SQLite, 46 built-in rules, per-project scope, and fail-closed recovery. (4 days ago)
 - [shurco/mycart](https://github.com/shurco/mycart) - 🛒 myCart - shopping cart in 1 file with card and cryptocurrency payment support (1 week ago)
 - [shurco/goXero](https://github.com/shurco/goXero) - 🏦 goXero is an open accounting backend inspired by Xero and designed for developers who need control over their accounting workflows instead of depending on a hosted SaaS product. (1 month ago)
 - [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (1 month ago)
@@ -30,11 +30,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) - 🧑‍🎨 A collection of Golang agentic skills that works (2 days ago)
-- [werbot/shade](https://github.com/werbot/shade) - Reversible secret redaction for LLM prompts: replace sensitive data with stable placeholders before it leaves your machine, then restore it locally in responses. AES-256-GCM encrypted SQLite, 46 built-in rules, per-project scope, and fail-closed recovery. (5 days ago)
-- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust (6 days ago)
+- [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) - 🧑‍🎨 A collection of Golang agentic skills that works (3 days ago)
+- [werbot/shade](https://github.com/werbot/shade) - Reversible secret redaction for LLM prompts: replace sensitive data with stable placeholders before it leaves your machine, then restore it locally in responses. AES-256-GCM encrypted SQLite, 46 built-in rules, per-project scope, and fail-closed recovery. (6 days ago)
+- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust (1 week ago)
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 (1 week ago)
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. (1 week ago)
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. (2 weeks ago)
 
 #### 💬 Feedback
 
