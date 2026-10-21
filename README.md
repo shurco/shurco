@@ -22,7 +22,6 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [✨ feat: phase 5 — the web UI, Rules screen](https://github.com/werbot/shade/pull/7) on [werbot/shade](https://github.com/werbot/shade) (1 day ago)
 
 #### 📓 Gists I wrote
 
