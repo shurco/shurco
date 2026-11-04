@@ -22,10 +22,6 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [Dev artifacts layout: native local build and cleaner debug output](https://github.com/werbot/werbot/pull/438) on [werbot/werbot](https://github.com/werbot/werbot) (today)
-- [Update web and add-on submodule pointers for SvelteKit migration](https://github.com/werbot/werbot/pull/437) on [werbot/werbot](https://github.com/werbot/werbot) (today)
-- [Upgrade PostgreSQL from 16 to 18](https://github.com/werbot/werbot/pull/436) on [werbot/werbot](https://github.com/werbot/werbot) (1 day ago)
-- [Audit remediation: security hardening, add-on wiring, invite flows](https://github.com/werbot/werbot/pull/435) on [werbot/werbot](https://github.com/werbot/werbot) (1 day ago)
 
 #### 📓 Gists I wrote
 
