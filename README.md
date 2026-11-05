@@ -22,6 +22,9 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
+- [✨ feat(fixtures): add project coverage dev fixtures](https://github.com/werbot/werbot/pull/441) on [werbot/werbot](https://github.com/werbot/werbot) (today)
+- [Fix project stats showing zero and slim down project members list](https://github.com/werbot/werbot/pull/440) on [werbot/werbot](https://github.com/werbot/werbot) (today)
+- [test: decouple database tests from fixtures and seed all dev tables](https://github.com/werbot/werbot/pull/439) on [werbot/werbot](https://github.com/werbot/werbot) (today)
 
 #### 📓 Gists I wrote
 
