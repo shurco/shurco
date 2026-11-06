@@ -6,7 +6,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (today)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (1 day ago)
 - [werbot/shade](https://github.com/werbot/shade) - Reversible secret redaction for LLM prompts: replace sensitive data with stable placeholders before it leaves your machine, then restore it locally in responses. AES-256-GCM encrypted SQLite, 46 built-in rules, per-project scope, and fail-closed recovery. (2 weeks ago)
 - [shurco/mycart](https://github.com/shurco/mycart) - 🛒 myCart - shopping cart in 1 file with card and cryptocurrency payment support (1 month ago)
 - [shurco/goXero](https://github.com/shurco/goXero) - 🏦 goXero is an open accounting backend inspired by Xero and designed for developers who need control over their accounting workflows instead of depending on a hosted SaaS product. (1 month ago)
@@ -22,9 +22,9 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [✨ feat(fixtures): add project coverage dev fixtures](https://github.com/werbot/werbot/pull/441) on [werbot/werbot](https://github.com/werbot/werbot) (today)
-- [Fix project stats showing zero and slim down project members list](https://github.com/werbot/werbot/pull/440) on [werbot/werbot](https://github.com/werbot/werbot) (today)
-- [test: decouple database tests from fixtures and seed all dev tables](https://github.com/werbot/werbot/pull/439) on [werbot/werbot](https://github.com/werbot/werbot) (today)
+- [✨ feat(fixtures): add project coverage dev fixtures](https://github.com/werbot/werbot/pull/441) on [werbot/werbot](https://github.com/werbot/werbot) (1 day ago)
+- [Fix project stats showing zero and slim down project members list](https://github.com/werbot/werbot/pull/440) on [werbot/werbot](https://github.com/werbot/werbot) (1 day ago)
+- [test: decouple database tests from fixtures and seed all dev tables](https://github.com/werbot/werbot/pull/439) on [werbot/werbot](https://github.com/werbot/werbot) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -33,11 +33,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [storytold/craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own. (1 day ago)
-- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an application tracker. It helps you fill in each application; you press Submit. Runs locally in Codex, OpenCode and other AI CLIs, or as a Claude Code plugin. (1 day ago)
-- [driceroland/Search](https://github.com/driceroland/Search) - A small, fast WebKit browser for macOS, by Office Commun. (2 days ago)
-- [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) - LIST OF ALL MY JAILBREAKS (3 days ago)
-- [xiaomi-research/Xiaomi-OCR-0](https://github.com/xiaomi-research/Xiaomi-OCR-0) - Xiaomi-OCR-0 (3 days ago)
+- [storytold/craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own. (2 days ago)
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an application tracker. It helps you fill in each application; you press Submit. Runs locally in Codex, OpenCode and other AI CLIs, or as a Claude Code plugin. (2 days ago)
+- [driceroland/Search](https://github.com/driceroland/Search) - A small, fast WebKit browser for macOS, by Office Commun. (3 days ago)
+- [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) - LIST OF ALL MY JAILBREAKS (4 days ago)
+- [xiaomi-research/Xiaomi-OCR-0](https://github.com/xiaomi-research/Xiaomi-OCR-0) - Xiaomi-OCR-0 (4 days ago)
 
 #### 💬 Feedback
 
