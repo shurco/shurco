@@ -6,11 +6,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (1 day ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (today)
+- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (today)
+- [werbot/werbot.ee](https://github.com/werbot/werbot.ee) - 🏭 Werbot Enterprise functions (2 days ago)
 - [werbot/shade](https://github.com/werbot/shade) - Reversible secret redaction for LLM prompts: replace sensitive data with stable placeholders before it leaves your machine, then restore it locally in responses. AES-256-GCM encrypted SQLite, 46 built-in rules, per-project scope, and fail-closed recovery. (2 weeks ago)
 - [shurco/mycart](https://github.com/shurco/mycart) - 🛒 myCart - shopping cart in 1 file with card and cryptocurrency payment support (1 month ago)
-- [shurco/goXero](https://github.com/shurco/goXero) - 🏦 goXero is an open accounting backend inspired by Xero and designed for developers who need control over their accounting workflows instead of depending on a hosted SaaS product. (1 month ago)
-- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -22,9 +22,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [✨ feat(fixtures): add project coverage dev fixtures](https://github.com/werbot/werbot/pull/441) on [werbot/werbot](https://github.com/werbot/werbot) (1 day ago)
-- [Fix project stats showing zero and slim down project members list](https://github.com/werbot/werbot/pull/440) on [werbot/werbot](https://github.com/werbot/werbot) (1 day ago)
-- [test: decouple database tests from fixtures and seed all dev tables](https://github.com/werbot/werbot/pull/439) on [werbot/werbot](https://github.com/werbot/werbot) (1 day ago)
+- [🔧 chore(web): pin submodule to merged main tip](https://github.com/werbot/werbot/pull/447) on [werbot/werbot](https://github.com/werbot/werbot) (today)
+- [✨ feat(telnet): add proxy, listener, token API and web UI](https://github.com/werbot/werbot/pull/446) on [werbot/werbot](https://github.com/werbot/werbot) (today)
+- [✨ feat(server): add telnet UI and connect tokens](https://github.com/werbot/werbot.web/pull/279) on [werbot/werbot.web](https://github.com/werbot/werbot.web) (today)
+- [🔧 chore(submodules): reconcile pins automatically on main](https://github.com/werbot/werbot/pull/445) on [werbot/werbot](https://github.com/werbot/werbot) (today)
+- [🐛 fix(submodules): resolve URLs only for initialized modules](https://github.com/werbot/werbot/pull/444) on [werbot/werbot](https://github.com/werbot/werbot) (today)
 
 #### 📓 Gists I wrote
 
