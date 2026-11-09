@@ -6,7 +6,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/tabtool](https://github.com/shurco/tabtool) - Fast, native CSV/TSV editor for macOS and iOS, written in Swift. Auto-detects encoding and delimiter, edits tables with undo/redo, and opens multi-GB files instantly via memory-mapped large file mode. Sandboxed, no network, no analytics. (1 day ago)
+- [shurco/tabtool](https://github.com/shurco/tabtool) - Fast, native CSV/TSV editor for macOS and iOS, written in Swift. Auto-detects encoding and delimiter, edits tables with undo/redo, and opens multi-GB files instantly via memory-mapped large file mode. Sandboxed, no network, no analytics. (today)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (3 days ago)
 - [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (3 days ago)
 - [werbot/werbot.ee](https://github.com/werbot/werbot.ee) - 🏭 Werbot Enterprise functions (5 days ago)
@@ -22,10 +22,6 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [Add App Store and Mac App Store download badges to the site and README](https://github.com/shurco/tabtool/pull/5) on [shurco/tabtool](https://github.com/shurco/tabtool) (1 day ago)
-- [🔧 chore(web): pin submodule to merged main tip](https://github.com/werbot/werbot/pull/447) on [werbot/werbot](https://github.com/werbot/werbot) (3 days ago)
-- [✨ feat(telnet): add proxy, listener, token API and web UI](https://github.com/werbot/werbot/pull/446) on [werbot/werbot](https://github.com/werbot/werbot) (3 days ago)
-- [✨ feat(server): add telnet UI and connect tokens](https://github.com/werbot/werbot.web/pull/279) on [werbot/werbot.web](https://github.com/werbot/werbot.web) (3 days ago)
 
 #### 📓 Gists I wrote
 
