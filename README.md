@@ -6,9 +6,9 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/tabtool](https://github.com/shurco/tabtool) - Fast, native CSV/TSV editor for macOS and iOS, written in Swift. Auto-detects encoding and delimiter, edits tables with undo/redo, and opens multi-GB files instantly via memory-mapped large file mode. Sandboxed, no network, no analytics. (3 days ago)
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (6 days ago)
-- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (6 days ago)
+- [shurco/tabtool](https://github.com/shurco/tabtool) - Fast, native CSV/TSV editor for macOS and iOS, written in Swift. Auto-detects encoding and delimiter, edits tables with undo/redo, and opens multi-GB files instantly via memory-mapped large file mode. Sandboxed, no network, no analytics. (4 days ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (1 week ago)
+- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (1 week ago)
 - [werbot/werbot.ee](https://github.com/werbot/werbot.ee) - 🏭 Werbot Enterprise functions (1 week ago)
 - [werbot/shade](https://github.com/werbot/shade) - Reversible secret redaction for LLM prompts: replace sensitive data with stable placeholders before it leaves your machine, then restore it locally in responses. AES-256-GCM encrypted SQLite, 46 built-in rules, per-project scope, and fail-closed recovery. (3 weeks ago)
 
@@ -30,11 +30,11 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### ⭐ Recent Stars
 
-- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (1 day ago)
-- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native (1 day ago)
-- [ferdinandobons/startup-skill](https://github.com/ferdinandobons/startup-skill) - AI agent skills for startup validation, competitive intelligence, and planning (2 days ago)
-- [shurco/tabtool](https://github.com/shurco/tabtool) - Fast, native CSV/TSV editor for macOS and iOS, written in Swift. Auto-detects encoding and delimiter, edits tables with undo/redo, and opens multi-GB files instantly via memory-mapped large file mode. Sandboxed, no network, no analytics. (4 days ago)
-- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (5 days ago)
+- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (2 days ago)
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native (2 days ago)
+- [ferdinandobons/startup-skill](https://github.com/ferdinandobons/startup-skill) - AI agent skills for startup validation, competitive intelligence, and planning (3 days ago)
+- [shurco/tabtool](https://github.com/shurco/tabtool) - Fast, native CSV/TSV editor for macOS and iOS, written in Swift. Auto-detects encoding and delimiter, edits tables with undo/redo, and opens multi-GB files instantly via memory-mapped large file mode. Sandboxed, no network, no analytics. (5 days ago)
+- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (6 days ago)
 
 #### 💬 Feedback
 
