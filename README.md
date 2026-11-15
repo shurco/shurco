@@ -6,7 +6,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/tabtool](https://github.com/shurco/tabtool) - Fast, native CSV/TSV editor for macOS and iOS, written in Swift. Auto-detects encoding and delimiter, edits tables with undo/redo, and opens multi-GB files instantly via memory-mapped large file mode. Sandboxed, no network, no analytics. (6 days ago)
+- [shurco/tabtool](https://github.com/shurco/tabtool) - Fast, native CSV/TSV editor for macOS and iOS, written in Swift. Auto-detects encoding and delimiter, edits tables with undo/redo, and opens multi-GB files instantly via memory-mapped large file mode. Sandboxed, no network, no analytics. (today)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (1 week ago)
 - [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (1 week ago)
 - [werbot/werbot.ee](https://github.com/werbot/werbot.ee) - 🏭 Werbot Enterprise functions (1 week ago)
@@ -22,6 +22,10 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
+- [Offer Windows, Linux, and Android downloads on the site](https://github.com/shurco/tabtool/pull/11) on [shurco/tabtool](https://github.com/shurco/tabtool) (today)
+- [Add JSON and XML export to the Rust apps](https://github.com/shurco/tabtool/pull/10) on [shurco/tabtool](https://github.com/shurco/tabtool) (today)
+- [Add JSON and XML export formats](https://github.com/shurco/tabtool/pull/9) on [shurco/tabtool](https://github.com/shurco/tabtool) (today)
+- [Rust universal port: desktop and Android apps for Windows, Linux and Android](https://github.com/shurco/tabtool/pull/8) on [shurco/tabtool](https://github.com/shurco/tabtool) (today)
 
 #### 📓 Gists I wrote
 
