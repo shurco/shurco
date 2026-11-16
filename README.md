@@ -1,0 +1,46 @@
+### Hi there 👋
+
+![](https://github.com/shurco/shurco/raw/output/github-contribution-grid-snake.svg)
+
+I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of Werbot and NetMoth. 
+
+#### 👷 Check out what I'm currently working on
+
+- [shurco/tabtool](https://github.com/shurco/tabtool) - Fast, native CSV/TSV editor for macOS and iOS, written in Swift. Auto-detects encoding and delimiter, edits tables with undo/redo, and opens multi-GB files instantly via memory-mapped large file mode. Sandboxed, no network, no analytics. (1 day ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (1 week ago)
+- [werbot/werbot.web](https://github.com/werbot/werbot.web) - 🖥  Werbot web dashboard (1 week ago)
+- [werbot/werbot.ee](https://github.com/werbot/werbot.ee) - 🏭 Werbot Enterprise functions (1 week ago)
+- [werbot/shade](https://github.com/werbot/shade) - Reversible secret redaction for LLM prompts: replace sensitive data with stable placeholders before it leaves your machine, then restore it locally in responses. AES-256-GCM encrypted SQLite, 46 built-in rules, per-project scope, and fail-closed recovery. (3 weeks ago)
+
+#### 🌱 My latest projects
+
+- [shurco/tabtool](https://github.com/shurco/tabtool) - Fast, native CSV/TSV editor for macOS and iOS, written in Swift. Auto-detects encoding and delimiter, edits tables with undo/redo, and opens multi-GB files instantly via memory-mapped large file mode. Sandboxed, no network, no analytics.
+- [shurco/goXero](https://github.com/shurco/goXero) - 🏦 goXero is an open accounting backend inspired by Xero and designed for developers who need control over their accounting workflows instead of depending on a hosted SaaS product.
+- [shurco/goSign](https://github.com/shurco/goSign) - ✍️ Sign documents without stress
+- [shurco/mycart](https://github.com/shurco/mycart) - 🛒 myCart - shopping cart in 1 file with card and cryptocurrency payment support
+- [shurco/.github](https://github.com/shurco/.github) - ⚙️ Github repos setting
+
+#### 🔨 My recent Pull Requests
+
+- [Offer Windows, Linux, and Android downloads on the site](https://github.com/shurco/tabtool/pull/11) on [shurco/tabtool](https://github.com/shurco/tabtool) (1 day ago)
+- [Add JSON and XML export to the Rust apps](https://github.com/shurco/tabtool/pull/10) on [shurco/tabtool](https://github.com/shurco/tabtool) (1 day ago)
+- [Add JSON and XML export formats](https://github.com/shurco/tabtool/pull/9) on [shurco/tabtool](https://github.com/shurco/tabtool) (1 day ago)
+- [Rust universal port: desktop and Android apps for Windows, Linux and Android](https://github.com/shurco/tabtool/pull/8) on [shurco/tabtool](https://github.com/shurco/tabtool) (1 day ago)
+
+#### 📓 Gists I wrote
+
+- [Bash script for optimizing web images (JPEG/PNG/GIF) with smart threading, date filtering, and automatic dependency checking. Features SSD/HDD detection for optimal performance and detailed size reporting.](https://gist.github.com/84bb2012c2d4b0feddea089ba03efebd) (1 year ago)
+- [Keybase proof](https://gist.github.com/959752bb9b046d792e71ca185f48d641) (6 years ago)
+
+#### ⭐ Recent Stars
+
+- [google-research/harness2](https://github.com/google-research/harness2) -  (2 days ago)
+- [Jakubantalik/transitions.dev](https://github.com/Jakubantalik/transitions.dev) - UI motion agent, a library of 43&#43; crafted transitions, a skill that fits your workflow. (2 days ago)
+- [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping (2 days ago)
+- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (5 days ago)
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native (5 days ago)
+
+#### 💬 Feedback
+
+If you use one of my projects, I'd love to hear from you! Don't be shy and let me know what you liked
+and what needs being improved. Got an issue? Open a ticket, I don't bite and will try my best to help!
