@@ -25,7 +25,6 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 - [Offer Windows, Linux, and Android downloads on the site](https://github.com/shurco/tabtool/pull/11) on [shurco/tabtool](https://github.com/shurco/tabtool) (1 day ago)
 - [Add JSON and XML export to the Rust apps](https://github.com/shurco/tabtool/pull/10) on [shurco/tabtool](https://github.com/shurco/tabtool) (1 day ago)
 - [Add JSON and XML export formats](https://github.com/shurco/tabtool/pull/9) on [shurco/tabtool](https://github.com/shurco/tabtool) (1 day ago)
-- [Rust universal port: desktop and Android apps for Windows, Linux and Android](https://github.com/shurco/tabtool/pull/8) on [shurco/tabtool](https://github.com/shurco/tabtool) (1 day ago)
 
 #### 📓 Gists I wrote
 
