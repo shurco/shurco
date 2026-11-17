@@ -22,8 +22,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [Add security policy](https://github.com/shurco/tabtool/pull/13) on [shurco/tabtool](https://github.com/shurco/tabtool) (today)
-- [Offer Windows, Linux, and Android downloads on the site](https://github.com/shurco/tabtool/pull/11) on [shurco/tabtool](https://github.com/shurco/tabtool) (2 days ago)
+- [♻️ refactor(version): keep all app versions in app/version.json](https://github.com/shurco/tabtool/pull/14) on [shurco/tabtool](https://github.com/shurco/tabtool) (today)
 
 #### 📓 Gists I wrote
 
