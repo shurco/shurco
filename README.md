@@ -22,8 +22,6 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [Phase 2: runtime access (stages 9–16)](https://github.com/werbot/werbot/pull/449) on [werbot/werbot](https://github.com/werbot/werbot) (today)
-- [Open CSV, TSV and text files in TabTool iOS via Open With and share sheet](https://github.com/shurco/tabtool/pull/17) on [shurco/tabtool](https://github.com/shurco/tabtool) (today)
 
 #### 📓 Gists I wrote
 
