@@ -6,7 +6,7 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/tabtool](https://github.com/shurco/tabtool) - Fast, native CSV/TSV editor for macOS and iOS, written in Swift. Auto-detects encoding and delimiter, edits tables with undo/redo, and opens multi-GB files instantly via memory-mapped large file mode. Sandboxed, no network, no analytics. (1 day ago)
+- [shurco/tabtool](https://github.com/shurco/tabtool) - Fast, native CSV/TSV editor for macOS and iOS, written in Swift. Auto-detects encoding and delimiter, edits tables with undo/redo, and opens multi-GB files instantly via memory-mapped large file mode. Sandboxed, no network, no analytics. (today)
 - [shurco/mycart](https://github.com/shurco/mycart) - 🛒 myCart - shopping cart in 1 file with card and cryptocurrency payment support (1 day ago)
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (5 days ago)
 - [werbot/shade](https://github.com/werbot/shade) - Reversible secret redaction for LLM prompts: replace sensitive data with stable placeholders before it leaves your machine, then restore it locally in responses. AES-256-GCM encrypted SQLite, 46 built-in rules, per-project scope, and fail-closed recovery. (1 month ago)
@@ -22,11 +22,9 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [Add 5 GiB large-file demo video to guides and README](https://github.com/shurco/tabtool/pull/22) on [shurco/tabtool](https://github.com/shurco/tabtool) (1 day ago)
-- [Add four CSV guides and split guide data into one file per guide](https://github.com/shurco/tabtool/pull/21) on [shurco/tabtool](https://github.com/shurco/tabtool) (1 day ago)
-- [Explain on the website that saving keeps the file format](https://github.com/shurco/tabtool/pull/20) on [shurco/tabtool](https://github.com/shurco/tabtool) (1 day ago)
-- [Add guides section with large CSV on Mac guide](https://github.com/shurco/tabtool/pull/19) on [shurco/tabtool](https://github.com/shurco/tabtool) (1 day ago)
-- [Preserve line endings on save](https://github.com/shurco/tabtool/pull/18) on [shurco/tabtool](https://github.com/shurco/tabtool) (1 day ago)
+- [Add TabTool to Tools](https://github.com/secretGeek/AwesomeCSV/pull/196) on [secretGeek/AwesomeCSV](https://github.com/secretGeek/AwesomeCSV) (today)
+- [Add TabTool to Reading and Writing Tools](https://github.com/jaywcjlove/awesome-mac/pull/5021) on [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) (today)
+- [Add TabTool](https://github.com/serhii-londar/open-source-mac-os-apps/pull/2594) on [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) (today)
 
 #### 📓 Gists I wrote
 
