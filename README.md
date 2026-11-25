@@ -6,9 +6,9 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 👷 Check out what I'm currently working on
 
-- [shurco/tabtool](https://github.com/shurco/tabtool) - Free, open-source CSV/TSV editor for macOS, iOS, Windows, Linux and Android. Swift on Apple platforms, Rust elsewhere. Auto-detects encoding and delimiter, edits tables with undo/redo, opens multi-GB files via a memory-mapped index. No network, no analytics. (1 day ago)
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Open-source access gateway that authorizes every command from people and AI agents to servers and databases, records every session, and never hands out a password. Self-hosted, with SSO, MFA, just-in-time access and MCP. (today)
+- [shurco/tabtool](https://github.com/shurco/tabtool) - Free, open-source CSV/TSV editor for macOS, iOS, Windows, Linux and Android. Swift on Apple platforms, Rust elsewhere. Auto-detects encoding and delimiter, edits tables with undo/redo, opens multi-GB files via a memory-mapped index. No network, no analytics. (today)
 - [shurco/mycart](https://github.com/shurco/mycart) - 🛒 myCart - shopping cart in 1 file with card and cryptocurrency payment support (2 days ago)
-- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Team Access Sharing - a self-hosted solution with single sign-on for secure, easy shared access to servers, databases, and applications. (6 days ago)
 - [werbot/shade](https://github.com/werbot/shade) - Reversible secret redaction for LLM prompts: replace sensitive data with stable placeholders before it leaves your machine, then restore it locally in responses. AES-256-GCM encrypted SQLite, 46 built-in rules, per-project scope, and fail-closed recovery. (1 month ago)
 - [shurco/goXero](https://github.com/shurco/goXero) - 🏦 goXero is an open accounting backend inspired by Xero and designed for developers who need control over their accounting workflows instead of depending on a hosted SaaS product. (2 months ago)
 
@@ -22,9 +22,9 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [Add TabTool to Tools](https://github.com/secretGeek/AwesomeCSV/pull/196) on [secretGeek/AwesomeCSV](https://github.com/secretGeek/AwesomeCSV) (1 day ago)
-- [Add TabTool to Reading and Writing Tools](https://github.com/jaywcjlove/awesome-mac/pull/5021) on [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) (1 day ago)
-- [Add TabTool](https://github.com/serhii-londar/open-source-mac-os-apps/pull/2594) on [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) (1 day ago)
+- [📚 docs(maintainers): describe the token login and the gh-pages deploy](https://github.com/werbot/werbot/pull/451) on [werbot/werbot](https://github.com/werbot/werbot) (today)
+- [📚 docs(demo): add the v0.2.0 demo cast and the cosign 3 note](https://github.com/werbot/werbot/pull/450) on [werbot/werbot](https://github.com/werbot/werbot) (today)
+- [✨ feat(macos): remember document window size](https://github.com/shurco/tabtool/pull/26) on [shurco/tabtool](https://github.com/shurco/tabtool) (today)
 
 #### 📓 Gists I wrote
 
