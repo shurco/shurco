@@ -22,9 +22,6 @@ I'm Dmitry, an open-source enthusiast, and avid contributor. I'm the author of W
 
 #### 🔨 My recent Pull Requests
 
-- [📚 docs(maintainers): describe the token login and the gh-pages deploy](https://github.com/werbot/werbot/pull/451) on [werbot/werbot](https://github.com/werbot/werbot) (1 day ago)
-- [📚 docs(demo): add the v0.2.0 demo cast and the cosign 3 note](https://github.com/werbot/werbot/pull/450) on [werbot/werbot](https://github.com/werbot/werbot) (1 day ago)
-- [✨ feat(macos): remember document window size](https://github.com/shurco/tabtool/pull/26) on [shurco/tabtool](https://github.com/shurco/tabtool) (1 day ago)
 
 #### 📓 Gists I wrote
 
